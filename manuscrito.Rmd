@@ -8,10 +8,10 @@ output:
     template: svm-latex-ms.tex
     number_sections: true
 title: | 
-        | Título
-        | Subtítulo
-        | Subtítulo
-author:
+        | Manuscrito de Biogeografía
+        | 
+         
+author: Estudiante de Biogeografía
 - name: Nombre de el/la estudiante
   affiliation: Afiliación, normalmente algo tal que "Estudiante, Universidad Autónoma de Santo Domingo (UASD)"
 abstract: "Resumen del manuscrito"
@@ -39,7 +39,7 @@ header-includes:
 
 # Introducción
 
-\ldots
+ Un texto de prueba
 
 # Metodología
 
