@@ -39,9 +39,13 @@ header-includes:
 
 # Introducción
 
- Un texto de prueba
-
+ Así como puede estar integrada una familia convencional, también las familias de plantas presentan unos criterios de agrupación que hacen de cada grupo botánico, verdaderas unidades identificables [@@article{van2010biodiversidad].
+ 
+ Los senderos a seguir nos podrían encaminar por un sinfín de 
+rutas alternativas, según;@article{van2010biodiversidad,la flora del estado de Sonora con un área de 184934 km2, actualmente tiene 3652 taxones específicos e intraespecíficos en 188 familias y 1103 géneros. 
+La organización de las plantas en familias constituyen una respuesta específica al orden en que la ecología, como ciencia que estudia las categorías agrupacionales que presentan los organismos en sus interacciones [@book{margalef1977ecologia].
 # Metodología
+
 
 \ldots
 
