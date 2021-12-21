@@ -6,61 +6,61 @@
 #' ---
 
 #' ### Área de cargar paquetes
-biblioteca(vegano)
-biblioteca(tidyverse)
-biblioteca(sf)
-source('biodata/funciones. R' )
+library(vegan)
+library(tidyverse)
+library(sf)
+source('biodata/funciones.R' )
 
 #' ### Área de cargar datos
 #' Censo (el objeto se carga con prefijo "censo") y matriz de comunidad (prefijo "mc")
-load('biodata/Apocynaceae-Meliaceae-Sapotaceae.Rdata' )
-load('biodata/matriz_ambiental. Rdata')  #Matriz ambiental, se carga como "bci_env_grid"
+load("~/unidad-0-asignacion-99-mi-manuscrito-GeografosigloXXV/biodata/Moraceae.Rdata")
+load('biodata/matriz_ambiental.Rdata') #Matriz ambiental, se carga como "bci_env_grid"
 
-#' ### Imprimir datos en pantalla (impresiones parciales con head)
-cabeza(censo_apcyn_melic_saptc)
-cabeza(mc_apcyn_melic_saptc)
-bci_env_grid  # No necesita imprimirse parcialmente
+#'### Imprimir datos en pantalla (impresiones parciales con head)
+head(censo_morac)
+head(mc_morac)
+bci_env_grid # No necesita imprimirse parcialment
 
 #' ### También podemos usar
 #' Requiere que se haya cargado ya la colección tidyverse
-censo_apcyn_melic_saptc %>% tibble
-mc_apcyn_melic_saptc %>% tibble
+censo_morac %>% tibble
+mc_morac %>% tibble
 
 #' ### Lista de especies
-sort(colnames(mc_apcyn_melic_saptc))
+sort(colnames(mc_morac))
 
 #' ### Número de sitios, tanto en matriz de comunidad como en ambiental
 #' Verifica que coinciden
-nrow(mc_apcyn_melic_saptc)  #En la matriz de comunidad
-nrow(bci_env_grid)  #En la matriz ambiental
+nrow(mc_morac) #En la matriz de comunidad
+nrow(bci_env_grid) #En la matriz ambiental
 
 #' ### Riqueza numérica de especies (usando matriz de comunidad) por quadrat
 #'Nota: cargar paquete vegan arriba, en el área de paquetes
-specnumber(mc_apcyn_melic_saptc)
+specnumber(mc_morac)
 sort(specnumber(mc_apcyn_melic_saptc))  # Ordenados ascendentemente
-summary(specnumber(mc_apcyn_melic_saptc))  # Resumen estadístico
+summary(specnumber(mc_morac))  # Resumen estadístico
 
 #' ### Abundancia de especies por quadrat
-sort(rowSums mc_apcyn_melic_saptc))
-summary(rowSums(mc_apcyn_melic_saptc))  # Resumen estadístico
+sort(rowSums(mc_morac))
+summary(rowSums(mc_morac))# Resumen estadístico
 
 #' ### Abundancia por especie
-sort(colSums(mc_apcyn_melic_saptc))
-summary(colSums(mc_apcyn_melic_saptc))  # Resumen estadístico
+sort(colSums(mc_morac))
+summary(colSums(mc_morac))# Resumen estadístico
 
 #' ### Riqueza numérica de toda la "comunidad"
-specnumber(colSums(mc_apcyn_melic_saptc))
+specnumber(colSums(mc_morac))
 
 #' ### Abundancia de toda la comunidad
-sum(colSums(mc_apcyn_melic_saptc))
+sum(colSums(mc_morac))
 
 #' ### Una tabla para el manuscrito, es necesario asignarle nombre
 #' Para esto, usaré la colección "tidyverse"
-abun_sp <- censo_apcyn_melic_saptc %>%
-  group_by(Latín) %>% 
-  conteo() %>% 
-  arregl(desc(n))
-abun_sp
+abun_sp <- (censo_morac) %>%
+  group_by(Latin) %>% 
+  count() %>% 
+  arrange(desc(n))
+ abun_sp
 
 #' ### Un gráfico para el manuscrito
 #' Gráfico de mosaicos de la abundancia por especie por cuadros
