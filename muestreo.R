@@ -15,12 +15,12 @@ library(sf)
 
 #' ## Lectura de datos fuente, generación de ráster simplicado
 #' Tree cover, from here: http://earthenginepartners.appspot.com/google.com/science-2013-global-forest
-# r <- raster('treecover2000_crop.tif')
+# r <- raster(treecover2000_crop.tif)
 # r2 <- raster::aggregate(r, 20)
-# r2
+# 
 # writeRaster(r2, 'treecover2000_remuestreado.tif')
 
-#' ## Lectura de datos procesados (ráster simplificado)
+#' ## Lectura de datos procesados (raster simplificado)
 r2 <- raster(x = 'treecover2000_remuestreado.tif')
 
 #' ## Mapa (exploratorio)

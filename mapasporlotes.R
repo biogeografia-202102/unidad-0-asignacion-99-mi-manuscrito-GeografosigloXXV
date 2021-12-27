@@ -39,12 +39,12 @@ mapas_var_amb_num_gg <- bci_env_grid %>%
     id = rep(1:50)) %>% 
   ggplot +
   aes(geometry = geometry, fill = valor) +
-  theme(axis.text = element_blank) +
+  theme(axis.text = element_blank()) +
   geom_sf(lwd = 0.1, color = 'grey50', alpha = 0.8) + coord_sf() +
   scale_fill_gradientn(colours = brewer.pal(11, 'BrBG')) +
   geom_sf_text(aes(label = id, color = between(valor, 0.3, 0.7)), size = 1.75) +
   scale_color_manual(guide = FALSE, values = c("white", "black")) +
-  facet_wrap('~ variable, ncol = 6') + 
+  facet_wrap(~variable, ncol = 6)+ 
   ggtitle('Cuadros de 1 Ha de BCI. Variables ambientales numéricas escaladas de 0 a 1')
 mapas_var_amb_num_gg
 #'

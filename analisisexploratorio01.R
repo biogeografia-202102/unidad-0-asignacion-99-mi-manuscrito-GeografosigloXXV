@@ -1,6 +1,6 @@
 #' ---
-#' title: "Análisis exploratorio de datos. Colección tidyverse"
-#' author: "JR"
+#' title:"Análisis exploratorio de datos. Colección tidyverse"
+#' author:"JR"
 #' date: "18 de octubre, 2020"
 #' output: github_document
 #' ---
@@ -15,9 +15,9 @@
 #' 
 #' > La idea del *pipe* pertenece a la tradición de sistemas tipo Unix y, en origen, su función era comunicar distintos procesos, usando la salida estándar de uno (*stdout*) como entrada estándar (*stdin*) del siguiente.
 #' 
-#' Su ventaja radica en que, si necesitaras continuar procesando los datos, no tendrás que anidar ni crear objetos intermedios. En el siguiente ejemplo, asigno el resultado de una cadena al objeto nombrado `resultado`:
+#' 'Su ventaja radica en que, si necesitaras continuar procesando los datos, no tendrás que anidar ni crear objetos intermedios. En el siguiente ejemplo, asigno el resultado de una cadena al objeto nombrado resultado'
 #' 
-#' `resultado <- objeto1 %>% funcion1() %>% funcion2() %>% funcion3()`
+#' 'resultado <- objeto1 %>% funcion1() %>% funcion2() %>% funcion3()'
 #' 
 #' Puedes leer lo anterior como *"objeto1 pasa como primer argumento de funcion1, **luego** el resultado de funcion1 pasa como primer argumento de funcion2, **luego** el resultado de funcion2 pasa como primer argumento de funcion3*.
 #' 
@@ -29,13 +29,13 @@
 #' 
 #' Opción 2, crear objetos intermedios:
 #' 
-#' `tmp1 <- funcion1(objeto1)`
-#' `tmp2 <- funcion2(tmp1)`
-#' `resultado <- funcion3(tmp2)`
+#' 'tmp1 <- funcion1(objeto1)'
+#' 'tmp2 <- funcion2(tmp1)'
+#' 'resultado <- funcion3(tmp2)'
 #' 
 #' Notarás que, comparada con estas dos últimas opciones, la tubería es más limpia que estas dos últimas opciones. La tubería puedes leerla de forma encandenada, a diferencia del estilo anidado y de creación de objetos intermedios, que añade una cierta complejidad de lectura para el usuario/a, sobre todo para personas sin conocimientos de programación. Precisamente por esta razón fue que decidí introducir la colección tidyverse, para así mostrarte algunas ideas que podrás aplicar a tus datos y, en principio, para facilitarte la vida ("*no me ayude' tali*"). Ahora bien, si decides programar en R más adelante, deberás aprender las capacidades de programación orientada a objetos y programación funcional de R.
 #' 
-#' ¡Comencemos!
+#' Comencemos
 #' 
 #' ## Paquetes
 #' 
@@ -46,8 +46,8 @@ library(sf)
 #' 
 #' ## Cargar datos
 #' 
+load("~/unidad-0-asignacion-99-mi-manuscrito-GeografosigloXXV/biodata/Moraceae.Rdata")
 load('biodata/matriz_ambiental.Rdata')
-load('biodata/Apocynaceae-Meliaceae-Sapotaceae.Rdata')
 #'  
 #' ## Paquete `dplyr`
 #' 

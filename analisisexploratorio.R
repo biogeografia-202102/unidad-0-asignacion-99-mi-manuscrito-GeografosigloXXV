@@ -1,5 +1,5 @@
 #' ---
-#' título: "Análisis exploratorio de datos. Riqueza y abundancia"
+#' título: 'Análisis exploratorio de datos. Riqueza y abundancia'
 #' autor: "JR"
 #'fecha: "13 de octubre, 2020"
 #' salida: github_document
@@ -52,7 +52,7 @@ summary(colSums(mc_morac))# Resumen estadístico
 specnumber(colSums(mc_morac))
 
 #' ### Abundancia de toda la comunidad
-sum(colSums(mc_morac))
+sum(colSums(mc_morac)
 
 #' ### Una tabla para el manuscrito, es necesario asignarle nombre
 #' Para esto, usaré la colección "tidyverse"

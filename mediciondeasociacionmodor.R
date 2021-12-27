@@ -20,8 +20,8 @@ source('biodata/funciones.R')
 
 #' ### Cargar datos
 #' 
-load('biodata/matriz_ambiental.Rdata')
-load('biodata/Apocynaceae-Meliaceae-Sapotaceae.Rdata')
+load("~/unidad-0-asignacion-99-mi-manuscrito-GeografosigloXXV/biodata/Moraceae.Rdata")
+load('biodata/Moraceae.Rdata')
 #'
 #' ## Modo R: matrices de dependencia entre variables (índice de correlación)
 #' 

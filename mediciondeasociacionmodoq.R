@@ -21,8 +21,8 @@ source('biodata/funciones.R')
 
 #' ### Cargar datos
 #' 
-load('biodata/matriz_ambiental.Rdata')
-load('biodata/Apocynaceae-Meliaceae-Sapotaceae.Rdata')
+load("~/unidad-0-asignacion-99-mi-manuscrito-GeografosigloXXV/biodata/Moraceae.Rdata")
+load('biodata/Moraceae.Rdata')
 #' 
 #' ## Modo Q: matrices de disimilaridad entre objetos
 #' 
@@ -30,7 +30,7 @@ load('biodata/Apocynaceae-Meliaceae-Sapotaceae.Rdata')
 #' 
 #' Aplicado a mi familia asignada de BCI, en la forma de matriz de distancia euclídea, utilizando la transformación *Hellinger*:
 #' 
-mi_fam_d_hel <- dist.ldc(mc_apcyn_melic_saptc, "hellinger", silent = T)
+mi_fam_d_hel <- dist.ldc(mc_morac, "hellinger", silent = T)
 mi_fam_d_hel %>% tidy # Para evitar desbordar la consola
 #' 
 #' Para interpretar esta matriz, es necesario representarla gráficamente. En la representación elegida a continuación, color fucsia (magenta, rosa) significa "corta distancia=muy similares", y cian (celeste) significa "gran distancia=poco similares":
@@ -87,7 +87,7 @@ coldiss(mi_fam_jac, diag = T)
 #' 
 #' Como la distancia de Jaccard (**D<sub>J</sub>**) es el complemento a 1 de la similaridad de Jaccard (**S<sub>J</sub>**), es decir, **D<sub>J</sub>=1-S<sub>J</sub>**, y dado que arriba calculamos la distancia, para obtener la similaridad, sólo hay que restarle el valor de distancia a 1 (**S<sub>J</sub>=1-D<sub>J</sub>**).
 #' 
-(1 - mi_fam_jac) %>% tidy %>% rename(similaridad=distance) #Similaridad
+(1 - mi_fam_jac) %>% tidy %>% rename (similaridad=distance) #Similaridad
 #'
 #' Dado que este resultado muestra la similaridad, podemos leerlo como "el sitio 1 y el 2 comparten un 91.67% de sus especies".
 #' 

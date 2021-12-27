@@ -13,8 +13,8 @@ library(sf)
 library(RColorBrewer)
 
 #' ### Cargar datos
-load('biodata/matriz_ambiental.Rdata')
-load('biodata/Apocynaceae-Meliaceae-Sapotaceae.Rdata')
+load("~/unidad-0-asignacion-99-mi-manuscrito-GeografosigloXXV/biodata/Moraceae.Rdata")
+load('biodata/Moraceae.Rdata')
 
 #' ### Explorar el objeto de matriz ambiental
 bci_env_grid
