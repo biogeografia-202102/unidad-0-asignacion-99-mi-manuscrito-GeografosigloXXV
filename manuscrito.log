@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.17)  24 DEC 2021 10:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.17)  27 DEC 2021 11:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -594,6 +594,12 @@ LaTeX Warning: Label `fig:bci_map' multiply defined.
 
 LaTeX Warning: Label `fig:bci_map' multiply defined.
 
+
+LaTeX Warning: Label `fig:bci_map' multiply defined.
+
+
+LaTeX Warning: Label `fig:bci_map' multiply defined.
+
 )
 \openout1 = `manuscrito.aux'.
 
@@ -858,91 +864,116 @@ l.621
 File: matriz_disimilaridad_hellinger.png Graphic file (type png)
 <use matriz_disimilaridad_hellinger.png>
 Package pdftex.def Info: matriz_disimilaridad_hellinger.png  used on input line
- 631.
+ 635.
 (pdftex.def)             Requested size: 469.73474pt x 234.86737pt.
+<matrizdedisimilaridad.png, id=113, 541.27219pt x 319.94531pt>
+File: matrizdedisimilaridad.png Graphic file (type png)
+<use matrizdedisimilaridad.png>
+Package pdftex.def Info: matrizdedisimilaridad.png  used on input line 658.
+(pdftex.def)             Requested size: 469.7715pt x 277.68134pt.
 [13pdfTeX warning (ext4): destination with the same identifier (name{figure.10}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.724 
-       <./matriz_disimilaridad_hellinger.png (PNG copy)>] [14]
-File: mapa_cuadros.png Graphic file (type png)
-<use mapa_cuadros.png>
-Package pdftex.def Info: mapa_cuadros.png  used on input line 729.
-(pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
-File: mapa_cuadros_ph.png Graphic file (type png)
-<use mapa_cuadros_ph.png>
-Package pdftex.def Info: mapa_cuadros_ph.png  used on input line 735.
-(pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
-[15pdfTeX warning (ext4): destination with the same identifier (name{figure.11}
+l.662 
+       <./matriz_disimilaridad_hellinger.png (PNG copy)>]
+<mapadecalor.png, id=120, 541.27219pt x 320.69812pt>
+File: mapadecalor.png Graphic file (type png)
+<use mapadecalor.png>
+Package pdftex.def Info: mapadecalor.png  used on input line 678.
+(pdftex.def)             Requested size: 469.7715pt x 278.3347pt.
+[14pdfTeX warning (ext4): destination with the same identifier (name{figure.11}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.738 
+l.682 
+       <./matrizdedisimilaridad.png (PNG copy)>] [15pdfTeX warning (ext4): dest
+ination with the same identifier (name{figure.12}) has been already used, dupli
+cate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.719 
+       <./mapadecalor.png (PNG copy)>]
+File: mapa_cuadros.png Graphic file (type png)
+<use mapa_cuadros.png>
+Package pdftex.def Info: mapa_cuadros.png  used on input line 786.
+(pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
+[16]
+File: mapa_cuadros_ph.png Graphic file (type png)
+<use mapa_cuadros_ph.png>
+Package pdftex.def Info: mapa_cuadros_ph.png  used on input line 792.
+(pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
+[17pdfTeX warning (ext4): destination with the same identifier (name{figure.13}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.795 
       ]
 File: mapa_cuadros_abun_global.png Graphic file (type png)
 <use mapa_cuadros_abun_global.png>
-Package pdftex.def Info: mapa_cuadros_abun_global.png  used on input line 739.
+Package pdftex.def Info: mapa_cuadros_abun_global.png  used on input line 796.
 (pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
 File: mapa_cuadros_pendiente.png Graphic file (type png)
 <use mapa_cuadros_pendiente.png>
-Package pdftex.def Info: mapa_cuadros_pendiente.png  used on input line 740.
+Package pdftex.def Info: mapa_cuadros_pendiente.png  used on input line 797.
 (pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
 File: mapa_cuadros_riq_global.png Graphic file (type png)
 <use mapa_cuadros_riq_global.png>
-Package pdftex.def Info: mapa_cuadros_riq_global.png  used on input line 741.
+Package pdftex.def Info: mapa_cuadros_riq_global.png  used on input line 798.
 (pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
 
-Overfull \hbox (17.01108pt too wide) in paragraph at lines 739--742
+Overfull \hbox (17.01108pt too wide) in paragraph at lines 796--799
 [][]
  []
 
-[16pdfTeX warning (ext4): destination with the same identifier (name{figure.12}
+[18pdfTeX warning (ext4): destination with the same identifier (name{figure.14}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.742 
+l.799 
       ]
 Overfull \vbox (70.37288pt too high) has occurred while \output is active []
 
-[17]
+[19]
 File: mapas_variables_ambientales_numericas.png Graphic file (type png)
 <use mapas_variables_ambientales_numericas.png>
 Package pdftex.def Info: mapas_variables_ambientales_numericas.png  used on inp
-ut line 743.
+ut line 800.
 (pdftex.def)             Requested size: 469.76855pt x 298.44118pt.
 File: mapas_variables_ambientales_nominales_tmap.png Graphic file (type png)
 <use mapas_variables_ambientales_nominales_tmap.png>
 Package pdftex.def Info: mapas_variables_ambientales_nominales_tmap.png  used o
-n input line 744.
+n input line 801.
 (pdftex.def)             Requested size: 412.97041pt x 247.78224pt.
 File: mapa_cuadros_riq_mi_familia.png Graphic file (type png)
 <use mapa_cuadros_riq_mi_familia.png>
-Package pdftex.def Info: mapa_cuadros_riq_mi_familia.png  used on input line 74
-5.
+Package pdftex.def Info: mapa_cuadros_riq_mi_familia.png  used on input line 80
+2.
 (pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
 
-Overfull \hbox (17.01353pt too wide) in paragraph at lines 743--746
+Overfull \hbox (17.01353pt too wide) in paragraph at lines 800--803
 [][]
  []
 
 
-Overfull \hbox (415.062pt too wide) in paragraph at lines 743--746
+Overfull \hbox (415.062pt too wide) in paragraph at lines 800--803
 [] [] 
  []
 
-[18] [19]
-LaTeX Font Info:    Font shape `T1/ppl/bx/it' in size <10.95> not available
-(Font)              Font shape `T1/ppl/b/it' tried instead on input line 748.
 [20] [21]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 804.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 804.
+LaTeX Font Info:    Font shape `T1/ppl/bx/it' in size <10.95> not available
+(Font)              Font shape `T1/ppl/b/it' tried instead on input line 805.
+[22] [23]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 861.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 861.
 (./manuscrito.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 804.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 804.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 861.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 861.
 Package rerunfilecheck Info: File `manuscrito.out' has not changed.
 (rerunfilecheck)             Checksum: 1E7AD97BEC0366BEE9D46068C3E1F778;792.
 
@@ -951,13 +982,13 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 804.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 861.
  ) 
 Here is how much of TeX's memory you used:
- 10214 strings out of 492982
- 143513 string characters out of 6134896
- 226048 words of memory out of 5000000
- 13606 multiletter control sequences out of 15000+600000
+ 10226 strings out of 492982
+ 143751 string characters out of 6134896
+ 223048 words of memory out of 5000000
+ 13614 multiletter control sequences out of 15000+600000
  25382 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  36i,6n,31p,274b,328s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -967,10 +998,10 @@ f-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts
 /type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/p
 alatino/uplbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/upl
 r8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on manuscrito.pdf (21 pages, 3246367 bytes).
+Output written on manuscrito.pdf (23 pages, 3492607 bytes).
 PDF statistics:
- 201 PDF objects out of 1000 (max. 8388607)
- 153 compressed objects within 2 object streams
- 49 named destinations out of 1000 (max. 500000)
- 107 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 213 PDF objects out of 1000 (max. 8388607)
+ 161 compressed objects within 2 object streams
+ 53 named destinations out of 1000 (max. 500000)
+ 117 words of extra memory for PDF output out of 10000 (max. 10000000)
 
