@@ -146,10 +146,16 @@ A continuación presento una versión mejorada de la matríz ordenada de datos c
 
 En esta matriz de disimilaridad o de distancia vienen a recrearse los anteriores casos de abundancia de los mapas de la Isla de Barro Colorado. En la diagonal se pueden apreciar los sitios que poseen características similares con la menor distancia(color rosado), mientras que en los demás lugares se aprecian lugares con características similares a mayor distancia y con una menor asociación (color cian o celeste).
 Hasta el momento me he centrado en el modo Q que mide el nivel de asociación por medio de la disimilaridad o similiridad.
-Algo sumamente importante dentro del modo Q es la famosa distancia de Jaccard, la misma se puede expresar como la proporción de especies no compartidas. Para el caso correspondinte de los datos de moraceae, la distancia (dbl) muestra los siguientes resultados para algunos sitios: Entre 2 y 1, la distancia es de 0.22, para 3 y 1 es de 0.33, entre 4 y 1 es de 0.222, para 5 y 1 es de 0.3, para 6 y 1 es de 0.333, para 7 y 1 es de 0.222, para 8 y 1 es de 0.333, para 9 y 1 es de 0.333, para 10 y 1 es de 0.4, y para 11 y 1 es de 0.333, evidenciando en este caso una fuerte asociación. 
+Algo sumamente importante dentro del modo Q, en este caso basándome en datos binarios (presencia/ausencia) es la famosa distancia de Jaccard, la misma se puede expresar como la proporción de especies no compartidas. Para el caso correspondinte de los datos de moraceae, la distancia (dbl) muestra los siguientes resultados para algunos sitios: Entre 2 y 1, la distancia es de 0.22, para 3 y 1 es de 0.33, entre 4 y 1 es de 0.222, para 5 y 1 es de 0.3, para 6 y 1 es de 0.333, para 7 y 1 es de 0.222, para 8 y 1 es de 0.333, para 9 y 1 es de 0.333, para 10 y 1 es de 0.4, y para 11 y 1 es de 0.333, evidenciando en este caso una fuerte asociación.
+
+La similaridad es la proporción de datos compartiods entre sitios, en la siguiente gráfica de la matriz pueden apreciarse las espcecies compartidas entre sitios.
+
+![mapa de la Isla Barro Colorado matriz disimilaridad  \label{fig:bci_map}](matriz_similaridad.png){width=100%}
+
+Puede apreciarse en los bloques de colores las especies compartidas entre sitios, y que son exclusivas de dichos sitios. Por ejemplo para las variables a b y c, que se desprenden de la fómula de la similaridad, donde a representa el número de especies compartidas, b es el número de especies exclusivas del sitio 2 y c el numero de especies exclusivas del sitio 1.
 
 
-En el modo R se mide la asociación entre pares descriptores, es decir variables o especies, mediante la covarianza y la correlación.
+En el modo R se mide la asociación entre pares descriptores, es decir variables o especies, mediante la covarianza y la correlación. Por ejemplo para las variables a b y c, que se desprenden de la fómula de la similaridad, donde a representa el número de especies compartidas, b es el número de especies exclusivas del sitio 2 y c el numero de especies exclusivas del sitio 1.
 
 Un ejemplo ilustrativo sería el mapa de calor
 

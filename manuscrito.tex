@@ -621,14 +621,12 @@ global, entre otras variables.
 
 En esta parte se aborda lo que es la medición de asociación, tomando en
 cuenta lo que son los valores de disimilaridad o distancia, así como las
-matríces de correlación.
-
-Dentro de los modelos de medición de asociación existen los modos Q y R,
-en este caso de la distancia o disimilaridad, tenemos el modo Q que
-describe la distancia entre objetos cuantitativos. La paradoja de Orlóci
-plantea que la distancia euclidea es más pequeña entre sitios que no
-comparten especies que entre sitios que sí las comparten. A continuación
-se presenta una matríz de disimilaridad.
+matríces de correlación. Dentro de los modelos de medición de asociación
+existen los modos Q y R, en este caso de la distancia o disimilaridad,
+tenemos el modo Q que describe la distancia entre objetos cuantitativos.
+La paradoja de Orlóci plantea que la distancia euclidea es más pequeña
+entre sitios que no comparten especies que entre sitios que sí las
+comparten. A continuación se presenta una matríz de disimilaridad.
 
 \begin{figure}
 \centering
@@ -648,9 +646,17 @@ matriz ordenada. La transformación Hellinger permite hacer la
 interpretación en base a dos colores representativos: Color fucsia
 (magneta, rosa) que equivale a corta distancia, muy similar, y el cian o
 celeste que significa gran distancia o poco similar, todo esto con
-relación a los elementos de la familia de las moraceae.
+relación a los elementos de la familia de las moraceae. Algunos de los
+valores de disimilaridad o de distancia entre objetos que podemos
+apreciar dentro de la transformación Hellinger son los siguientes: Entre
+los sitios 2 y 1, tenemos que la distancia (dbl) es de 0.187, entre 3 y
+1 es de 0.439, entre 4 y 1 es de 0.499, entre 5 y 1 es de 0.430, entre 6
+y 1 de 0.297, entre 7 y 1 es de 0.280, entre 8 y 1 es de 0.492, entre 9
+y 1 es de 0.584, entre 10 y 1 es de 0.425, y entre 11 y 1 es de 0.269 lo
+que revela una escasa distancia o disimilaridad entre los objetos.
 
-A continuación presento una matríz ordenada con fuerte asociación en la
+A continuación presento una versión mejorada de la matríz ordenada de
+datos cuantitativos de especies (abundancia) con fuerte asociación en la
 diagonal.
 
 \begin{figure}
@@ -667,9 +673,42 @@ características similares con la menor distancia(color rosado), mientras
 que en los demás lugares se aprecian lugares con características
 similares a mayor distancia y con una menor asociación (color cian o
 celeste). Hasta el momento me he centrado en el modo Q que mide el nivel
-de asociación por medio de la disimilaridad o similiridad. En el modo R
-se mide la asociación entre pares descriptores, es decir variables o
-especies, mediante la covarianza y la correlación.
+de asociación por medio de la disimilaridad o similiridad. Algo
+sumamente importante dentro del modo Q, en este caso basándome en datos
+binarios (presencia/ausencia) es la famosa distancia de Jaccard, la
+misma se puede expresar como la proporción de especies no compartidas.
+Para el caso correspondinte de los datos de moraceae, la distancia (dbl)
+muestra los siguientes resultados para algunos sitios: Entre 2 y 1, la
+distancia es de 0.22, para 3 y 1 es de 0.33, entre 4 y 1 es de 0.222,
+para 5 y 1 es de 0.3, para 6 y 1 es de 0.333, para 7 y 1 es de 0.222,
+para 8 y 1 es de 0.333, para 9 y 1 es de 0.333, para 10 y 1 es de 0.4, y
+para 11 y 1 es de 0.333, evidenciando en este caso una fuerte
+asociación.
+
+La similaridad es la proporción de datos compartiods entre sitios, en la
+siguiente gráfica de la matriz pueden apreciarse las espcecies
+compartidas entre sitios.
+
+\begin{figure}
+\centering
+\includegraphics[width=1.00000\textwidth]{matriz_similaridad.png}
+\caption{mapa de la Isla Barro Colorado matriz disimilaridad
+\label{fig:bci_map}}
+\end{figure}
+
+Puede apreciarse en los bloques de colores las especies compartidas
+entre sitios, y que son exclusivas de dichos sitios. Por ejemplo para
+las variables a b y c, que se desprenden de la fómula de la similaridad,
+donde a representa el número de especies compartidas, b es el número de
+especies exclusivas del sitio 2 y c el numero de especies exclusivas del
+sitio 1.
+
+En el modo R se mide la asociación entre pares descriptores, es decir
+variables o especies, mediante la covarianza y la correlación. Por
+ejemplo para las variables a b y c, que se desprenden de la fómula de la
+similaridad, donde a representa el número de especies compartidas, b es
+el número de especies exclusivas del sitio 2 y c el numero de especies
+exclusivas del sitio 1.
 
 Un ejemplo ilustrativo sería el mapa de calor
 
@@ -679,6 +718,13 @@ Un ejemplo ilustrativo sería el mapa de calor
 \caption{mapa de la Isla Barro Colorado mapa de calor
 \label{fig:bci_map}}
 \end{figure}
+
+En el mapa de calor mostrado se muestra una relación de dependencia en
+la diagonal de la derecha, esto es lo que se mide en el modo R, la
+asociación entre elementos descriptores, en este caso la abundancia de
+especies como variables. Entre la cainito aspidosperma y la trichinia
+tuberculata se nota una fuerte dependencia, evidenciado por la
+continuidad del color fucsia o rosa.
 
 \section{Discusión}\label{discusiuxf3n}
 
@@ -753,31 +799,37 @@ en un mural en el que no sale el sol, en el que no existe el dinamismo.
 Pero no dejemos esto en manos de la pobalción, cedamos un poco a los
 sistemas de gobierno que son los que generan los programas de educación,
 y en ellos dejan cada vez menos espacio a la ciencia, una especie de
-neocolonialismo. Existen muchos lugares en el Mar Caribe que como BCI,
-pueden ser grandes laboratorios, a partir de los cuales se pueda hacer
-ciencia, producir material científico de utilidad, pero la dependencia
-es peor que el analfabetismo. Por ello tal val tenemos una ciencia
-estacionaria, incapáz de dar el santo de la libertad. En nuestro
-territorio, la República Dominicana, han existido personajes que se han
-destacado en la ciencia, pero siempre serán dominicnaos. Y se espera que
-el caudal de inforamción que se generan en las investigaciones alcance a
-estos lugares, porque la ciencia genera identidad a los lugares y los
-hace crecer. BCI, tiene algo más de 100 años, pero Panamá como nación es
-más vieja, y no es mi incumbencia el tema político, ni de este artículo.
-Pero hago la aclaración porque entiendo que se puede crecer en la
-ciencia, siempre dejando claro que cada pueblo tiene contextos distintos
-y que el error siempre será tratar de copiar. Este ha sido un trabajo en
-virtud del interés biológico, y geográfico. Esperando que sea del agrado
-de quienes puedan leerlo. \# Agradecimientos Quiero dedicar todo mi
-agradecimiento, primero a Dios porque es quien hace posible todas las
-cosas, luego al maestro José Ramón Martínez Batlle, maestro de la
-escuela de ciencias geográficas en la facultad ciencias de la
-Universidad Autónoma de Santo Domingo, en las áreas de biogeografía,
-geomorfología, y anteriormente de geología por enrutarnos en este mar de
-investigación que siempre termina arrojando cosas nuevas. Por último a
-mis compañeros de carrera, Carolain Pérez Ureña, Ana Hilda Valera,
-Darihanna Linares y Wilson Robles Rosario, sin ellos esto no habría sido
-posible, muchas gracias.
+neocolonialismo.
+
+Existen muchos lugares en el Mar Caribe que como BCI, pueden ser grandes
+laboratorios, a partir de los cuales se pueda hacer ciencia, producir
+material científico de utilidad, pero la dependencia es peor que el
+analfabetismo. Por ello tal val tenemos una ciencia estacionaria,
+incapáz de dar el santo de la libertad. En nuestro territorio, la
+República Dominicana, han existido personajes que se han destacado en la
+ciencia, pero siempre serán dominicnaos.
+
+Y se espera que el caudal de inforamción que se generan en las
+investigaciones alcance a estos lugares, porque la ciencia genera
+identidad a los lugares y los hace crecer. BCI, tiene algo más de 100
+años, pero Panamá como nación es más vieja, y no es mi incumbencia el
+tema político, ni de este artículo. Pero hago la aclaración porque
+entiendo que se puede crecer en la ciencia, siempre dejando claro que
+cada pueblo tiene contextos distintos y que el error siempre será tratar
+de copiar. Este ha sido un trabajo en virtud del interés biológico, y
+geográfico. Esperando que sea del agrado de quienes puedan leerlo.
+
+\section{Agradecimientos}\label{agradecimientos}
+
+Quiero dedicar todo mi agradecimiento, primero a Dios porque es quien
+hace posible todas las cosas, luego al maestro José Ramón Martínez
+Batlle, maestro de la escuela de ciencias geográficas en la facultad
+ciencias de la Universidad Autónoma de Santo Domingo, en las áreas de
+biogeografía, geomorfología, y anteriormente de geología por enrutarnos
+en este mar de investigación que siempre termina arrojando cosas nuevas.
+Por último a mis compañeros de carrera, Carolain Pérez Ureña, Ana Hilda
+Valera, Darihanna Linares y Wilson Robles Rosario, sin ellos esto no
+habría sido posible, muchas gracias.
 
 \section{Información de soporte}\label{informaciuxf3n-de-soporte}
 
