@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.17)  28 DEC 2021 12:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.17)  29 DEC 2021 12:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -594,15 +594,6 @@ LaTeX Warning: Label `fig:bci_map' multiply defined.
 
 LaTeX Warning: Label `fig:bci_map' multiply defined.
 
-
-LaTeX Warning: Label `fig:bci_map' multiply defined.
-
-
-LaTeX Warning: Label `fig:bci_map' multiply defined.
-
-
-LaTeX Warning: Label `fig:bci_map' multiply defined.
-
 )
 \openout1 = `manuscrito.aux'.
 
@@ -722,7 +713,7 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
 LaTeX Warning: Reference `fig:bci_map ##1' on page 3 undefined on input line 31
 4.
 
-<mapa_cuadros.png, id=48, 995.72pt x 762.85pt>
+<mapa_cuadros.png, id=29, 995.72pt x 762.85pt>
 File: mapa_cuadros.png Graphic file (type png)
 <use mapa_cuadros.png>
 Package pdftex.def Info: mapa_cuadros.png  used on input line 318.
@@ -734,57 +725,57 @@ has been already used, duplicate ignored
                                                   \fi \fi 
 l.343 
        <./mapa_cuadros.png>]
-<mapa_cuadros_ph.png, id=56, 995.72pt x 762.85pt>
+<mapa_cuadros_ph.png, id=37, 995.72pt x 762.85pt>
 File: mapa_cuadros_ph.png Graphic file (type png)
 <use mapa_cuadros_ph.png>
-Package pdftex.def Info: mapa_cuadros_ph.png  used on input line 362.
+Package pdftex.def Info: mapa_cuadros_ph.png  used on input line 374.
 (pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
 [4] [5pdfTeX warning (ext4): destination with the same identifier (name{figure.
 2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.397 
+l.409 
        <./mapa_cuadros_ph.png>]
-<mapa_cuadros_abun_global.png, id=67, 995.72pt x 762.85pt>
+<mapa_cuadros_abun_global.png, id=48, 995.72pt x 762.85pt>
 File: mapa_cuadros_abun_global.png Graphic file (type png)
 <use mapa_cuadros_abun_global.png>
-Package pdftex.def Info: mapa_cuadros_abun_global.png  used on input line 412.
+Package pdftex.def Info: mapa_cuadros_abun_global.png  used on input line 424.
 (pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
 [6pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) 
 has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.423 
+l.435 
        <./mapa_cuadros_abun_global.png>]
-<mapa_cuadros_abun_mi_familia.png, id=74, 995.72pt x 762.85pt>
+<mapa_cuadros_abun_mi_familia.png, id=55, 995.72pt x 762.85pt>
 File: mapa_cuadros_abun_mi_familia.png Graphic file (type png)
 <use mapa_cuadros_abun_mi_familia.png>
 Package pdftex.def Info: mapa_cuadros_abun_mi_familia.png  used on input line 4
-26.
+38.
 (pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
-LaTeX Font Info:    Try loading font information for OT1+ppl on input line 451.
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 463.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 451
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 463
 .
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 451
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 463
 .
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 451
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 463
 .
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 451
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 463
 .
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
@@ -793,229 +784,139 @@ File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.471 
+l.483 
        <./mapa_cuadros_abun_mi_familia.png>]
 
 LaTeX Warning: Reference `fig:pendiente BCI' on page 8 undefined on input line 
-472.
+484.
 
-<mapa_cuadros_pendiente.png, id=82, 995.72pt x 762.85pt>
+<mapa_cuadros_pendiente.png, id=63, 995.72pt x 762.85pt>
 File: mapa_cuadros_pendiente.png Graphic file (type png)
 <use mapa_cuadros_pendiente.png>
-Package pdftex.def Info: mapa_cuadros_pendiente.png  used on input line 476.
+Package pdftex.def Info: mapa_cuadros_pendiente.png  used on input line 488.
 (pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
 [8pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) 
 has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.502 
+l.514 
        <./mapa_cuadros_pendiente.png>]
-<mapas_variables_ambientales_numericas.png, id=90, 819.06pt x 520.344pt>
+<mapas_variables_ambientales_numericas.png, id=71, 819.06pt x 520.344pt>
 File: mapas_variables_ambientales_numericas.png Graphic file (type png)
 <use mapas_variables_ambientales_numericas.png>
 Package pdftex.def Info: mapas_variables_ambientales_numericas.png  used on inp
-ut line 508.
+ut line 520.
 (pdftex.def)             Requested size: 469.76855pt x 298.44118pt.
 [9pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) 
 has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.522 
+l.534 
        <./mapas_variables_ambientales_numericas.png (PNG copy)>]
-<mapas_variables_ambientales_nominales_tmap.png, id=96, 412.97144pt x 247.78285
+<mapas_variables_ambientales_nominales_tmap.png, id=77, 412.97144pt x 247.78285
 pt>
 File: mapas_variables_ambientales_nominales_tmap.png Graphic file (type png)
 <use mapas_variables_ambientales_nominales_tmap.png>
 Package pdftex.def Info: mapas_variables_ambientales_nominales_tmap.png  used o
-n input line 543.
+n input line 555.
 (pdftex.def)             Requested size: 412.97041pt x 247.78224pt.
-<mapa_cuadros_riq_mi_familia.png, id=97, 995.72pt x 762.85pt>
+<mapa_cuadros_riq_mi_familia.png, id=78, 995.72pt x 762.85pt>
 File: mapa_cuadros_riq_mi_familia.png Graphic file (type png)
 <use mapa_cuadros_riq_mi_familia.png>
-Package pdftex.def Info: mapa_cuadros_riq_mi_familia.png  used on input line 56
-7.
+Package pdftex.def Info: mapa_cuadros_riq_mi_familia.png  used on input line 57
+9.
 (pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
 [10pdfTeX warning (ext4): destination with the same identifier (name{figure.7})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.571 
+l.583 
        <./mapas_variables_ambientales_nominales_tmap.png (PNG copy)>]
-<mapa_cuadros_riq_global.png, id=103, 995.72pt x 762.85pt>
+<mapa_cuadros_riq_global.png, id=84, 995.72pt x 762.85pt>
 File: mapa_cuadros_riq_global.png Graphic file (type png)
 <use mapa_cuadros_riq_global.png>
-Package pdftex.def Info: mapa_cuadros_riq_global.png  used on input line 585.
+Package pdftex.def Info: mapa_cuadros_riq_global.png  used on input line 597.
 (pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
 [11pdfTeX warning (ext4): destination with the same identifier (name{figure.8})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.589 
+l.601 
        <./mapa_cuadros_riq_mi_familia.png>] [12pdfTeX warning (ext4): destinati
 on with the same identifier (name{figure.9}) has been already used, duplicate i
 gnored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.621 
+l.633 
        <./mapa_cuadros_riq_global.png>]
-<matriz_disimilaridad_hellinger.png, id=116, 2409.0pt x 1204.5pt>
+<matriz_disimilaridad_hellinger.png, id=97, 2409.0pt x 1204.5pt>
 File: matriz_disimilaridad_hellinger.png Graphic file (type png)
 <use matriz_disimilaridad_hellinger.png>
 Package pdftex.def Info: matriz_disimilaridad_hellinger.png  used on input line
- 633.
+ 647.
 (pdftex.def)             Requested size: 469.73474pt x 234.86737pt.
-<matrizdedisimilaridad.png, id=117, 541.27219pt x 319.94531pt>
-File: matrizdedisimilaridad.png Graphic file (type png)
-<use matrizdedisimilaridad.png>
-Package pdftex.def Info: matrizdedisimilaridad.png  used on input line 664.
-(pdftex.def)             Requested size: 469.7715pt x 277.68134pt.
 [13pdfTeX warning (ext4): destination with the same identifier (name{figure.10}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.667 \end{figure}
-                   <./matriz_disimilaridad_hellinger.png (PNG copy)>]
-<matriz_similaridad.png, id=124, 491.58656pt x 286.06876pt>
+l.675 
+       <./matriz_disimilaridad_hellinger.png (PNG copy)>]
+<matrizdedisimilaridad.png, id=104, 541.27219pt x 319.94531pt>
+File: matrizdedisimilaridad.png Graphic file (type png)
+<use matrizdedisimilaridad.png>
+Package pdftex.def Info: matrizdedisimilaridad.png  used on input line 678.
+(pdftex.def)             Requested size: 469.7715pt x 277.68134pt.
+<matriz_similaridad.png, id=105, 491.58656pt x 286.06876pt>
 File: matriz_similaridad.png Graphic file (type png)
 <use matriz_similaridad.png>
-Package pdftex.def Info: matriz_similaridad.png  used on input line 694.
+Package pdftex.def Info: matriz_similaridad.png  used on input line 708.
 (pdftex.def)             Requested size: 469.77245pt x 273.37448pt.
 [14pdfTeX warning (ext4): destination with the same identifier (name{figure.11}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.698 
+l.712 
        <./matrizdedisimilaridad.png (PNG copy)>]
-<mapadecalor.png, id=130, 541.27219pt x 320.69812pt>
+<mapadecalor.png, id=111, 541.27219pt x 320.69812pt>
 File: mapadecalor.png Graphic file (type png)
 <use mapadecalor.png>
-Package pdftex.def Info: mapadecalor.png  used on input line 717.
+Package pdftex.def Info: mapadecalor.png  used on input line 736.
 (pdftex.def)             Requested size: 469.7715pt x 278.3347pt.
 [15pdfTeX warning (ext4): destination with the same identifier (name{figure.12}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.721 
-       <./matriz_similaridad.png (PNG copy)>] [16pdfTeX warning (ext4): destina
-tion with the same identifier (name{figure.13}) has been already used, duplicat
-e ignored
+l.740 
+       <./matriz_similaridad.png (PNG copy)>]
 
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.765 
-       <./mapadecalor.png (PNG copy)>] [17]
-File: mapa_cuadros.png Graphic file (type png)
-<use mapa_cuadros.png>
-Package pdftex.def Info: mapa_cuadros.png  used on input line 838.
-(pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
-File: mapa_cuadros_ph.png Graphic file (type png)
-<use mapa_cuadros_ph.png>
-Package pdftex.def Info: mapa_cuadros_ph.png  used on input line 844.
-(pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
-[18pdfTeX warning (ext4): destination with the same identifier (name{figure.14}
-) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.847 
-      ]
-File: mapa_cuadros_abun_global.png Graphic file (type png)
-<use mapa_cuadros_abun_global.png>
-Package pdftex.def Info: mapa_cuadros_abun_global.png  used on input line 848.
-(pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
-File: mapa_cuadros_pendiente.png Graphic file (type png)
-<use mapa_cuadros_pendiente.png>
-Package pdftex.def Info: mapa_cuadros_pendiente.png  used on input line 849.
-(pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
-File: mapa_cuadros_riq_global.png Graphic file (type png)
-<use mapa_cuadros_riq_global.png>
-Package pdftex.def Info: mapa_cuadros_riq_global.png  used on input line 850.
-(pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
-
-Overfull \hbox (17.01108pt too wide) in paragraph at lines 848--851
-[][]
- []
-
-[19pdfTeX warning (ext4): destination with the same identifier (name{figure.15}
-) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.851 
-      ]
-Overfull \vbox (70.37288pt too high) has occurred while \output is active []
-
-[20]
-File: mapas_variables_ambientales_numericas.png Graphic file (type png)
-<use mapas_variables_ambientales_numericas.png>
-Package pdftex.def Info: mapas_variables_ambientales_numericas.png  used on inp
-ut line 852.
-(pdftex.def)             Requested size: 469.76855pt x 298.44118pt.
-File: mapas_variables_ambientales_nominales_tmap.png Graphic file (type png)
-<use mapas_variables_ambientales_nominales_tmap.png>
-Package pdftex.def Info: mapas_variables_ambientales_nominales_tmap.png  used o
-n input line 853.
-(pdftex.def)             Requested size: 412.97041pt x 247.78224pt.
-File: mapa_cuadros_riq_mi_familia.png Graphic file (type png)
-<use mapa_cuadros_riq_mi_familia.png>
-Package pdftex.def Info: mapa_cuadros_riq_mi_familia.png  used on input line 85
-4.
-(pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
-
-Overfull \hbox (17.01353pt too wide) in paragraph at lines 852--855
-[][]
- []
+LaTeX Warning: File `sitios_composición_distancia_cuerdas.png' not found on inp
+ut line 769.
 
 
-Overfull \hbox (415.062pt too wide) in paragraph at lines 852--855
-[] [] 
- []
+! Package pdftex.def Error: File `sitios_composición_distancia_cuerdas.png' not
+ found: using draft setting.
 
-[21] [22]
-LaTeX Font Info:    Font shape `T1/ppl/bx/it' in size <10.95> not available
-(Font)              Font shape `T1/ppl/b/it' tried instead on input line 857.
-[23] [24]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 913.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 913.
-(./manuscrito.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 913.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 913.
-Package rerunfilecheck Info: File `manuscrito.out' has not changed.
-(rerunfilecheck)             Checksum: 801573542BFB6FDEF17D3AC28872E929;910.
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 913.
- ) 
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.769 ...itios_composiciÃ³n_distancia_cuerdas.png}
+                                                   
 Here is how much of TeX's memory you used:
- 10235 strings out of 492982
- 143915 string characters out of 6134896
- 223087 words of memory out of 5000000
- 13620 multiletter control sequences out of 15000+600000
- 25382 words of font info for 50 fonts, out of 8000000 for 9000
+ 10193 strings out of 492982
+ 143552 string characters out of 6134896
+ 222883 words of memory out of 5000000
+ 13606 multiletter control sequences out of 15000+600000
+ 23786 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,6n,31p,274b,349s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/p
-alatino/uplbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/upl
-r8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on manuscrito.pdf (24 pages, 3525585 bytes).
-PDF statistics:
- 224 PDF objects out of 1000 (max. 8388607)
- 170 compressed objects within 2 object streams
- 56 named destinations out of 1000 (max. 500000)
- 130 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36i,6n,31p,274b,326s stack positions out of 5000i,500n,10000p,200000b,80000s
 
+!  ==> Fatal error occurred, no output PDF file produced!

@@ -63,6 +63,9 @@ Todo lo anterior obedece a la parte de datos explotorios, también está present
 
 
 # Resultados
+
+Análisis Exploratorio de Datos
+
 A continuación se muestran las mediciones de PH, mapa de pendientes, mapas de abundancia, tanto global como de la familia, mapa de riqueza global y de la familia, variables ambientales numéricas, y nominales en una parcela de 50 hectáreas, integrada por subdivisiones de una hectárea, todo ello correspondiente a la familia de las Moraceae.
 En el caso del PH tenemos que es ácido, sgún los mapas y diagramas consultados, estas condiciones para las Moraceae, y cualquier otra especie en condiciones extremas, sería perjudicial. 
 El PH del suelo es importante porque los vegetales solo pueden absorver a los minerales disueltos y la variación del PH modifica el grado de solubilidad de los minerales y nutrientes.
@@ -132,6 +135,8 @@ No se ignora que a la misma latiud se encuetren condiciones similares en otros r
 En los cuadros de variables ambientales, se corroboran las diferencias entre unas y otras, se distinguen tierras bajas de otras no muy altas. Pero no solo se analizan los rasgos geomorfológicos, otras variables ofrecen tambien allí su concurso. Aprecen valores de PH, riqueza global por igual, abundancia global, entre otras variables. 
 
 
+Medición de Asociación (Modos Q y R)
+
 En esta parte se aborda lo que es la medición de asociación, tomando en cuenta lo que son los valores de disimilaridad o distancia, así como las matríces de correlación.
 Dentro de los modelos de medición de asociación existen los modos Q y R, en este caso de la distancia o disimilaridad, tenemos el modo Q que describe la distancia entre objetos cuantitativos. La paradoja de Orlóci plantea que la distancia euclidea es más pequeña entre sitios que no comparten especies que entre sitios que sí las comparten.
 A continuación se presenta una matríz de disimilaridad.
@@ -152,12 +157,11 @@ En esta matriz de disimilaridad o de distancia vienen a recrearse los anteriores
 Hasta el momento me he centrado en el modo Q que mide el nivel de asociación por medio de la disimilaridad o similiridad.
 Algo sumamente importante dentro del modo Q, en este caso basándome en datos binarios (presencia/ausencia) es la famosa distancia de Jaccard, la misma se puede expresar como la proporción de especies no compartidas. Para el caso correspondinte de los datos de moraceae, la distancia (dbl) muestra los siguientes resultados para algunos sitios: Entre 2 y 1, la distancia es de 0.22, para 3 y 1 es de 0.33, entre 4 y 1 es de 0.222, para 5 y 1 es de 0.3, para 6 y 1 es de 0.333, para 7 y 1 es de 0.222, para 8 y 1 es de 0.333, para 9 y 1 es de 0.333, para 10 y 1 es de 0.4, y para 11 y 1 es de 0.333, evidenciando en este caso una fuerte asociación.
 
-La similaridad es la proporción de datos compartiods entre sitios, en la siguiente gráfica de la matriz pueden apreciarse las espcecies compartidas entre sitios.
+La similaridad es la proporción de objetos compartiods entre sitios, en la siguiente gráfica de la matriz pueden apreciarse las espcecies compartidas entre sitios.
 
 ![mapa de la Isla Barro Colorado matriz disimilaridad  \label{fig:bci_map}](matriz_similaridad.png){width=100%}
 
-Puede apreciarse en los bloques de colores las especies compartidas entre sitios, y que son exclusivas de dichos sitios. Por ejemplo para las variables a b y c, que se desprenden de la fómula de la similaridad, donde a representa el número de especies compartidas, b es el número de especies exclusivas del sitio 2 y c el numero de especies exclusivas del sitio 1.
-
+Puede apreciarse en los bloques de colores las especies compartidas entre sitios, y que son exclusivas de dichos sitios. Por ejemplo para las variables a, b y c, que se desprenden de la fómula, incluida en los scripts reproducibles que sirven de soporte a este trabajo, de la similaridad, donde a representa el número de especies compartidas, b es el número de especies exclusivas del sitio 2 y c el numero de especies exclusivas del sitio 1. La cantidad de especies compartidas entre sitios con relación a las moraceae es grande, esto debido a la ausencia de ceros, hecho que en la paradoja de Orlóci refleja cercanía según la distancia euclídea que hace ver próximos los lugares o sitios que no comparten especies o individuos.  
 
 En el modo R se mide la asociación entre pares descriptores, es decir variables o especies, mediante la covarianza y la correlación. Por ejemplo para las variables a b y c, que se desprenden de la fómula de la similaridad, donde a representa el número de especies compartidas, b es el número de especies exclusivas del sitio 2 y c el numero de especies exclusivas del sitio 1.
 
@@ -165,7 +169,17 @@ Un ejemplo ilustrativo sería el mapa de calor
 
 ![mapa de la Isla Barro Colorado mapa de calor  \label{fig:bci_map}](mapadecalor.png){width=100%}
 
-En el mapa de calor mostrado se muestra una relación de dependencia en la diagonal de la derecha, esto es lo que se mide en el modo R, la asociación entre elementos descriptores, en este caso la abundancia de especies como variables. Entre la cainito aspidosperma y la trichinia tuberculata se nota una fuerte dependencia, evidenciado por la continuidad del color fucsia o rosa.
+En el mapa de calor mostrado se muestra una relación de dependencia en la diagonal de la derecha, esto es lo que se mide en el modo R, la asociación entre elementos descriptores, en este caso la abundancia de especies como variables. Entre la cainito aspidosperma y la trichinia tuberculata se nota una fuerte dependencia, evidenciado por la continuidad del color fucsia o rosa. Lo mismo no ocurre con los colores de los bordes que reflejan franjas más pequeñas, y a su vez degradas, lo que evidencia ausencia de dependencia.
+Esto así cuando se trata del modo R aplicado a datos cuantitativos de especies, que reflejan la abundancia.
+
+
+Análisis Jerárquico
+
+El análisis de agrupamiento, consiste en una agrupación sucesiva basada en la repetición de un procedimiento dado de grupos de objetos, hasta que estos encuentren su lugar, se basa en la construcción de dendrogramas. El análsis jerárquico se caracteriza por tener un enfoque aglomerativo, lo que implica un algoritmo ascendente, y la ordenación de los subgrupos de objetos en un único grupo. Los algoritmos del análsis jerárquico son los criterios de enlace: Enlace simple, enlace completo y enlace promedio. Los metodos de representación utilizados son: Agrupamiento aglomerativo por enlace simple, agrupamiento aglomerativo por enlace completo, y agrupamiento aglomerativo por enlace promedio.
+
+Agrupamiento aglomerativo por enlace simple:
+
+![mapa de la Isla Barro Colorado sitios de composición por distancia de cuerda  \label{fig:bci_map}](sitios_composición_distancia_cuerdas.png){width=100%}
 
 
 # Discusión

@@ -341,7 +341,19 @@ variables ambientales nominales. Los demás recursos se verán en la
 medidad que se deasarrolla el trabajo, siguiendo el orden que en un
 principio nos hemos propuesto.
 
+Todo lo anterior obedece a la parte de datos explotorios, también está
+presente el segmento correpondiente a la medición de asociación, en el
+que se presentan los modos Q y R, el primero referido a la medición de
+asociación de sitios, en este caso por medio de la distancia, y la
+similaridad de Jaccard. El modo R se refiere a la medición de la
+asociación entre pares descriptores como son variables o especies,
+también hago uso de la matríz de Hellinger. En el método de análisis
+jerárquico, se emplean los diagramas del árbol o dendrogramas (método de
+cuerda y de Ward)
+
 \section{Resultados}\label{resultados}
+
+Análisis Exploratorio de Datos
 
 A continuación se muestran las mediciones de PH, mapa de pendientes,
 mapas de abundancia, tanto global como de la familia, mapa de riqueza
@@ -619,6 +631,8 @@ los rasgos geomorfológicos, otras variables ofrecen tambien allí su
 concurso. Aprecen valores de PH, riqueza global por igual, abundancia
 global, entre otras variables.
 
+Medición de Asociación (Modos Q y R)
+
 En esta parte se aborda lo que es la medición de asociación, tomando en
 cuenta lo que son los valores de disimilaridad o distancia, así como las
 matríces de correlación. Dentro de los modelos de medición de asociación
@@ -685,8 +699,8 @@ para 8 y 1 es de 0.333, para 9 y 1 es de 0.333, para 10 y 1 es de 0.4, y
 para 11 y 1 es de 0.333, evidenciando en este caso una fuerte
 asociación.
 
-La similaridad es la proporción de datos compartiods entre sitios, en la
-siguiente gráfica de la matriz pueden apreciarse las espcecies
+La similaridad es la proporción de objetos compartiods entre sitios, en
+la siguiente gráfica de la matriz pueden apreciarse las espcecies
 compartidas entre sitios.
 
 \begin{figure}
@@ -698,10 +712,15 @@ compartidas entre sitios.
 
 Puede apreciarse en los bloques de colores las especies compartidas
 entre sitios, y que son exclusivas de dichos sitios. Por ejemplo para
-las variables a b y c, que se desprenden de la fómula de la similaridad,
-donde a representa el número de especies compartidas, b es el número de
-especies exclusivas del sitio 2 y c el numero de especies exclusivas del
-sitio 1.
+las variables a, b y c, que se desprenden de la fómula, incluida en los
+scripts reproducibles que sirven de soporte a este trabajo, de la
+similaridad, donde a representa el número de especies compartidas, b es
+el número de especies exclusivas del sitio 2 y c el numero de especies
+exclusivas del sitio 1. La cantidad de especies compartidas entre sitios
+con relación a las moraceae es grande, esto debido a la ausencia de
+ceros, hecho que en la paradoja de Orlóci refleja cercanía según la
+distancia euclídea que hace ver próximos los lugares o sitios que no
+comparten especies o individuos.
 
 En el modo R se mide la asociación entre pares descriptores, es decir
 variables o especies, mediante la covarianza y la correlación. Por
@@ -724,7 +743,33 @@ la diagonal de la derecha, esto es lo que se mide en el modo R, la
 asociación entre elementos descriptores, en este caso la abundancia de
 especies como variables. Entre la cainito aspidosperma y la trichinia
 tuberculata se nota una fuerte dependencia, evidenciado por la
-continuidad del color fucsia o rosa.
+continuidad del color fucsia o rosa. Lo mismo no ocurre con los colores
+de los bordes que reflejan franjas más pequeñas, y a su vez degradas, lo
+que evidencia ausencia de dependencia. Esto así cuando se trata del modo
+R aplicado a datos cuantitativos de especies, que reflejan la
+abundancia.
+
+Análisis Jerárquico
+
+El análisis de agrupamiento, consiste en una agrupación sucesiva basada
+en la repetición de un procedimiento dado de grupos de objetos, hasta
+que estos encuentren su lugar, se basa en la construcción de
+dendrogramas. El análsis jerárquico se caracteriza por tener un enfoque
+aglomerativo, lo que implica un algoritmo ascendente, y la ordenación de
+los subgrupos de objetos en un único grupo. Los algoritmos del análsis
+jerárquico son los criterios de enlace: Enlace simple, enlace completo y
+enlace promedio. Los metodos de representación utilizados son:
+Agrupamiento aglomerativo por enlace simple, agrupamiento aglomerativo
+por enlace completo, y agrupamiento aglomerativo por enlace promedio.
+
+Agrupamiento aglomerativo por enlace simple:
+
+\begin{figure}
+\centering
+\includegraphics[width=1.00000\textwidth]{sitios_composición_distancia_cuerdas.png}
+\caption{mapa de la Isla Barro Colorado sitios de composición por
+distancia de cuerda \label{fig:bci_map}}
+\end{figure}
 
 \section{Discusión}\label{discusiuxf3n}
 
