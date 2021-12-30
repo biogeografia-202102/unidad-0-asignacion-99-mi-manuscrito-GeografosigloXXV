@@ -175,12 +175,40 @@ Esto así cuando se trata del modo R aplicado a datos cuantitativos de especies,
 
 Análisis Jerárquico
 
-El análisis de agrupamiento, consiste en una agrupación sucesiva basada en la repetición de un procedimiento dado de grupos de objetos, hasta que estos encuentren su lugar, se basa en la construcción de dendrogramas. El análsis jerárquico se caracteriza por tener un enfoque aglomerativo, lo que implica un algoritmo ascendente, y la ordenación de los subgrupos de objetos en un único grupo. Los algoritmos del análsis jerárquico son los criterios de enlace: Enlace simple, enlace completo y enlace promedio. Los metodos de representación utilizados son: Agrupamiento aglomerativo por enlace simple, agrupamiento aglomerativo por enlace completo, y agrupamiento aglomerativo por enlace promedio.
+El análisis de agrupamiento, consiste en una agrupación sucesiva basada en la repetición de un procedimiento dado de grupos de objetos, hasta que estos encuentren su lugar, se basa en la construcción de dendrogramas. El análsis jerárquico se caracteriza por tener un enfoque aglomerativo, lo que implica un algoritmo ascendente, y la ordenación de los subgrupos de objetos en un único grupo. Los algoritmos del análsis jerárquico son los criterios de enlace, y estos a su vez se integran por los siguiesntes tipos: Enlace simple, enlace completo y enlace promedio. Los metodos de representación utilizados son: Agrupamiento aglomerativo por enlace simple, agrupamiento aglomerativo por enlace completo, y agrupamiento aglomerativo por enlace promedio.
 
 Agrupamiento aglomerativo por enlace simple:
 
 ![mapa de la Isla Barro Colorado sitios de composición por distancia de cuerda  \label{fig:bci_map}](sitios_composición_distancia_cuerdas.png){width=100%}
 
+Cuando se construye este dendrograma, empleando la menor distancia entre sitios, se obtiene una matriz de cuerdas o matriz normalizada. En este dendrograma se pueden apreciar grupos de objetos muy agrupados en otros mayores con una altura pequeña, los que poseen la mayor altura en ramas, poseen la menor cantidad de objetos (hojas), es decir se presenta una mayor abundancia en los dendrogramas que se encuentran formando subgrupos. Este dendrograma recuerda la forma de una escalera.
+
+Agrupamiento Aglomerativo por enlace completo:
+
+![mapa de la Isla Barro Colorado analisis interpretación dendrogramas   \label{fig:bci_map}](analisis_interpretación_dendrogramas.png){width=100%}
+
+En esta imagen, aunque se ilustran los tipos considerados de dendrogramas, nos interesa el completo.
+En el agrupamiento aglomerativo por enlace completo, el criterio empleado es la mayor distancia o menor similaridad, el vecino más lejano. En este dendrograma se muestra una escalera pero con menor sucesión, se distinguen grupos de dendrogramas como en el caso anterior, solo que en esta ocasión los grupos con mayor distancia son poco numerosos en contraste con los los grupos que presentan la menor distancia, y la altura dominante para los cuadros mayores es de 0.8 en su generalidad.
+
+Agrupamiento aglomerativo por enlace promedio:
+
+![mapa de la Isla Barro Colorado sitios de composición por distancia de cuerda  \label{fig:bci_map}](sitios_metodo_ward.png){width=100%}
+
+El método de Ward, aunque no es un método por enlace, lo elijo por su fácil comprensión (en este caso sería el UPGMA, para el caso de la media o promedio), recuerda la silueta de una pirámide toscamente dibujada, con una interpretación visual más factible que en los casos anteriores. Existe una regularidad en los subgrupos, lo que refleja, al igual que en las secciones anteriores una fuerte asociación, mayor similaridad que disimilaridad en las partes dominantes o más visibles. Otro ejemplo de visualización lo ofrece el modelo de agrupación aglomerativa por enlace promedio, UPGMA, en el cual aparecen siluetas aglomerativas y repetitivas que reflejan una continuidad en la similaridad en los subgrupos.
+
+Interpretación de Agrupamiento Jerárquico:
+
+En esta parte estamos a la altura de elegir métodos que nos permitan minimizar la mayor cantidad posible de unidades de grupos en los dendrogramas. Se establece la correlación cofenética y para la misma los métodos convenientes son los de Ward y el UPGMA.
+En esencia consiste en obtener la menor cantidad posible de siluetas que se distinguen por la existencia de pequeños grupos de figuras.
+En la siguiente imagen pueden apreciarse los cortes de las siluetas en tamaños menos complicados de analizar y no muy distantes en su dimensión.
+
+![mapa de la Isla Barro Colorado sitios de composición por distancia de cuerda  \label{fig:bci_map}](agrupamiento_dendrograma.png){width=100%}
+
+El método Ward es uno de los más ideales para elegir un dendrograma único que permita apreciar por simple inspección el tamaño de las siluetas, y el número de sitios que contienen, en este caso serían tres cuadros de 12 y 13 sitios para el primer y segundo cuadro respectivamente, y de 25 sitios para el tercero, todos a una altura de 1.3 aproximadamente dentro del dendrograma. En este dendrograma pueden apreciarse las siluestas más fácilmente que en los ejemplos anteriores.
+
+Una forma de ilustrar mejor la disimilaridad y la similaridad entre los agrupamientos o dendrogramas es por medio del mapa de calor de la matriz de comunidad fusionado con el dendrogrma. El color rosa más intenso corresponde a los sitios más próximos, mientras que la degradación de este corresponde a lugares menos próximos, en el color celeste intenso también se cumple lo mismo, solo que el color rosa es dominante.
+
+![mapa de la Isla Barro Colorado sitios de composición por distancia de cuerda  \label{fig:bci_map}](comparación_dendrograma_mapa_calor.png){width=100%}
 
 # Discusión
 La abundancia y riqueza de la familia Moraceae, dentro de la isla Barro Colorado, es vieja y asentada en terreno bajo, en su generalidad, con una adaptación bastante ajustada a las condiciones de los factores físico químicos de dicha isla, por lo general son plantas perennes, de gran porte que sirven de alimentación a los individuos frugívoros que allí habitan, constituyendo con su dosel el típico paisaje de la selva tropical crentroamericana. 
