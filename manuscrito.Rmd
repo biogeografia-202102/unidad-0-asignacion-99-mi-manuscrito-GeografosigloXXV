@@ -273,6 +273,35 @@ En este digrama de curvas de rarefacción puede apreciarse también el número d
 
 Diversidad Beta
 
+La diversidad beta se puede apreciar en segiente mapa de cuadros
+
+![mapa de la Isla Barro mapa cuadro diversidad beta \label{fig:bci_map}](mapa_cuadros.png){width=100%}
+
+Para este tipo de diversidad, se presenta un patrón de distribución al este de la parcela de 50 hectáreas y se aprecian las parcelas de una hectárea que poseen la mayor cantidad de individuos por especies, al oeste se aprecia una distribución mucho más reducida. Este modo de visualizar la variabilidad es más comprensible que en los casos anteriores.
+
+Análisis de Ordenación Simple (no restringida y restringida)
+
+La ordenación es una técnica de ordenación que busca determinar el grado de asociación y de agrupamiento. Un objeto se caracteriza por sus propiedades en un espacio n-dimensional donde cada dimensión es una variable, un descriptor. A diferencia de la técnica de agrupamiento, o como complemento de este, el análisis de ordenación abarca un conjunto de técnicas que busca abarcar el tamaño ( dimensionalidad) de los datos. El análisis de ordenación puede ser no restringido y restringido, en el primer caso, las tendencias detectadas en el conjunto de datos suelen estar no restringidas por otro conjunto. En el segundo caso las tendencias detectadas en un conjunto suelen estar asociadas a otro conjunto.
+
+
+Las principales técnicas de análisis no restringido son: PCA (Análisis de Componentes Principales), CA (Análisis de Correspondencia), PCoA (Análisis de Coordenadas Principales), y NMDS (Escalamiento multidimesional No Métrico).
+
+Esí se muestran para la familia de moraceae, empleando la técnica de escalamiento PCA:
+
+
+![mapa de la Isla Barro diagrama de escalamiento 1 y 2 \label{fig:bci_map}](escalamiento_1_2.png){width=100%}
+
+En esta técnica de escalamiento pueden visualizarse los grados de asociación mediante un plano de coordenadas ortogonales. La cercanía que describen los ángulos de las variables ambientales representa el grado de asocición de las mismas. En el primer cuadrante predomina la distancia euclídea, en el segundo, la distancia de Mahalanovich. Se forman nuves de puntos en los cuadrantes, estos puntos representan los sitios, y como se puede ver en los gráficos, estos se concentran más en el cuadrante negativo. Para ambos casos hay mayor asociación al norte del plano.
+
+
+![mapa de la Isla Barro Colorado diagrama asociación de variables\label{fig:bci_map}](escalamiento_ajuste_2.png){width=100%}
+
+En este diagrama puede percibirse la fuerte asociación que existe en las variables ambientales (color verde), por la cercanía de los ángulos en la parte superior del plano. Hay mayor asociación en la componente principal 2 que en la componente principal 1.
+
+Ordenación simple restringida:
+
+
+
 
 # Discusión
 La abundancia y riqueza de la familia Moraceae, dentro de la isla Barro Colorado, es vieja y asentada en terreno bajo, en su generalidad, con una adaptación bastante ajustada a las condiciones de los factores físico químicos de dicha isla, por lo general son plantas perennes, de gran porte que sirven de alimentación a los individuos frugívoros que allí habitan, constituyendo con su dosel el típico paisaje de la selva tropical crentroamericana. 
