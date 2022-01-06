@@ -16,8 +16,8 @@ source('biodata/funciones.R')
 #' 
 #' ### Cargar datos
 #' 
-load('biodata/Apocynaceae-Meliaceae-Sapotaceae.Rdata')
-mi_fam <- mc_apcyn_melic_saptc
+load('biodata/Moraceae.Rdata')
+mi_fam <- mc_morac
 grupos_upgma_k2 <- readRDS('grupos_upgma_k2.RDS')
 table(grupos_upgma_k2)
 grupos_ward_k3 <- readRDS('grupos_ward_k3.RDS')

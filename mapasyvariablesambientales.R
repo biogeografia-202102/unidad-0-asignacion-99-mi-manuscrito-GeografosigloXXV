@@ -19,7 +19,7 @@ source('biodata/funciones.R')
 #' 
 #' ### Cargar datos
 #' 
-load('biodata/Apocynaceae-Meliaceae-Sapotaceae.Rdata')
+load("~/unidad-0-asignacion-99-mi-manuscrito-GeografosigloXXV/biodata/Moraceae.Rdata")
 load('biodata/matriz_ambiental.Rdata')
 grupos_upgma_k2 <- readRDS('grupos_upgma_k2.RDS')
 table(grupos_upgma_k2) #Importante, tener en cuenta los desiguales tamaños de los grupos

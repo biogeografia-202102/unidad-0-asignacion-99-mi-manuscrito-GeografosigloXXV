@@ -22,8 +22,8 @@ source('biodata/funciones.R')
 #' 
 #' ### Cargar datos
 #' 
-load('biodata/Apocynaceae-Meliaceae-Sapotaceae.Rdata')
-mi_fam <- mc_apcyn_melic_saptc
+load('biodata/Moraceae.Rdata')
+mi_fam <- mc_morac
 load('biodata/matriz_ambiental.Rdata')
 mi_fam %>% tibble
 bci_env_grid %>% tibble

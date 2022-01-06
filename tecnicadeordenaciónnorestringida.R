@@ -20,12 +20,12 @@ source('biodata/funciones.R')
 #' 
 #' ### Cargar datos
 #' 
-load('biodata/Apocynaceae-Meliaceae-Sapotaceae.Rdata')
+load("~/unidad-0-asignacion-99-mi-manuscrito-GeografosigloXXV/biodata/Moraceae.Rdata")
 load('biodata/matriz_ambiental.Rdata')
-mi_fam <- mc_apcyn_melic_saptc
+mi_fam <- mc_morac
 (colnames(mi_fam) <- make.cepnames(colnames(mi_fam)))
 (df_equivalencias <- data.frame(
-  nombre_original = colnames(mc_apcyn_melic_saptc),
+  nombre_original = colnames(mc_morac),
   colnames(mi_fam)))
 bci_env_grid %>% tibble
 grupos_upgma_k2 <- readRDS('grupos_upgma_k2.RDS')
@@ -260,14 +260,14 @@ par(mfrow = c(1, 1))
 #' 
 #' Excluyendo especie *Thevetia ahouai*, abreviada como *Thevahou*.
 #' 
-mi_fam_ca <- cca(mi_fam[, -grep('Thevahou', colnames(mi_fam))])
+mi_fam_ca <- cca(mi_fam[, -grep('Perexant', colnames(mi_fam))])
 summary(mi_fam_ca)
 summary(mi_fam_ca, scaling = 1)
 screeplot(mi_fam_ca, bstick = TRUE, npcs = length(mi_fam_ca$CA$eig))
 par(mfrow = c(1, 2))
 plot(mi_fam_ca,
      scaling = 1,
-     main = "CA, escalamiento 1, sin Thevetia ahouai"
+     main = "CA, escalamiento 1, sin Perexant"
 )
 plot(mi_fam_ca,
      scaling = 2,

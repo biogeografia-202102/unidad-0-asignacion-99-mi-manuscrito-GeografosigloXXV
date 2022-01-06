@@ -22,9 +22,9 @@ source('biodata/funciones.R')
 #' 
 #' ### Cargar datos
 #' 
-load('biodata/Apocynaceae-Meliaceae-Sapotaceae.Rdata')
+load("~/unidad-0-asignacion-99-mi-manuscrito-GeografosigloXXV/biodata/Moraceae.Rdata")
 load('biodata/matriz_ambiental.Rdata')
-mi_fam <- mc_apcyn_melic_saptc
+mi_fam <- mc_morac
 bci_env_grid %>% tibble
 #' 
 #' ## Diversidad beta
