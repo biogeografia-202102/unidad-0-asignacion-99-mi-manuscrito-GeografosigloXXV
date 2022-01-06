@@ -11,7 +11,7 @@ title: "Análisis de la Familia de Moraceae en una Parcela de 50 Hectáreas, Den
 author:
 - name: "José Abreu Díaz"
   affiliation: "Estudiante de geografía, Universidad Autónoma de Santo Domingo (UASD)"
-abstract: "El presente artículo, está basado en el análisis de Moraceae existentes en la Isla de Barro Colorado,para el mismo se emplean mapas y tablas con muestras en un parcela de 50 ha, dividida en celdas de una ha cada una. Empleando un estudio multimodal, se destacan las variables propuestas como son medidas de PH, abundancia global, abundancia específica (familia), riqueza global, riqueza específica, mapa de pendientes, y los cuadros de variables ambientales numéricas. En todas ellas se aprecia un crecimiento exponencial de la familia bajo estudio. Con el objetivo de enteder la razón de existencia de las condiciones que han dado origen a la amplia riqueza y abundancia de BCI, en el caso de la familia bajo estudio, resalto el contexto político e histórico en que ha surgido la isla, y su situación geográfica. Dejando claro que pudieran existir otros grandes laboratorios de alcance global, aunque claro, no con la misma posición grográfica estratégica que tiene esta isla en el Istmo de Panamá"
+abstract: "El presente artículo, está basado en el análisis de moraceae existentes en la Isla de Barro Colorado, para el mismo se emplean mapas y tablas con muestras en un parcela de 50 ha, dividida en celdas de una hectárea cada una. Empleando un estudio multimodal, se destacan las variables propuestas como son medidas de PH, abundancia global, abundancia específica (familia), riqueza global, riqueza específica, mapa de pendientes, los cuadros de variables ambientales numéricas y nominales, medición de asociación, análisis de agrupamiento jerárquico, identificación de especies indicadoras, análisis de diversidad, y el análisis ecológico espacial. En todas ellas se aprecia un crecimiento exponencial de la familia bajo estudio. Con el objetivo de enteder la razón de existencia de las condiciones que han dado origen a la amplia riqueza y abundancia de BCI, en el caso de la familia en cuestión, resalto el contexto político e histórico en que ha surgido la isla, y su situación geográfica. Dejando claro que pudieran existir otros grandes laboratorios de alcance global, aunque claro, no con la misma posición grográfica estratégica que tiene esta isla en el Istmo de Panamá"
 keywords: "Isla Barro Colorado, PH, varaible ambiental numérica, variable ambiental nominal, Moraceae, pendiente, abundancia global, riqueza global, Canal de Panamá."
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 geometry: margin=1in
@@ -69,23 +69,23 @@ La isla de Barro Colorado se formó tras la creación del lago Gatún en 1913, d
 La Isla Barro Colorado o BCI, por sus siglas en inglés, es uno de los puntos geográficos más estudiados en el mundo, es como una especie de Meca para los investigadores que quieren desarrollar allí sus estudios, muchas veces acompañados de sus estudiantes, estudiantes que en lo adelante también realizarán sus propias investigaciones por separado. En dicha isla todo está registrado, cada comunidad de insectos, plantas y otros animales, están debidamente mapeados, con inscripciones por doquier. Tal vez por la Amplia diversidad de orgaismos que allí predominana, se hace esta clase de inferencia en esta isla que se ha convertido en un laboratorio global, y ese es el caso que me compete, seguir ese pequeño trillo prar llegar a grandes verdades que requieren de una cantidad de recursos unaudita y tiempo, por el momento no disponibles si nos embarcaramos en hacer un itinerario parecido al de Darwin o el de Humboldt.
 
 
-Algunos estudios como los de @fredericksenbibosi, resaltan la importancia de las moraceae en el sentido de que sirven de alimentos a una amlpia comunidad de frugivoros, pero los cierto es que también, tienen gran importancia en el sector maderero. Como se dijo en un principio, todo el material de apoyo, proviene de las investigaciones de la Isla de Barro Colorado, el cual consiste en el empleo de tablas, cuadros, mapas, y otros diagramas que proceden de sendas investigaciones. Para el estudio de las variables ambientales se han empleado los cuadros de 1 Ha de BCI. Variables ambientales numéricas escaladas de 0 a 1, para el estudio de las pendientes, se emplea el mapa de curbas de nivel de la isla. También se ha empleado el mapa que refleja el PH de este espacio insular. También se establecen correlaciones a partir de estos recursos científicos que son el fruto de largos proceos de estudio. 
+Algunos estudios como los de @fredericksenbibosi, resaltan la importancia de las moraceae en el sentido de que sirven de alimento a una amlpia comunidad de frugivoros, pero los cierto es que también, tienen gran importancia en el sector maderero. 
+Como se dijo en un principio, todo el material de apoyo, proviene de las investigaciones de la Isla de Barro Colorado, el cual consiste en el empleo de tablas, cuadros, mapas, diagramas, dendrogramas y una serie de recursos estadísticos que proceden de sendas investigaciones. Para el estudio de las variables ambientales se han empleado los cuadros de 1 Ha de BCI. Variables ambientales numéricas escaladas de 0 a 1, para el estudio de las pendientes, se emplea el mapa de curbas de nivel de la isla. También se ha empleado el mapa que refleja el PH de este espacio insular. Se establecen correlaciones a partir de estos recursos científicos que son el fruto de largos proceos de estudio. 
 
 Este es el escenario de nuestro estudio, ver figura \ref{fig:bci_map #1}.
 
 ![mapa de Isla Barro Colorado cuadros\label{fig:bci_map}](mapa_cuadros.png){width=100%}
 
-Por igual se emplean los cuadros de variables ambientales nominales de 1  Ha de BCI, constituida por categoría de edad, habitat, geología y quebrada. Otro recurso de vital importancia son las variables ambientales numéricas escaladas de 0 a 1 de una Ha de BCI. La interacción con estas fuentes de información ayudan a tener una aproximación más concreta sobre la diversidad con relación a la familia que nos compete. 
+Por igual se emplean los cuadros de variables ambientales nominales y numéricas de 1  Ha de BCI, constituida por categoría de edad, habitat, geología y quebrada. Otros recursos de vital importancia son las variables ambientales nominales de una Ha de BCI, las matrices, en especial de Spearman, de riqueza y abundancia de suelo, y las de Hellinger de medición de asociación. La interacción con estas fuentes de información ayudan a tener una aproximación más concreta sobre la diversidad con relación a la familia que nos compete. 
 
 
-Es cierto que el condicionamiento de diversas especies de plantas en distintos espacios termina creando casos de escasa homogeneidad, que de una u otra forma se rompa el patrón de similitud. Es por ello que en este trabajo se maneja más un enfoque particular de la realidad existente en BCI. Algunos estudios demuestran que las moraceae no solo sireven de alimento a los frugivoros, o como soporte en la industria maderera, también sirven de huesped a algunas especies como es el caso de las avispas, las cuales se desarrollan en las flores femeninas de dichas plantas según @cardona2007avispas. Otros estudios abordan las propiedades químicas de dichas plantas, este trabajo buca definir las características más notables de esta familia de plantas apoyándonos en el escenario de BCI. Es notorio el mapa de variables ambientales nominales. Los demás recursos se verán en la medidad que se deasarrolla el trabajo, siguiendo el orden que en un principio nos hemos propuesto.
+Es cierto que el condicionamiento de diversas especies de plantas en distintos espacios termina creando casos de escasa homogeneidad, que de una u otra forma se rompe el patrón de similitud. Es por ello que en este trabajo se maneja más un enfoque particular de la realidad existente en BCI. Algunos estudios demuestran que las moraceae no solo sireven de alimento a los frugivoros, o como soporte en la industria maderera, también sirven de huesped a algunas especies como es el caso de las avispas, las cuales se desarrollan en las flores femeninas de dichas plantas según @cardona2007avispas. Otros estudios abordan las propiedades químicas de dichas plantas, este trabajo buca definir las características más notables y básicas de esta familia de plantas apoyándonos en el escenario de BCI. Los demás recursos se verán en la medidad que se deasarrolla el trabajo, siguiendo el orden que en un principio nos hemos propuesto.
 
 
-Todo lo anterior obedece a la parte de datos explotorios, también está presente el segmento correpondiente a la medición de asociación, en el que se presentan los modos Q y R, el primero referido a la medición de asociación de sitios, en este caso por medio de la distancia, y la similaridad de Jaccard. El modo R se refiere a la medición de la asociación entre pares descriptores como son variables o especies, también hago uso de la matríz de Hellinger. En el método de análisis jerárquico, se emplean los diagramas del árbol o dendrogramas (método de cuerda y de Ward).
+Todo lo anterior obedece a la parte de datos explotorios, con excepción de las matrices de Spearman y Hellinger que ya fueron mencionadas y que corresponden a la sección de medición de asociación. Está presente el segmento correpondiente a la medición de asociación, en el que se presentan los modos Q y R, el primero referido a la medición de asociación de sitios, en este caso por medio de la distancia, y la similaridad de Jaccard. El modo R se refiere a la medición de la asociación entre pares descriptores como son variables o especies, también hago uso de la matríz de Hellinger. En el método de análisis jerárquico, también se emplean los diagramas del árbol o dendrogramas (método de cuerda y de Ward).
 
 
-Se realiza el análisis de las especies indicadoras por medio del estadístico de Inval. Para el análisis de diversidad se emplean los modos Alpha y Beta. Dentro de las técnicas de ordenación 
-(restringida y no restringida) las pruebas PCA, RDA, y CCA. Estas pruebas buscan medir la similaridad entre los sitios con variables ambientales. Para el análisis de ecología espacial se empleó el correlogram con estadístico de Moran's I, que determina la existencia de una correlación positiva o negativa.
+Se realiza el análisis de las especies indicadoras por medio del estadístico de Inval. Para el análisis de diversidad se emplean los modos Alpha y Beta. Dentro de las técnicas de ordenación (restringida y no restringida) las pruebas PCA, RDA, y CCA. Estas pruebas buscan medir la similaridad entre los sitios con variables ambientales determinadas. Y por último, ara el análisis de ecología espacial se empleó el correlograma con estadístico de Moran's I, que determina la existencia de una correlación positiva o negativa.
 
 
 
@@ -229,13 +229,13 @@ El análisis de agrupamiento, consiste en una agrupación sucesiva basada en la 
 
 Agrupamiento aglomerativo por enlace simple:
 
-![mapa de la Isla Barro Colorado sitios de composición por distancia de cuerda  \label{fig:bci_map}](sitios_composición_distancia_cuerdas.png){width=100%}
+![mapa de la Isla Barro Colorado sitios de composición por distancia de cuerda  \label{fig:bci_map}](sitios_composicion_distancia_cuerdas.png){width=100%}
 
 Cuando se construye este dendrograma, empleando la menor distancia entre sitios, se obtiene una matriz de cuerdas o matriz normalizada. En este dendrograma se pueden apreciar grupos de objetos muy similares, agrupados en otros mayores con una altura relativamente elevada, los que poseen la mayor altura en ramas, poseen la menor cantidad de objetos (hojas), es decir se presenta una mayor abundancia en los dendrogramas que se encuentran formando subgrupos. Este dendrograma recuerda la forma de una escalera.
 
 Agrupamiento Aglomerativo por enlace completo:
 
-![mapa de la Isla Barro Colorado analisis interpretación dendrogramas   \label{fig:bci_map}](analisis_interpretación_dendrogramas.png){width=100%}
+![mapa de la Isla Barro Colorado analisis interpretación dendrogramas   \label{fig:bci_map}](analisis_interpretacion_dendrogramas.png){width=100%}
 
 En esta imagen, aunque se ilustran los tipos considerados de dendrogramas, nos interesa el completo.
 En el agrupamiento aglomerativo por enlace completo, el criterio empleado es la mayor distancia o menor similaridad, el vecino más lejano. En este dendrograma se muestra una escalera pero con menor sucesión, se distinguen grupos de dendrogramas como en el caso anterior, solo que en esta ocasión los grupos con mayor distancia son poco numerosos en contraste con los los grupos que presentan la menor distancia, y la altura dominante para los cuadros mayores es de 0.8 en su generalidad.
@@ -258,7 +258,7 @@ El método Ward es uno de los más ideales para elegir un dendrograma único que
 
 Una forma de ilustrar mejor la disimilaridad y la similaridad entre los agrupamientos o dendrogramas es por medio del mapa de calor de la matriz de comunidad fusionado con el dendrogrma. El color rosa más intenso corresponde a los sitios más próximos, mientras que la degradación de este corresponde a lugares menos próximos, en el color celeste intenso también se cumple lo mismo, solo que el color rosa es dominante.
 
-![mapa de la Isla Barro Colorado sitios de composición por distancia de cuerda  \label{fig:bci_map}](comparación_dendrograma_mapa_calor.png){width=100%}
+![mapa de la Isla Barro Colorado sitios de composición por distancia de cuerda  \label{fig:bci_map}](comparacion_dendrograma_mapa_calor.png){width=100%}
 
 En el siguiente esquema pueden verse los porcentajes de las siluetas del dendrogrma que agrupan a los subgrupos con mayor similaridad.
 
@@ -319,7 +319,7 @@ Esta grafica representa la abundancia por sitios, sitios de una hectárea, pero 
 
 
 
-![mapa de la Isla Barro número de individuos \label{fig:bci_map}](Número_individuos.png){width=100%}
+![mapa de la Isla Barro número de individuos \label{fig:bci_map}](Numero_individuos.png){width=100%}
 
 En este digrama de curvas de rarefacción puede apreciarse también el número de individuos por sitios. En este diagrama puede apreciarse que prácticamente la totalidad de de sitios poseen una cantidad de individuos superior a los 50 individuos, con excepción del sitio 13 que posee unos 45 aproximadamente, y un escaso número de sitios con una catidad superior a los 200 individuos. La mayor cantidad de sitios comprenden una riqueza en especies que va de de los 50 a los 200 individuos.
 
@@ -344,7 +344,7 @@ Esí se muestran para la familia de moraceae, empleando la técnica de escalamie
 
 ![mapa de la Isla Barro Colorado diagrama de componentes principales variables\label{fig:bci_map}](mi_fam_hel_pca.png){width=100%}
 
-En este diagrama de componentes principales se puede visualizar un decenso brusco de la medida de la inercia que pasa de 0.030 en la componente principal 1 a 0.00 en la componente princioal 17
+En este diagrama de componentes principales se puede visualizar un decenso brusco de la medida de la inercia que pasa de 0.030 en la componente principal 1 a 0.00 en la componente princioal 17.
 
 
 ![mapa de la Isla Barro diagrama de escalamiento 1 y 2 \label{fig:bci_map}](escalamiento_1_2.png){width=100%}
@@ -384,10 +384,9 @@ A partir de esta pequeña descripción del correlograma se puede entender la din
 
 
 
-![mapa de la Isla Barro análisis de especies de moraceae\label{fig:bci_map}](multiples_especies.png){width=100%}
- 
-Como puede verse existe una correlación más positiva que negativa entre las distintas especies de moraceae.
 
+ 
+Como puede verse existe una correlación más positiva que negativa entre las distintas especies de moraceae. Lo que nuevamente viene a recrear la gran riqueza predominante en las distintas especies de moraceae, la similaridad qe se hace visible en cada modo de estudio empleado.
 
 
 # Discusión
@@ -400,7 +399,8 @@ Si bien la Isla Barro Colorado es un enclave marítimo, y de investigación cien
 Pero la construcción de riquezas ecológicas, ademas del emplazamiento geográfico, requieren de eventos geológicos, geográficos y tal vez antrópicos, en este caso tenemos el Canal de Panamá, el recuerdo mejor conservado de la injerencia yanqui en el Caribe. Una isla que se formó en algo más de un siglo, pues de la misma forma corre el riesgo de desaparecer. Pero esto solo compete a un asunto geológico, que no concierne a este trabajo, solo de manera parcial.
 
 
-Como pudo verse en los demás bloques que corresponden a las mediciones de asociación, análisis de agrupamiento jerárquico, diversidad, ordenación
+Como pudo verse en los demás bloques que corresponden a las mediciones de asociación, análisis de agrupamiento jerárquico, diversidad, ordenación, y análisis ecológico espacial. La fuerte asociación prevalece en las especies de moraceae. Algunas variables ambientales como el PH mantienen sun primacía en su modalidad ácida. 
+Pero en todo este trabajo, lo que generalmente prevalece es la similaridad entre sitios que contienen especies, denotado en los diferentes métodos empleados y en las matrices descritas, existe una fuerte cohesión entre individuos similares y abundantes en espacios sumamente reducidos.
 
 
 Nuestro interés se centra, en esta parte, en las condiciones que han creado este espacio insular tan singular, en un tiempo tan breve, en el istmo de Panamá. Si bien sabemos que América es la masa continental que alcanza mayor extensión latitudinal, es probable que en todo el tiempo precedente a la construcción del canal, se dieran las migraciones de especies tanto del norte como del sur. Aunque, una vía interoceánica artificial como lo es el Canal de panamá, probablemente no provocaría cambios notables en el equilibrio biológico de las comunidades de individuos que poblaban esta parte del continente. 
@@ -443,6 +443,47 @@ Quiero dedicar todo mi agradecimiento, primero a Dios porque es quien hace posib
 ![mapa de la Isla Barro Colorado variables ambientales nominales \label{fig:bci_map}](mapas_variables_ambientales_nominales_tmap.png){width=100%}
 ![mapa de la Isla Barro Colorado cuadro de riqueza mi familia \label{fig:bci_map}](mapa_cuadros_riq_mi_familia.png){width=100%}
 
+![mapa de la Isla Barro Colorado matriz disimilaridad hellinger  \label{fig:bci_map}](matriz_disimilaridad_hellinger.png){width=100%}
+
+![mapa de la Isla Barro Colorado matriz disimilaridad  \label{fig:bci_map}](matrizdedisimilaridad.png){width=100%}
+![mapa de la Isla Barro Colorado matriz disimilaridad  \label{fig:bci_map}](matriz_similaridad.png){width=100%}
+
+![mapa de la Isla Barro Colorado mapa de calor  \label{fig:bci_map}](mapadecalor.png){width=100%}
+
+![mapa de la Isla Barro abundancia y riqueza de suelo  \label{fig:bci_map}](matriz_correlacion_suelo_abun_riq_spearman.png){width=100%}
+![mapa de la Isla Barro Colorado sitios de composición por distancia de cuerda  \label{fig:bci_map}](sitios_composicion_distancia_cuerdas.png){width=100%}
+![mapa de la Isla Barro Colorado analisis interpretación dendrogramas   \label{fig:bci_map}](analisis_interpretacion_dendrogramas.png){width=100%}
+![mapa de la Isla Barro Colorado sitios de composición por distancia de cuerda  \label{fig:bci_map}](sitios_metodo_ward.png){width=100%}
+![mapa de la Isla Barro Colorado sitios de composición por distancia de cuerda  \label{fig:bci_map}](agrupamiento_dendrograma.png){width=100%}
+![mapa de la Isla Barro Colorado sitios de composición por distancia de cuerda  \label{fig:bci_map}](comparacion_dendrograma_mapa_calor.png){width=100%}
+![mapa de la Isla Barro Colorado dendrogramas y porcentajes  \label{fig:bci_map}](agrupamiento_dendrogramas_porcentajes.png){width=100%}
+
+![mapa de la Isla Barro Colorado sitios de composición por distancia de cuerda  \label{fig:bci_map}](mapa_upgma_k2.png){width=100%}
+
+![mapa de la Isla Barro Colorado mapa de variables ambientales  \label{fig:bci_map}](mapas_variables_ambientales.png){width=100%}
+![mapa de la Isla Barro Colorado grupos Ward k3 \label{fig:bci_map}](mapa_ward_k3.png){width=100%}
+
+![mapa de la Isla Barro cuadro de cajas Ward \label{fig:bci_map}](cuadro_cajas_ward.png){width=100%}
+![mapa de la Isla Barro modelo abundancia de especies \label{fig:bci_map}](modelo_abundancia_especie.png){width=100%}
+![mapa de la Isla Barro número de individuos \label{fig:bci_map}](Numero_individuos.png){width=100%}
+
+![mapa de la Isla Barro Colorado mapa de calor  \label{fig:bci_map}](diversidad_beta.png){width=100%}
+
+![mapa de la Isla Barro Colorado diagrama de componentes principales variables\label{fig:bci_map}](mi_fam_hel_pca.png){width=100%}
+
+
+![mapa de la Isla Barro diagrama de escalamiento 1 y 2 \label{fig:bci_map}](escalamiento_1_2.png){width=100%}
+
+![mapa de la Isla Barro Colorado RDA diagrama de especies variables\label{fig:bci_map}](rda_escala_especies.png){width=100%}
+
+
+![mapa de la Isla Barro Colorado RDA especies no raras variables\label{fig:bci_map}](rda_escalamiento_escala_5.png){width=100%}
+
+
+![mapa de la Isla Barro Colorado RDA digrama de especies variables\label{fig:bci_map}](rda_especies_escala_4.png){width=100%}
+
+
+![mapa de la Isla Barro análisis de especies de moraceae\label{fig:bci_map}](multiples_especies.png){width=100%}
 # *Script* reproducible
 
 \ldots
