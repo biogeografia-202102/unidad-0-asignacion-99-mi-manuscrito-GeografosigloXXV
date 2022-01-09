@@ -79,7 +79,7 @@ Como dije en un principio, todo el material de apoyo, proviene de las investigac
 
 La islas de Barro Colorado se presenta en un espacio insular fragmentado, para muestra de ello, ver a continuación el mapa adjunto (ver figura ##1).
 
-![mapa de Isla Barro Colorado cuadros\label{fig:bci_map}](mapa_cuadros.png){width=100%}
+![mapa de isla Barro Colorado cuadros\label{fig:bci_map}](mapa_cuadros.png){width=100%}
 
 Por igual empleo los cuadros de variables ambientales nominales y numéricas de 1 hectárea de BCI, constituidas por categorías de edad, habitat, geología y quebrada. Otros recursos de vital importancia son las variables ambientales nominales de una hectárea de BCI, las matrices, en especial de Spearman, de riqueza y abundancia de suelo, y las de Hellinger de medición de asociación. La interacción con estas fuentes de información ayudan a tener una aproximación más concreta sobre la diversidad con relación a la familia tratada. 
 
@@ -116,20 +116,20 @@ En el caso del pH tenemos que es ácido, sgún los mapas y diagramas consultados
 El pH del suelo es importante porque los vegetales solo pueden absorver a los minerales disueltos y la variación del pH modifica el grado de solubilidad de los minerales y nutrientes.
 En el siguiente mapa, se pueden apreciar las medidas de pH presentes en la isla de Barro Colorado en una parcela de 50 hectáreas, con un patrón de distribución al oeste de la parcela en su variedad ácida (ver figura ##2).
 
-![mapa de la Isla Barro Colorado cuadros ph\label{fig:bci_map}](mapa_cuadros_ph.png){width=100%}
+![mapa de la isla Barro Colorado cuadros ph\label{fig:bci_map}](mapa_cuadros_ph.png){width=100%}
 
 Como se puede ver, el pH es eminentemente ácido, en una pacerla de 50 hectáreas, puesto que oscila en una escala de 0 a 6, con una distribución que indica mayor concentración al oeste de dicha parcela. 
 
 En el mapa de abundacia global se advierten valores no lejanos de lo ideal cuando se emplean parámetros de la muestra comprendidos entre 3600 y 5000, que en este caso sería una escala, en una parcela de 50 hectáreas. El Valor promedio que representaría cada hectárea en una media hipotética sería de aproximadamente casi 4000 individuos de esta familia, sin embargo tiende a cambiar cuando hablamos de riqueza. Si bien existen dentro de esta familia, especies representativas de casi todas las formas de vida leñosas, las formas más comunes entre las especies de bibosi, son por un lado plantas hemiepífitas estranguladoras o matapalos y por otro, plantas no epífitas con sistema propio de sustento o higuerones [@fredericksenbibosi,], (ver figura ##3).
 
  
-![mapa de la Isla Barro Colorado abundancia global \label{fig:bci_map}](mapa_cuadros_abun_global.png){width=100%}
+![mapa de la isla Barro Colorado abundancia global \label{fig:bci_map}](mapa_cuadros_abun_global.png){width=100%}
 
 En el mapa de abundancia de mi familia no se presenta tampoco que la muestra por hectárea se aleja de forma marcada del parámetro empleado para la parcela de 50 hectáreas, en este caso en un parámetro de entre 200 y 700 individuos, podría verificarse una especie de relación directa entre el primer y segundo mapa.
 
 En ambos casos cada hectárea adquiere valores próximos a la dimensión numérica de individuos presentes en la parcela, para ello adjunto el siguiente mapa sobre abundancia de mi familia (ver figura ##4).
 
-![mapa de la Isla Barro Colorado abundancia de mi familia \label{fig:bci_map}](mapa_cuadros_abun_mi_familia.png){width=100%}
+![mapa de la isla Barro Colorado abundancia de mi familia \label{fig:bci_map}](mapa_cuadros_abun_mi_familia.png){width=100%}
 
 Como puede comprobarse existen muchos individuos, en este caso citando la abundancia, de una determinada especie de la familia de Moraceae en una hectárea de la isla Barro Colorado, con un patrón de concentración al noreste de la parcela, lo que muestra una amplia densidad para una parcela de 50 hectáreas. Siendo estas plantas muchas veces ejemplares de gran dimensión en muchos de los casos, se infiere que estas forman un dosel impenetrable, típico de muchos bosques de la selva tropicla centroamericana, en donde BCI no es la excepción. No solo estaríamos hablando de Moraceae, sino de otras especies que forman la cubierta de esta región intertropical.
 
@@ -139,13 +139,13 @@ La isla de Barro Colorado es realmente joven dentro de lo que es la escala de ti
 En este sentido sería bueno apreciar las pendientes, y ver el valor de la altitud en esta especie de enclave marítimo, lo que también favorece la existencia abundante de ejemplares de Moraceae (ver figura ##5).
 
 
-![mapa de la Isla Barro Colorado cuadros y pendientes \label{fig:bci_map}](mapa_cuadros_pendiente.png){width=100%}
+![mapa de la isla Barro Colorado cuadros y pendientes \label{fig:bci_map}](mapa_cuadros_pendiente.png){width=100%}
 
 Para una consideración general de la parcela de 50 hectáreas se destaca gran pendiente, con un patrón de distribución al sur de la misma. 
 
 En el caso de las variables ambientales numéricas se obtiene los siguientes valores (ver figura ##6)
 
-![mapa de la Isla Barro Colorado variables ambientales numéricas \label{fig:bci_map}](mapas_variables_ambientales_numericas.png){width=100%}
+![mapa de la isla Barro Colorado variables ambientales numéricas \label{fig:bci_map}](mapas_variables_ambientales_numericas.png){width=100%}
 
 Aquí podemos ver una especie de síntesis de las informaciones que ofrecen las variables ambientales de una hectárea, escaladas de 0 a 1. 
 En el caso de las geoformas, correspondientes a llanuras, se obtienen valores grandes en un segmento de la escala que va de 0.00 a 0.25, lo que refleja un terreno eminentemente llano.
@@ -155,7 +155,7 @@ Los valores de la escala muestran amplias diferencias entre unas variables y otr
 
 En el mapa de variables ambientales nominales, se aprecia la dinámica de algunas variables ambientales (ver figura ##7)
 
-![mapa de la Isla Barro Colorado variables ambientales nominales \label{fig:bci_map}](mapas_variables_ambientales_nominales_tmap.png){width=100%}
+![mapa de la isla Barro Colorado variables ambientales nominales \label{fig:bci_map}](mapas_variables_ambientales_nominales_tmap.png){width=100%}
 
 En esta matriz se distinguen variables como la categoría de edad, geología de la región, hábitat, y la quebrada. El hábitat de bosque viejo en terreno alto (OldHigh), se destaca por su relativa minoría. En tanto que el bosque viejo en relieve bajo (OldLow) es el más abundante. El bosque viejo con pendiente (OldSlope), es relativamente abundante. El pantano es escaso (Swamp), así también el bosque joven (Young). En cuanto a la geología tenemos que el tipo de roca predominante es de tipo intrusivo o plutónica. Las quebradas o barrancos son estrechos. Existen dos grandes categorías dentro de la variable de edad, el bosque viejo en terreno bajo, y el bosque viejo en terreno alto. De lo anterior se infiere que existe más terreno bajo con bosque viejo en BCI en una base gelógica joven, que con las demás variables.
 
@@ -163,14 +163,14 @@ En esta matriz se distinguen variables como la categoría de edad, geología de 
 El mapa de riqueza presenta un formato similar a los de abundancia, con comportamientos diferenciados por hectárea, comparados con la parcela de 50 hectáreas.
 En el siguiente mapa puede apreciarse la riqueza de la famiia botánica bajo estudio (Moraceae) por hectárea (ver figura ##8).
 
-![mapa de la Isla Barro Colorado cuadro de riqueza mi familia \label{fig:bci_map}](mapa_cuadros_riq_mi_familia.png){width=100%}
+![mapa de la isla Barro Colorado cuadro de riqueza mi familia \label{fig:bci_map}](mapa_cuadros_riq_mi_familia.png){width=100%}
 
 En esta parte puede apreciarse que la riqueza es casi la misma por hectárea, acercándose al nivel superior de la escala, así se puede asumir que el grado de dispersión de algunos individuos de la familia Moraceae es casi nulo. Existe una gran riqueza de estas plantas que ayudan en gran parte a mantener este grandioso ecosistema.
 
 
 Ya para el mapa de riqueza global se advierten mayores contrastes por hectárea, pero igual se impone la diversidad, la multiplicidad de individuos es asombrosa (ver figura ##9). La riqueza global presenta un patrón de distribución noroeste-sureste.
 
-![mapa de la Isla Barro Colorado riqueza global \label{fig:bci_map}](mapa_cuadros_riq_global.png){width=100%}
+![mapa de la isla Barro Colorado riqueza global \label{fig:bci_map}](mapa_cuadros_riq_global.png){width=100%}
 
 
 En los cuadros de variables ambientales, se registran las diferencias entre unas y otras, se distinguen tierras bajas de otras no muy altas. Pero no solo se analizan los rasgos geomorfológicos, otras variables ofrecen tambien allí su concurso. Aprecen valores de pH, riqueza global por igual, abundancia global, entre otras variables. 
@@ -183,7 +183,7 @@ Dentro de los modelos de medición de asociación existen los modos Q y R, en es
 A continuación se presenta una matríz de disimilaridad (ver figura ##10).
 
 
-![mapa de la Isla Barro Colorado matriz disimilaridad hellinger  \label{fig:bci_map}](matriz_disimilaridad_hellinger.png){width=100%}
+![mapa de la isla Barro Colorado matriz disimilaridad hellinger  \label{fig:bci_map}](matriz_disimilaridad_hellinger.png){width=100%}
 
 La matrz de disimilaridad es una representación de la medición de asociación entre objetos en el modo Q, como serían los sitios de muestreo. En esta matriz se puede apreciar una fuerte asociación entre objetos y esto lo indica la continuidad del color rosado (cuadro de la derecha). En este caso nos referimos a la matriz de la derecha, que es la matriz ordenada,  a partir de la primera. Por ejemplo entre los sitios 40 y 35 existe una distancia muy pequeña entre sitios parecidos para la matriz ordenada.
 La transformación Hellinger permite hacer la interpretación en base a dos colores representativos: Color fucsia (magneta, rosa) que equivale a corta distancia, muy similar, y el cian o celeste que significa gran distancia o poco similar, todo esto con relación a los elementos de la familia de las moraceae. 
@@ -192,7 +192,7 @@ Algunos de los valores de disimilaridad o de distancia entre objetos que podemos
 A continuación presento una versión mejorada de la matríz ordenada de datos cuantitativos de especies (abundancia) con fuerte asociación en la diagonal (ver figura ##11).
 
 
-![mapa de la Isla Barro Colorado matriz disimilaridad  \label{fig:bci_map}](matrizdedisimilaridad.png){width=100%}
+![mapa de la isla Barro Colorado matriz disimilaridad  \label{fig:bci_map}](matrizdedisimilaridad.png){width=100%}
 
 En esta matriz de disimilaridad o de distancia vienen a recrearse los anteriores casos de abundancia de los mapas de la Isla de Barro Colorado. En la diagonal se pueden apreciar los sitios que poseen características similares con la menor distancia(color rosado), mientras que en los demás lugares se aprecian lugares con características similares a mayor distancia y con una menor asociación (color cian o celeste).
 Hasta el momento me he centrado en el modo Q que mide el nivel de asociación por medio de la disimilaridad o similiridad.
@@ -200,7 +200,7 @@ Algo sumamente importante dentro del modo Q, en este caso basándome en datos bi
 
 La similaridad es la proporción de objetos compartiods entre sitios, en la siguiente gráfica de la matriz pueden apreciarse las espcecies compartidas entre sitios (ver figura ##12).
 
-![mapa de la Isla Barro Colorado matriz disimilaridad  \label{fig:bci_map}](matriz_similaridad.png){width=100%}
+![mapa de la isla Barro Colorado matriz disimilaridad  \label{fig:bci_map}](matriz_similaridad.png){width=100%}
 
 Pueden notarse en los bloques de colores las especies compartidas entre sitios, y que son exclusivas de dichos sitios. Por ejemplo para las variables a, b y c, que se desprenden de la fómula, incluida en los scripts reproducibles que sirven de soporte a este trabajo, de la similaridad, donde a representa el número de especies compartidas, b es el número de especies exclusivas del sitio 2 y c el numero de especies exclusivas del sitio 1. La cantidad de especies compartidas entre sitios con relación a las moraceae es grande, esto debido a la ausencia de ceros, hecho que en la paradoja de Orlóci refleja cercanía según la distancia euclídea que hace ver próximos los lugares o sitios que no comparten especies o individuos.  
 
@@ -208,14 +208,14 @@ En el modo R se mide la asociación entre pares descriptores, es decir variables
 
 Un ejemplo ilustrativo sería el mapa de calor (ver figura ##13)
 
-![mapa de la Isla Barro Colorado mapa de calor  \label{fig:bci_map}](mapadecalor.png){width=100%}
+![mapa de la isla Barro Colorado mapa de calor  \label{fig:bci_map}](mapadecalor.png){width=100%}
 
 En el mapa de calor mostrado se percibe una relación de dependencia en la diagonal de la derecha, esto es lo que se mide en el modo R, la asociación entre elementos descriptores, en este caso la abundancia de especies como variables. Entre la *Cainito aspidosperma* y la *trichinia tuberculata* se nota una fuerte dependencia, evidenciado por la continuidad del color fucsia o rosa. Lo mismo no ocurre con los colores de los bordes que reflejan franjas más pequeñas, y a su vez degradadas, lo que evidencia ausencia de dependencia.
 Esto así cuando se trata del modo R aplicado a datos cuantitativos de especies, que reflejan la abundancia, al igual que el modo Q, el Modo R se aplica para datos binarios, así tambien para la abundancia de variables (coeficientes de spearman y pearson).
 
 A continuación muestro una matriz de abundancia y riqueza de suelo según el coeficiente de Spearman, con valores que aumentan y disminuyen de este a oeste, y de norte a sur, los valores en rojo presentan los valores más altos, y los azules los más bajos (ver figura ##14).
 
-![mapa de la Isla Barro Colorado abundancia y riqueza de suelo  \label{fig:bci_map}](matriz_correlacion_suelo_abun_riq_spearman.png){width=100%}
+![mapa de la isla Barro Colorado abundancia y riqueza de suelo  \label{fig:bci_map}](matriz_correlacion_suelo_abun_riq_spearman.png){width=100%}
 
 
 En la medición de asociación en los modos antes mencionados, se obtiene una apreciación estadística de la distribución de sitios, especies y variables ambientales presentes en la isla Barro Colorado que reflejan la cuatificación de las comunidades de moraceas presentes en dicha isla, así como la mayor o menor concentración de las mismas con relación al grado de asociación presente en los sitios. 
@@ -230,7 +230,7 @@ A continuación se muestran los resultados de esta sección correspondiente a la
 
 ### Agrupamiento Aglomerativo por Enlace Simple
 
-![mapa de la Isla Barro Colorado sitios de composición por distancia de cuerda  \label{fig:bci_map}](sitios_composicion_distancia_cuerdas.png){width=100%}
+![mapa de la isla Barro Colorado sitios de composición por distancia de cuerda  \label{fig:bci_map}](sitios_composicion_distancia_cuerdas.png){width=100%}
 
 Cuando se construye este dendrograma, empleando la menor distancia entre sitios, se obtiene una matriz de cuerdas o matriz normalizada (ver figura ##15). 
 En este dendrograma se puede apreciar que en la parcela de 50 hectáreas aún cuando se construyeran subgrupos cada vez más pequeños para la familia de Moraceae, se formaría una innumerable cantidad de los mismos, lo que pone sobre relieve la gran similaridad entre sitios que albergan a especies de dicha familia, ya sea en función de la abundancia o de la riqueza. Este dendrograma recuerda la forma de una escalera (ver figura ##15).
@@ -238,7 +238,7 @@ En este dendrograma se puede apreciar que en la parcela de 50 hectáreas aún cu
 
 ### Agrupamiento Aglomerativo por Enlace Completo
 
-![mapa de la Isla Barro Colorado analisis interpretación dendrogramas   \label{fig:bci_map}](analisis_interpretacion_dendrogramas.png){width=100%}
+![mapa de la isla Barro Colorado analisis interpretación dendrogramas   \label{fig:bci_map}](analisis_interpretacion_dendrogramas.png){width=100%}
 
 En esta imagen, aunque se ilustran los tipos considerados de dendrogramas (ver figura ##16), nos interesa el completo.
 En el agrupamiento aglomerativo por enlace completo, el criterio empleado es la mayor distancia o menor similaridad, el vecino más lejano. En este dendrograma se muestra una escalera pero con menor sucesión, se distinguen grupos de dendrogramas como en el caso anterior, solo que en esta ocasión los grupos con mayor distancia son poco numerosos en contraste con los los grupos que presentan la menor distancia, y la altura dominante para los cuadros mayores es de 0.8 en su generalidad.
@@ -246,7 +246,7 @@ En el agrupamiento aglomerativo por enlace completo, el criterio empleado es la 
 
 ### Agrupamiento Aglomerativo por Enlace Promedio
 
-![mapa de la Isla Barro Colorado sitios de composición por distancia de cuerda  \label{fig:bci_map}](sitios_metodo_ward.png){width=100%}
+![mapa de la isla Barro Colorado sitios de composición por distancia de cuerda  \label{fig:bci_map}](sitios_metodo_ward.png){width=100%}
 
 El método de Ward, aunque no es un método por enlace (ver figura ##17), lo elijo por su fácil comprensión (en este caso sería el UPGMA, para el caso de la media o promedio), recuerda la silueta de una pirámide toscamente dibujada, con una interpretación visual más factible que en los casos anteriores. Existe una regularidad en los subgrupos, lo que refleja, al igual que en las secciones anteriores una fuerte asociación, mayor similaridad que disimilaridad en las partes dominantes o más visibles. Un ejemplo de visualización lo ofrece el modelo de agrupación aglomerativa por enlace promedio, UPGMA, en el cual aparecen siluetas aglomerativas y repetitivas que reflejan una continuidad en la similaridad de los subgrupos.
 
@@ -257,20 +257,20 @@ En esta parte estamos a la altura de elegir métodos que nos permitan minimizar 
 En esencia consiste en obtener la menor cantidad posible de siluetas que se distinguen por la existencia de pequeños grupos de figuras.
 En la siguiente imagen pueden apreciarse los cortes de las siluetas en tamaños menos complicados de analizar y no muy distantes en su dimensión, por lo menos en los dos primeros cuadros (ver figura ##18).
 
-![mapa de la Isla Barro Colorado sitios de composición por distancia de cuerda  \label{fig:bci_map}](agrupamiento_dendrograma.png){width=100%}
+![mapa de la isla Barro Colorado sitios de composición por distancia de cuerda  \label{fig:bci_map}](agrupamiento_dendrograma.png){width=100%}
 
 El método Ward es uno de los más ideales para elegir un dendrograma único que permita apreciar por simple inspección el tamaño de las siluetas, y el número de sitios que contienen, en este caso serían tres cuadros de 12 y 13 sitios para el primer y segundo cuadro respectivamente, y de 25 sitios para el tercero, todos a una altura de 1.3 aproximadamente dentro del dendrograma. En este dendrograma pueden apreciarse las siluestas más fácilmente que en los ejemplos anteriores.
 
 Una forma de ilustrar mejor la disimilaridad y la similaridad entre los agrupamientos o dendrogramas es por medio del mapa de calor de la matriz de comunidad fusionado con el dendrogrma. En eta ilustración se distinguen los sitios que presentan mayor grado de asociación. Puede verse que el dendrograma está cortado a la mitad, y los sitios que presentan mayor similaridad o menor distancia están al centro y en los extremos, por ejemplo, los grupos 13 y 18 presentan una fuerte asociación, y en general los grupos dispuestos de forma vertical presentan mayor similaridad que los dispuestos de forma horizontal (ver figura ##19).
 
-![mapa de la Isla Barro Colorado sitios de composición por distancia de cuerda  \label{fig:bci_map}](comparacion_dendrograma_mapa_calor.png){width=100%}
+![mapa de la isla Barro Colorado sitios de composición por distancia de cuerda  \label{fig:bci_map}](comparacion_dendrograma_mapa_calor.png){width=100%}
 
-![mapa de la Isla Barro Colorado remuestreo multiescalar por Bootstrap \label{fig:bci_map}](multiescalar_bootstrap.png){width=100%}
+![mapa de la isla Barro Colorado remuestreo multiescalar por Bootstrap \label{fig:bci_map}](multiescalar_bootstrap.png){width=100%}
 
 
 En el mapa anterior pueden verse las probabilidades, y la anchura de las siluetas de los cuadros que contienen los subgrupos con mayor similaridad, lo que refleja los posibles cortes que se podrían hacer sobre el dendrograma (ver figura ##20).
 
-![mapa de la Isla Barro Colorado dendrogramas y porcentajes  \label{fig:bci_map}](agrupamiento_dendrogramas_porcentajes.png){width=100%}
+![mapa de la isla Barro Colorado dendrogramas y porcentajes  \label{fig:bci_map}](agrupamiento_dendrogramas_porcentajes.png){width=100%}
 
 En el dendrograma anterior, también pueden notarse las probabilidades por el método Ward (ver figura ##21)
 
@@ -284,16 +284,16 @@ Dentro del análisis de agrupamiento, se haya incrustado el estudio de las varia
 Así se puede visualizar en el siguiente mapa (ver figura ##22)
 
 
-![mapa de la Isla Barro Colorado sitios de composición por distancia de cuerda  \label{fig:bci_map}](mapa_upgma_k2.png){width=100%}
+![mapa de la isla Barro Colorado sitios de composición por distancia de cuerda  \label{fig:bci_map}](mapa_upgma_k2.png){width=100%}
 
-![mapa de la Isla Barro Colorado mapa de variables ambientales  \label{fig:bci_map}](mapas_variables_ambientales.png){width=100%}
+![mapa de la isla Barro Colorado mapa de variables ambientales  \label{fig:bci_map}](mapas_variables_ambientales.png){width=100%}
 
 En el mapa adjunto, así como en el diagrama de cajas (ver figura ##23), puede visualizarse el comportamiento de la mediana de las variables ambientales, de la riqueza, así como también de abundancia. El método UPGMA, presenta un patrón de distribución al este y al sur para el grupo 2  de las variables ambientales dentro de la parcela de 50 hectáreas. Las  varibles del grupo 1 de la parcela presentan un patrón en todos los rumbos. Dentro de la riqueza, y la abundancia, los grupos 1 y 2, presentan valores no muy distantes, lo que evidencia el condicionamieto ambietal de la isla, y que nuevamente refleja la fuerte riqueza y asociación de las especies de Moraceae en dicho espacio insular. Dentro de las variables ambientales de tipo geomorfológico, la mediana para el grupo 1, naturalmente presenta mayores valores que aquellos sitios de la misma parcela que se presentan en el grupo 2, pero en cuanto a la concentración de elementos químicos en un número de hectáreas más reducido (en este caso el grupo 2), representan mayor valor para la mediana.
 
 
-![mapa de la Isla Barro Colorado grupos Ward k3 \label{fig:bci_map}](mapa_ward_k3.png){width=100%}
+![mapa de la isla Barro Colorado grupos Ward k3 \label{fig:bci_map}](mapa_ward_k3.png){width=100%}
 
-![mapa de la Isla Barro Colorado cuadro de cajas Ward \label{fig:bci_map}](cuadro_cajas_ward.png){width=100%}
+![mapa de la isla Barro Colorado cuadro de cajas Ward \label{fig:bci_map}](cuadro_cajas_ward.png){width=100%}
 
 Para el método Ward en el comportamiento de las varibles se presentan tres sitios que muestran la dinámica de las variables ambientales dentro de la parcela de 50 hectáreas con un patrón de distribución distinto al caso anterior. Cuando relacionamos las varibles del diagrama de cajas (ver figura ##25) que también se aprecian en el mapa (ver figura ##24), puede corroborarse que estas se concentran más al centro de la parcela, algunas al sur, y otras al este. Variables como el pH, presentan altos valores de mediana en casi todas las hectáreas de la parcela. También ocurre lo mismo con el nitrógeno. Para el caso de la abundancia y la riqueza el valor de la mediana presenta valores elevados, aunque en el caso de la primera las cajas o sitios ocupan mayor espacio.
 
@@ -320,13 +320,13 @@ En este artículo se emplean dos modalidades de estudio: Alpha y beta.
 Para la diverisdad alpha sobre la familia en cuestión se muestran los resultdos siguientes,
 
 
-![mapa de la Isla Barro Colorado modelo abundancia de especies \label{fig:bci_map}](modelo_abundancia_especie.png){width=100%}
+![mapa de la isla Barro Colorado modelo abundancia de especies \label{fig:bci_map}](modelo_abundancia_especie.png){width=100%}
 
 La gráfica anterior (ver figura ##26) representa la abundancia por sitios, sitios de una hectárea, pero cada línea representa una métrica. El gráfico también presenta cuáles sitios podrían mostrar mayor equidad. Encontramos que las líneas de color verde y azul represental la mayor abundancia de los lugares en los cuales se encuentran.
 
 
 
-![mapa de la Isla Barro Colorado número de individuos \label{fig:bci_map}](Numero_individuos.png){width=100%}
+![mapa de la isla Barro Colorado número de individuos \label{fig:bci_map}](Numero_individuos.png){width=100%}
 
 En el digrama anterior (ver figura ##27) de curvas de rarefacción puede apreciarse también el número de individuos por sitios. En este diagrama puede apreciarse que prácticamente la totalidad de de sitios poseen una cantidad de individuos superior a los 50 individuos, con excepción del sitio 13 que posee unos 45 aproximadamente, y un escaso número de sitios con una catidad superior a los 200 individuos. La mayor cantidad de sitios comprende una riqueza en especies que va de los 50 a los 200 individuos.
 
@@ -334,9 +334,9 @@ En el digrama anterior (ver figura ##27) de curvas de rarefacción puede aprecia
 
 La diversidad beta se puede apreciar en segiente mapa de cuadros (ver figura ##27), seguido de la gráfica (ver figura.
 
-![mapa de la Isla Barro Colorado mapa cuadro diversidad beta \label{fig:bci_map}](mapa_cuadros.png){width=100%}
+![mapa de la isla Barro Colorado mapa cuadro diversidad beta \label{fig:bci_map}](mapa_cuadros.png){width=100%}
 
-![mapa de la Isla Barro Colorado mapa de calor  \label{fig:bci_map}](diversidad_beta.png){width=100%}
+![mapa de la isla Barro Colorado mapa de calor  \label{fig:bci_map}](diversidad_beta.png){width=100%}
 
 
 Para este tipo de diversidad, se presenta un patrón de distribución al este de la parcela de 50 hectáreas y se aprecian las parcelas de una hectárea que poseen la mayor cantidad de individuos por especies, al oeste se aprecia una diversidad mucho más reducida. Este modo de visualizar la variabilidad es más comprensible que en los casos anteriores. En el gráfico (ver figura ##28) también puede apreciarse mayor diversidad al este de la parcela.
@@ -348,17 +348,17 @@ Las principales técnicas de análisis no restringido son: PCA (Análisis de Com
 
 Así se muestran para la familia de moraceae, empleando la técnica de escalamiento PCA, la cual compara las componentes principales.
 
-![mapa de la Isla Barro Colorado diagrama de componentes principales variables\label{fig:bci_map}](mi_fam_hel_pca.png){width=100%}
+![mapa de la isla Barro Colorado diagrama de componentes principales variables\label{fig:bci_map}](mi_fam_hel_pca.png){width=100%}
 
 En este diagrama de componentes principales se puede visualizar un decenso brusco de la medida de la inercia que pasa de 0.030 en la componente principal 1 a 0.00 en la componente princioal 17 (ver figura ##29).
 
 
-![mapa de la Isla Barro Colorado diagrama de escalamiento 1 y 2 \label{fig:bci_map}](escalamiento_1_2.png){width=100%}
+![mapa de la isla Barro Colorado diagrama de escalamiento 1 y 2 \label{fig:bci_map}](escalamiento_1_2.png){width=100%}
 
 En esta técnica de escalamiento pueden visualizarse los grados de asociación mediante un plano de coordenadas ortogonales. La cercanía que describen los ángulos de las variables ambientales representa el grado de asocición de las mismas. En el primer cuadrante (ver figura ##30) predomina la distancia euclídea, en el segundo, la distancia de Mahalanovich. Se forman nuves de puntos en los cuadrantes, estos puntos representan los sitios, y como se puede ver en los gráficos, estos se concentran más en el cuadrante negativo. Para ambos casos hay mayor asociación al norte del plano.
 
 
-![mapa de la Isla Barro Colorado diagrama asociación de variables\label{fig:bci_map}](escalamiento_ajuste_2.png){width=100%}
+![mapa de la isla Barro Colorado diagrama asociación de variables\label{fig:bci_map}](escalamiento_ajuste_2.png){width=100%}
 
 En este diagrama (ver figura ##31) puede percibirse la fuerte asociación que existe en las variables ambientales (color verde), por la cercanía de los ángulos en la parte superior del plano. Hay mayor asociación en la componente principal 2 que en la componente principal 1.
 
@@ -368,11 +368,11 @@ Para la ordenación restringida, las tendencias asociadas a un grupo de ordenaci
 
 En esta parte se mostrarán los resultados para RDA Y CCA. RDA combina la regresión y elanálisis de componentes principales. 
 
-![mapa de la Isla Barro Colorado RDA diagrama de especies variables\label{fig:bci_map}](rda_escala_especies.png){width=100%}
+![mapa de la isla Barro Colorado RDA diagrama de especies variables\label{fig:bci_map}](rda_escala_especies.png){width=100%}
 
-![mapa de la Isla Barro Colorado RDA especies no raras variables\label{fig:bci_map}](rda_escalamiento_escala_5.png){width=100%}
+![mapa de la isla Barro Colorado RDA especies no raras variables\label{fig:bci_map}](rda_escalamiento_escala_5.png){width=100%}
 
-![mapa de la Isla Barro Colorado RDA digrama de especies variables\label{fig:bci_map}](rda_especies_escala_4.png){width=100%}
+![mapa de la isla Barro Colorado RDA digrama de especies variables\label{fig:bci_map}](rda_especies_escala_4.png){width=100%}
 
 En estos planos bidimensionales puede apreciars el comportamiento de las variables ambientales incluyendo el recurso suelo, de las especies, y de especies no raras. en el primer diagrama (RDA) (ver figura ##32) puede verse la fuerte asociación de los elementos químicos que integran el suelo, descrita por las líneas azules que represental los ángulos en el tercer cuadrante del plano. En el digrama de especies no raras (CCA) 
 (ver figura ##33) se percibe una fuerte concentración de sitios en el tercer cuadrante, y es precisamente allí donde existe una menor asociación entre elementos químicos (variables ambientales). Por ejemplo el fósforo está presente en la mayor cantidad de sitios, y es un elemento que se encuentra a una distancia angular considerada con relación a los demás, lo mismo pasa con el alunminio. Para el cobre, el manganeso y el hierro ocurre todo lo contrario. 
@@ -386,7 +386,7 @@ Esta es una froma de observar los valores de las variables Ambientales desde una
 
 
 
-![mapa de la Isla Barro Colorado RDA digrama de especies variables\label{fig:bci_map}](multiples_especies.png){width=100%}
+![mapa de la isla Barro Colorado RDA digrama de especies variables\label{fig:bci_map}](multiples_especies.png){width=100%}
 
 
 
@@ -459,108 +459,108 @@ Quiero dedicar todo mi agradecimiento, primero a Dios porque es quien hace posib
 
 # Información de soporte
 
-![mapa de Isla Barro Colorado cuadros\label{fig:bci_map}](mapa_cuadros.png){width=100%}
+![mapa de isla Barro Colorado cuadros\label{fig:bci_map}](mapa_cuadros.png){width=100%}
 
-![mapa de la Isla Barro Colorado cuadros ph\label{fig:bci_map}](mapa_cuadros_ph.png){width=100%}
-
-
-![mapa de la Isla Barro Colorado abundancia global \label{fig:bci_map}](mapa_cuadros_abun_global.png){width=100%}
+![mapa de la isla Barro Colorado cuadros ph\label{fig:bci_map}](mapa_cuadros_ph.png){width=100%}
 
 
-![mapa de la Isla Barro Colorado cuadros y pendientes \label{fig:bci_map}](mapa_cuadros_pendiente.png){width=100%}
+![mapa de la isla Barro Colorado abundancia global \label{fig:bci_map}](mapa_cuadros_abun_global.png){width=100%}
 
 
-![mapa de la Isla Barro Colorado riquza global \label{fig:bci_map}](mapa_cuadros_riq_global.png){width=100%}
+![mapa de la isla Barro Colorado cuadros y pendientes \label{fig:bci_map}](mapa_cuadros_pendiente.png){width=100%}
 
 
-![mapa de la Isla Barro Colorado variables ambientales numéricas \label{fig:bci_map}](mapas_variables_ambientales_numericas.png){width=100%}
+![mapa de la isla Barro Colorado riquza global \label{fig:bci_map}](mapa_cuadros_riq_global.png){width=100%}
 
 
-![mapa de la Isla Barro Colorado variables ambientales nominales \label{fig:bci_map}](mapas_variables_ambientales_nominales_tmap.png){width=100%}
+![mapa de la isla Barro Colorado variables ambientales numéricas \label{fig:bci_map}](mapas_variables_ambientales_numericas.png){width=100%}
 
 
-![mapa de la Isla Barro Colorado cuadro de riqueza mi familia \label{fig:bci_map}](mapa_cuadros_riq_mi_familia.png){width=100%}
+![mapa de la isla Barro Colorado variables ambientales nominales \label{fig:bci_map}](mapas_variables_ambientales_nominales_tmap.png){width=100%}
 
 
-![mapa de la Isla Barro Colorado matriz disimilaridad hellinger  \label{fig:bci_map}](matriz_disimilaridad_hellinger.png){width=100%}
-
-![mapa de la Isla Barro Colorado matriz disimilaridad  \label{fig:bci_map}](matrizdedisimilaridad.png){width=100%}
+![mapa de la isla Barro Colorado cuadro de riqueza mi familia \label{fig:bci_map}](mapa_cuadros_riq_mi_familia.png){width=100%}
 
 
-![mapa de la Isla Barro Colorado matriz disimilaridad  \label{fig:bci_map}](matriz_similaridad.png){width=100%}
+![mapa de la isla Barro Colorado matriz disimilaridad hellinger  \label{fig:bci_map}](matriz_disimilaridad_hellinger.png){width=100%}
+
+![mapa de la isla Barro Colorado matriz disimilaridad  \label{fig:bci_map}](matrizdedisimilaridad.png){width=100%}
 
 
-![mapa de la Isla Barro Colorado mapa de calor  \label{fig:bci_map}](mapadecalor.png){width=100%}
+![mapa de la isla Barro Colorado matriz disimilaridad  \label{fig:bci_map}](matriz_similaridad.png){width=100%}
 
 
-![mapa de la Isla Barro Colorado abundancia y riqueza de suelo  \label{fig:bci_map}](matriz_correlacion_suelo_abun_riq_spearman.png){width=100%}
+![mapa de la isla Barro Colorado mapa de calor  \label{fig:bci_map}](mapadecalor.png){width=100%}
 
 
-![mapa de la Isla Barro Colorado sitios de composición por distancia de cuerda  \label{fig:bci_map}](sitios_composicion_distancia_cuerdas.png){width=100%}
+![mapa de la isla Barro Colorado abundancia y riqueza de suelo  \label{fig:bci_map}](matriz_correlacion_suelo_abun_riq_spearman.png){width=100%}
 
 
-![mapa de la Isla Barro Colorado analisis interpretación dendrogramas   \label{fig:bci_map}](analisis_interpretacion_dendrogramas.png){width=100%}
+![mapa de la isla Barro Colorado sitios de composición por distancia de cuerda  \label{fig:bci_map}](sitios_composicion_distancia_cuerdas.png){width=100%}
 
 
-![mapa de la Isla Barro Colorado sitios de composición por distancia de cuerda  \label{fig:bci_map}](sitios_metodo_ward.png){width=100%}
+![mapa de la isla Barro Colorado analisis interpretación dendrogramas   \label{fig:bci_map}](analisis_interpretacion_dendrogramas.png){width=100%}
 
 
-![mapa de la Isla Barro Colorado sitios de composición por distancia de cuerda  \label{fig:bci_map}](agrupamiento_dendrograma.png){width=100%}
+![mapa de la isla Barro Colorado sitios de composición por distancia de cuerda  \label{fig:bci_map}](sitios_metodo_ward.png){width=100%}
 
 
-![mapa de la Isla Barro Colorado sitios de composición por distancia de cuerda  \label{fig:bci_map}](comparacion_dendrograma_mapa_calor.png){width=100%}
+![mapa de la isla Barro Colorado sitios de composición por distancia de cuerda  \label{fig:bci_map}](agrupamiento_dendrograma.png){width=100%}
+
+
+![mapa de la isla Barro Colorado sitios de composición por distancia de cuerda  \label{fig:bci_map}](comparacion_dendrograma_mapa_calor.png){width=100%}
 
 
 ![mapa de la isla Barro Colorado remuestreo multiescalar por Bootstrap \label{fig:bci_map}](multiescalar_bootstrap.png){width=100%}
 
 
 
-![mapa de la Isla Barro Colorado dendrogramas y porcentajes  \label{fig:bci_map}](agrupamiento_dendrogramas_porcentajes.png){width=100%}
+![mapa de la isla Barro Colorado dendrogramas y porcentajes  \label{fig:bci_map}](agrupamiento_dendrogramas_porcentajes.png){width=100%}
 
 
 
-![mapa de la Isla Barro Colorado sitios de composición por distancia de cuerda  \label{fig:bci_map}](mapa_upgma_k2.png){width=100%}
+![mapa de la isla Barro Colorado sitios de composición por distancia de cuerda  \label{fig:bci_map}](mapa_upgma_k2.png){width=100%}
 
 
-![mapa de la Isla Barro Colorado mapa de variables ambientales  \label{fig:bci_map}](mapas_variables_ambientales.png){width=100%}
+![mapa de la isla Barro Colorado mapa de variables ambientales  \label{fig:bci_map}](mapas_variables_ambientales.png){width=100%}
 
 
-![mapa de la Isla Barro Colorado grupos Ward k3 \label{fig:bci_map}](mapa_ward_k3.png){width=100%}
+![mapa de la isla Barro Colorado grupos Ward k3 \label{fig:bci_map}](mapa_ward_k3.png){width=100%}
 
 
-![mapa de la Isla Barro cuadro de cajas Ward \label{fig:bci_map}](cuadro_cajas_ward.png){width=100%}
+![mapa de la isla Barro cuadro de cajas Ward \label{fig:bci_map}](cuadro_cajas_ward.png){width=100%}
 
 
-![mapa de la Isla Barro Colorado modelo abundancia de especies \label{fig:bci_map}](modelo_abundancia_especie.png){width=100%}
+![mapa de la isla Barro Colorado modelo abundancia de especies \label{fig:bci_map}](modelo_abundancia_especie.png){width=100%}
 
 
-![mapa de la Isla Barro Colorado número de individuos \label{fig:bci_map}](Numero_individuos.png){width=100%}
+![mapa de la isla Barro Colorado número de individuos \label{fig:bci_map}](Numero_individuos.png){width=100%}
 
 
-![mapa de la Isla Barro Colorado mapa de calor  \label{fig:bci_map}](diversidad_beta.png){width=100%}
-
-
-
-![mapa de la Isla Barro Colorado diagrama de componentes principales variables\label{fig:bci_map}](mi_fam_hel_pca.png){width=100%}
+![mapa de la isla Barro Colorado mapa de calor  \label{fig:bci_map}](diversidad_beta.png){width=100%}
 
 
 
-![mapa de la Isla Barro Colorado diagrama de escalamiento 1 y 2 \label{fig:bci_map}](escalamiento_1_2.png){width=100%}
+![mapa de la isla Barro Colorado diagrama de componentes principales variables\label{fig:bci_map}](mi_fam_hel_pca.png){width=100%}
 
 
 
-![mapa de la Isla Barro Colorado RDA diagrama de especies variables\label{fig:bci_map}](rda_escala_especies.png){width=100%}
+![mapa de la isla Barro Colorado diagrama de escalamiento 1 y 2 \label{fig:bci_map}](escalamiento_1_2.png){width=100%}
 
 
 
-![mapa de la Isla Barro Colorado RDA especies no raras variables\label{fig:bci_map}](rda_escalamiento_escala_5.png){width=100%}
+![mapa de la isla Barro Colorado RDA diagrama de especies variables\label{fig:bci_map}](rda_escala_especies.png){width=100%}
 
 
 
-![mapa de la Isla Barro Colorado RDA digrama de especies variables\label{fig:bci_map}](rda_especies_escala_4.png){width=100%}
+![mapa de la isla Barro Colorado RDA especies no raras variables\label{fig:bci_map}](rda_escalamiento_escala_5.png){width=100%}
 
 
-![mapa de la Isla Barro Colorado análisis de especies de moraceae\label{fig:bci_map}](multiples_especies.png){width=100%}
+
+![mapa de la isla Barro Colorado RDA digrama de especies variables\label{fig:bci_map}](rda_especies_escala_4.png){width=100%}
+
+
+![mapa de la isla Barro Colorado análisis de especies de moraceae\label{fig:bci_map}](multiples_especies.png){width=100%}
 # *Script* reproducible
 
 \ldots
