@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.17)  6 JAN 2022 08:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.17)  9 JAN 2022 11:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -687,6 +687,81 @@ LaTeX Warning: Label `fig:bci_map' multiply defined.
 
 LaTeX Warning: Label `fig:bci_map' multiply defined.
 
+
+LaTeX Warning: Label `fig:bci_map' multiply defined.
+
+
+LaTeX Warning: Label `fig:bci_map' multiply defined.
+
+
+LaTeX Warning: Label `fig:bci_map' multiply defined.
+
+
+LaTeX Warning: Label `fig:bci_map' multiply defined.
+
+
+LaTeX Warning: Label `fig:bci_map' multiply defined.
+
+
+LaTeX Warning: Label `fig:bci_map' multiply defined.
+
+
+LaTeX Warning: Label `fig:bci_map' multiply defined.
+
+
+LaTeX Warning: Label `fig:bci_map' multiply defined.
+
+
+LaTeX Warning: Label `fig:bci_map' multiply defined.
+
+
+LaTeX Warning: Label `fig:bci_map' multiply defined.
+
+
+LaTeX Warning: Label `fig:bci_map' multiply defined.
+
+
+LaTeX Warning: Label `fig:bci_map' multiply defined.
+
+
+LaTeX Warning: Label `fig:bci_map' multiply defined.
+
+
+LaTeX Warning: Label `fig:bci_map' multiply defined.
+
+
+LaTeX Warning: Label `fig:bci_map' multiply defined.
+
+
+LaTeX Warning: Label `fig:bci_map' multiply defined.
+
+
+LaTeX Warning: Label `fig:bci_map' multiply defined.
+
+
+LaTeX Warning: Label `fig:bci_map' multiply defined.
+
+
+LaTeX Warning: Label `fig:bci_map' multiply defined.
+
+
+LaTeX Warning: Label `fig:bci_map' multiply defined.
+
+
+LaTeX Warning: Label `fig:bci_map' multiply defined.
+
+
+LaTeX Warning: Label `fig:bci_map' multiply defined.
+
+
+LaTeX Warning: Label `fig:bci_map' multiply defined.
+
+
+LaTeX Warning: Label `fig:bci_map' multiply defined.
+
+
+LaTeX Warning: Label `fig:bci_map' multiply defined.
+
 )
 \openout1 = `manuscrito.aux'.
 
@@ -802,765 +877,883 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
-
-LaTeX Warning: Reference `fig:bci_map ##1' on page 3 undefined on input line 32
-8.
-
-<mapa_cuadros.png, id=45, 995.72pt x 762.85pt>
+<mapa_cuadros.png, id=101, 995.72pt x 762.85pt>
 File: mapa_cuadros.png Graphic file (type png)
 <use mapa_cuadros.png>
-Package pdftex.def Info: mapa_cuadros.png  used on input line 332.
+Package pdftex.def Info: mapa_cuadros.png  used on input line 344.
 (pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
-[3] [4pdfTeX warning (ext4): destination with the same identifier (name{figure.
-1}) has been already used, duplicate ignored
+[3]
+Overfull \hbox (0.6471pt too wide) in paragraph at lines 357--364
+[]\T1/ppl/m/n/10.95 Los méto-dos que hasta el mo-mento he señal-ado cor-re-spon
+-den a los ma-pas en los cuales aparece
+ []
+
+[4pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) 
+has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.371 
-       <./mapa_cuadros.png>]
-<mapa_cuadros_ph.png, id=57, 995.72pt x 762.85pt>
+l.376 
+       <./mapa_cuadros.png>] [5]
+<mapa_cuadros_ph.png, id=117, 995.72pt x 762.85pt>
 File: mapa_cuadros_ph.png Graphic file (type png)
 <use mapa_cuadros_ph.png>
-Package pdftex.def Info: mapa_cuadros_ph.png  used on input line 402.
+Package pdftex.def Info: mapa_cuadros_ph.png  used on input line 457.
 (pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
-[5] [6pdfTeX warning (ext4): destination with the same identifier (name{figure.
-2}) has been already used, duplicate ignored
+[6pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) 
+has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.439 
+l.476 
        <./mapa_cuadros_ph.png>]
-<mapa_cuadros_abun_global.png, id=68, 995.72pt x 762.85pt>
+<mapa_cuadros_abun_global.png, id=124, 995.72pt x 762.85pt>
 File: mapa_cuadros_abun_global.png Graphic file (type png)
 <use mapa_cuadros_abun_global.png>
-Package pdftex.def Info: mapa_cuadros_abun_global.png  used on input line 454.
+Package pdftex.def Info: mapa_cuadros_abun_global.png  used on input line 479.
+(pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
+<mapa_cuadros_abun_mi_familia.png, id=125, 995.72pt x 762.85pt>
+File: mapa_cuadros_abun_mi_familia.png Graphic file (type png)
+<use mapa_cuadros_abun_mi_familia.png>
+Package pdftex.def Info: mapa_cuadros_abun_mi_familia.png  used on input line 4
+96.
 (pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
 [7pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) 
 has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.465 
+l.500 
        <./mapa_cuadros_abun_global.png>]
-<mapa_cuadros_abun_mi_familia.png, id=76, 995.72pt x 762.85pt>
-File: mapa_cuadros_abun_mi_familia.png Graphic file (type png)
-<use mapa_cuadros_abun_mi_familia.png>
-Package pdftex.def Info: mapa_cuadros_abun_mi_familia.png  used on input line 4
-68.
+<mapa_cuadros_pendiente.png, id=133, 995.72pt x 762.85pt>
+File: mapa_cuadros_pendiente.png Graphic file (type png)
+<use mapa_cuadros_pendiente.png>
+Package pdftex.def Info: mapa_cuadros_pendiente.png  used on input line 523.
 (pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
-LaTeX Font Info:    Try loading font information for OT1+ppl on input line 494.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ppl.fd
-File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
-)
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 494
-.
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlzplm.fd
-File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
-)
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 494
-.
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omszplm.fd
-File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
-)
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 494
-.
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxzplm.fd
-File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
-)
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 494
-.
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1zplm.fd
-File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
-) [8pdfTeX warning (ext4): destination with the same identifier (name{figure.4}
-) has been already used, duplicate ignored
+[8pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) 
+has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.495 
+l.527 
        <./mapa_cuadros_abun_mi_familia.png>]
-
-LaTeX Warning: Reference `fig:pendiente BCI' on page 9 undefined on input line 
-517.
-
-<mapa_cuadros_pendiente.png, id=83, 995.72pt x 762.85pt>
-File: mapa_cuadros_pendiente.png Graphic file (type png)
-<use mapa_cuadros_pendiente.png>
-Package pdftex.def Info: mapa_cuadros_pendiente.png  used on input line 521.
-(pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
+<mapas_variables_ambientales_numericas.png, id=140, 819.06pt x 520.344pt>
+File: mapas_variables_ambientales_numericas.png Graphic file (type png)
+<use mapas_variables_ambientales_numericas.png>
+Package pdftex.def Info: mapas_variables_ambientales_numericas.png  used on inp
+ut line 536.
+(pdftex.def)             Requested size: 469.76855pt x 298.44118pt.
 [9pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) 
 has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.537 
+l.540 
        <./mapa_cuadros_pendiente.png>]
-Overfull \hbox (10.45679pt too wide) in paragraph at lines 538--548
-[]\T1/ppl/m/n/10.95 BCI con-sti-tuye como una es-pecie de in-ter-rup-ción del s
-is-tema or-grá-fico de zona ist-mica panameña
- []
-
-<mapas_variables_ambientales_numericas.png, id=91, 819.06pt x 520.344pt>
-File: mapas_variables_ambientales_numericas.png Graphic file (type png)
-<use mapas_variables_ambientales_numericas.png>
-Package pdftex.def Info: mapas_variables_ambientales_numericas.png  used on inp
-ut line 554.
-(pdftex.def)             Requested size: 469.76855pt x 298.44118pt.
+<mapas_variables_ambientales_nominales_tmap.png, id=147, 412.97144pt x 247.7828
+5pt>
+File: mapas_variables_ambientales_nominales_tmap.png Graphic file (type png)
+<use mapas_variables_ambientales_nominales_tmap.png>
+Package pdftex.def Info: mapas_variables_ambientales_nominales_tmap.png  used o
+n input line 559.
+(pdftex.def)             Requested size: 412.97041pt x 247.78224pt.
 [10pdfTeX warning (ext4): destination with the same identifier (name{figure.6})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.565 C
-       on relaciÃ³n a las vrtientes ocurre todo lo contrario, se obtienen <./ma
-pas_variables_ambientales_numericas.png (PNG copy)>]
-<mapas_variables_ambientales_nominales_tmap.png, id=97, 412.97144pt x 247.78285
-pt>
-File: mapas_variables_ambientales_nominales_tmap.png Graphic file (type png)
-<use mapas_variables_ambientales_nominales_tmap.png>
-Package pdftex.def Info: mapas_variables_ambientales_nominales_tmap.png  used o
-n input line 589.
-(pdftex.def)             Requested size: 412.97041pt x 247.78224pt.
-<mapa_cuadros_riq_mi_familia.png, id=98, 995.72pt x 762.85pt>
+l.563 
+       <./mapas_variables_ambientales_numericas.png (PNG copy)>]
+<mapa_cuadros_riq_mi_familia.png, id=153, 995.72pt x 762.85pt>
 File: mapa_cuadros_riq_mi_familia.png Graphic file (type png)
 <use mapa_cuadros_riq_mi_familia.png>
-Package pdftex.def Info: mapa_cuadros_riq_mi_familia.png  used on input line 61
-3.
+Package pdftex.def Info: mapa_cuadros_riq_mi_familia.png  used on input line 58
+4.
 (pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
 [11pdfTeX warning (ext4): destination with the same identifier (name{figure.7})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.616 \end{figure}
-                   <./mapas_variables_ambientales_nominales_tmap.png (PNG copy)
->]
-<mapa_cuadros_riq_global.png, id=104, 995.72pt x 762.85pt>
+l.588 
+       <./mapas_variables_ambientales_nominales_tmap.png (PNG copy)>]
+<mapa_cuadros_riq_global.png, id=159, 995.72pt x 762.85pt>
 File: mapa_cuadros_riq_global.png Graphic file (type png)
 <use mapa_cuadros_riq_global.png>
-Package pdftex.def Info: mapa_cuadros_riq_global.png  used on input line 631.
+Package pdftex.def Info: mapa_cuadros_riq_global.png  used on input line 602.
 (pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
 [12pdfTeX warning (ext4): destination with the same identifier (name{figure.8})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.635 
-       <./mapa_cuadros_riq_mi_familia.png>] [13pdfTeX warning (ext4): destinati
-on with the same identifier (name{figure.9}) has been already used, duplicate i
-gnored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.667 
-       <./mapa_cuadros_riq_global.png>]
-<matriz_disimilaridad_hellinger.png, id=118, 2409.0pt x 1204.5pt>
+l.606 
+       <./mapa_cuadros_riq_mi_familia.png>]
+<matriz_disimilaridad_hellinger.png, id=166, 2409.0pt x 1204.5pt>
 File: matriz_disimilaridad_hellinger.png Graphic file (type png)
 <use matriz_disimilaridad_hellinger.png>
 Package pdftex.def Info: matriz_disimilaridad_hellinger.png  used on input line
- 681.
+ 628.
 (pdftex.def)             Requested size: 469.73474pt x 234.86737pt.
+[13pdfTeX warning (ext4): destination with the same identifier (name{figure.9})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.632 
+       <./mapa_cuadros_riq_global.png>]
+<matrizdedisimilaridad.png, id=174, 541.27219pt x 319.94531pt>
+File: matrizdedisimilaridad.png Graphic file (type png)
+<use matrizdedisimilaridad.png>
+Package pdftex.def Info: matrizdedisimilaridad.png  used on input line 659.
+(pdftex.def)             Requested size: 469.7715pt x 277.68134pt.
 [14pdfTeX warning (ext4): destination with the same identifier (name{figure.10}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.709 
+l.663 
        <./matriz_disimilaridad_hellinger.png (PNG copy)>]
-<matrizdedisimilaridad.png, id=124, 541.27219pt x 319.94531pt>
-File: matrizdedisimilaridad.png Graphic file (type png)
-<use matrizdedisimilaridad.png>
-Package pdftex.def Info: matrizdedisimilaridad.png  used on input line 712.
-(pdftex.def)             Requested size: 469.7715pt x 277.68134pt.
-<matriz_similaridad.png, id=125, 491.58656pt x 286.06876pt>
+<matriz_similaridad.png, id=181, 491.58656pt x 286.06876pt>
 File: matriz_similaridad.png Graphic file (type png)
 <use matriz_similaridad.png>
-Package pdftex.def Info: matriz_similaridad.png  used on input line 742.
+Package pdftex.def Info: matriz_similaridad.png  used on input line 689.
 (pdftex.def)             Requested size: 469.77245pt x 273.37448pt.
 [15pdfTeX warning (ext4): destination with the same identifier (name{figure.11}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.746 
+l.693 
        <./matrizdedisimilaridad.png (PNG copy)>]
-<mapadecalor.png, id=131, 541.27219pt x 320.69812pt>
+<mapadecalor.png, id=187, 541.27219pt x 320.69812pt>
 File: mapadecalor.png Graphic file (type png)
 <use mapadecalor.png>
-Package pdftex.def Info: mapadecalor.png  used on input line 770.
+Package pdftex.def Info: mapadecalor.png  used on input line 717.
 (pdftex.def)             Requested size: 469.7715pt x 278.3347pt.
 [16pdfTeX warning (ext4): destination with the same identifier (name{figure.12}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.774 
+l.721 
        <./matriz_similaridad.png (PNG copy)>]
-<matriz_correlacion_suelo_abun_riq_spearman.png, id=137, 1110.0672pt x 624.4128
+<matriz_correlacion_suelo_abun_riq_spearman.png, id=193, 1110.0672pt x 624.4128
 pt>
 File: matriz_correlacion_suelo_abun_riq_spearman.png Graphic file (type png)
 <use matriz_correlacion_suelo_abun_riq_spearman.png>
 Package pdftex.def Info: matriz_correlacion_suelo_abun_riq_spearman.png  used o
-n input line 795.
+n input line 742.
 (pdftex.def)             Requested size: 469.7482pt x 264.23335pt.
 [17pdfTeX warning (ext4): destination with the same identifier (name{figure.13}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.799 
+l.746 
        <./mapadecalor.png (PNG copy)>]
-<sitios_composicion_distancia_cuerdas.png, id=143, 491.58656pt x 286.06876pt>
+<sitios_composicion_distancia_cuerdas.png, id=199, 491.58656pt x 286.06876pt>
 File: sitios_composicion_distancia_cuerdas.png Graphic file (type png)
 <use sitios_composicion_distancia_cuerdas.png>
 Package pdftex.def Info: sitios_composicion_distancia_cuerdas.png  used on inpu
-t line 825.
+t line 764.
 (pdftex.def)             Requested size: 469.77245pt x 273.37448pt.
 [18pdfTeX warning (ext4): destination with the same identifier (name{figure.14}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.829 
+l.768 
        <./matriz_correlacion_suelo_abun_riq_spearman.png (PNG copy)>]
-<analisis_interpretacion_dendrogramas.png, id=149, 541.27219pt x 320.69812pt>
+<analisis_interpretacion_dendrogramas.png, id=205, 541.27219pt x 320.69812pt>
 File: analisis_interpretacion_dendrogramas.png Graphic file (type png)
 <use analisis_interpretacion_dendrogramas.png>
 Package pdftex.def Info: analisis_interpretacion_dendrogramas.png  used on inpu
-t line 843.
+t line 784.
 (pdftex.def)             Requested size: 469.7715pt x 278.3347pt.
 [19pdfTeX warning (ext4): destination with the same identifier (name{figure.15}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.847 
+l.788 
        <./sitios_composicion_distancia_cuerdas.png>]
-<sitios_metodo_ward.png, id=157, 491.58656pt x 286.06876pt>
+<sitios_metodo_ward.png, id=213, 491.58656pt x 286.06876pt>
 File: sitios_metodo_ward.png Graphic file (type png)
 <use sitios_metodo_ward.png>
-Package pdftex.def Info: sitios_metodo_ward.png  used on input line 862.
+Package pdftex.def Info: sitios_metodo_ward.png  used on input line 804.
 (pdftex.def)             Requested size: 469.77245pt x 273.37448pt.
 [20pdfTeX warning (ext4): destination with the same identifier (name{figure.16}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.866 
+l.808 
        <./analisis_interpretacion_dendrogramas.png>]
-<agrupamiento_dendrograma.png, id=164, 541.27219pt x 320.69812pt>
+<agrupamiento_dendrograma.png, id=220, 541.27219pt x 320.69812pt>
 File: agrupamiento_dendrograma.png Graphic file (type png)
 <use agrupamiento_dendrograma.png>
-Package pdftex.def Info: agrupamiento_dendrograma.png  used on input line 893.
+Package pdftex.def Info: agrupamiento_dendrograma.png  used on input line 836.
 (pdftex.def)             Requested size: 469.7715pt x 278.3347pt.
 [21pdfTeX warning (ext4): destination with the same identifier (name{figure.17}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.897 
+l.840 
        <./sitios_metodo_ward.png>]
-Overfull \hbox (3.14859pt too wide) in paragraph at lines 906--912
-\T1/ppl/m/n/10.95 grma. El color rosa más in-tenso cor-re-sponde a los sitios m
-ás próx-i-mos, mien-tras que la degradación
- []
-
-<comparacion_dendrograma_mapa_calor.png, id=171, 541.27219pt x 320.69812pt>
+<comparacion_dendrograma_mapa_calor.png, id=227, 541.27219pt x 320.69812pt>
 File: comparacion_dendrograma_mapa_calor.png Graphic file (type png)
 <use comparacion_dendrograma_mapa_calor.png>
 Package pdftex.def Info: comparacion_dendrograma_mapa_calor.png  used on input 
-line 915.
+line 862.
 (pdftex.def)             Requested size: 469.7715pt x 278.3347pt.
 [22pdfTeX warning (ext4): destination with the same identifier (name{figure.18}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.919 
+l.866 
        <./agrupamiento_dendrograma.png (PNG copy)>]
-<agrupamiento_dendrogramas_porcentajes.png, id=178, 541.27219pt x 320.69812pt>
-File: agrupamiento_dendrogramas_porcentajes.png Graphic file (type png)
-<use agrupamiento_dendrogramas_porcentajes.png>
-Package pdftex.def Info: agrupamiento_dendrogramas_porcentajes.png  used on inp
-ut line 925.
-(pdftex.def)             Requested size: 469.7715pt x 278.3347pt.
+<multiescalar_bootstrap.png, id=233, 501.37312pt x 283.0575pt>
+File: multiescalar_bootstrap.png Graphic file (type png)
+<use multiescalar_bootstrap.png>
+Package pdftex.def Info: multiescalar_bootstrap.png  used on input line 869.
+(pdftex.def)             Requested size: 469.77603pt x 265.21889pt.
 [23pdfTeX warning (ext4): destination with the same identifier (name{figure.19}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.929 
-       <./comparacion_dendrograma_mapa_calor.png (PNG copy)>]
-<mapa_upgma_k2.png, id=184, 995.72pt x 762.85pt>
+l.878 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+20}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.878 
+       <./comparacion_dendrograma_mapa_calor.png (PNG copy)> <./multiescalar_bo
+otstrap.png (PNG copy)>]
+<agrupamiento_dendrogramas_porcentajes.png, id=240, 541.27219pt x 320.69812pt>
+File: agrupamiento_dendrogramas_porcentajes.png Graphic file (type png)
+<use agrupamiento_dendrogramas_porcentajes.png>
+Package pdftex.def Info: agrupamiento_dendrogramas_porcentajes.png  used on inp
+ut line 881.
+(pdftex.def)             Requested size: 469.7715pt x 278.3347pt.
+<mapa_upgma_k2.png, id=241, 995.72pt x 762.85pt>
 File: mapa_upgma_k2.png Graphic file (type png)
 <use mapa_upgma_k2.png>
-Package pdftex.def Info: mapa_upgma_k2.png  used on input line 950.
+Package pdftex.def Info: mapa_upgma_k2.png  used on input line 910.
 (pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
-[24pdfTeX warning (ext4): destination with the same identifier (name{figure.20}
+[24pdfTeX warning (ext4): destination with the same identifier (name{figure.21}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.954 
+l.914 
        <./agrupamiento_dendrogramas_porcentajes.png (PNG copy)>]
-<mapas_variables_ambientales.png, id=190, 541.27219pt x 320.69812pt>
+<mapas_variables_ambientales.png, id=247, 541.27219pt x 320.69812pt>
 File: mapas_variables_ambientales.png Graphic file (type png)
 <use mapas_variables_ambientales.png>
-Package pdftex.def Info: mapas_variables_ambientales.png  used on input line 95
+Package pdftex.def Info: mapas_variables_ambientales.png  used on input line 91
 7.
 (pdftex.def)             Requested size: 469.7715pt x 278.3347pt.
-[25pdfTeX warning (ext4): destination with the same identifier (name{figure.21}
+[25pdfTeX warning (ext4): destination with the same identifier (name{figure.22}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.961 
+l.921 
        <./mapa_upgma_k2.png>]
-<mapa_ward_k3.png, id=198, 995.72pt x 762.85pt>
+<mapa_ward_k3.png, id=255, 995.72pt x 762.85pt>
 File: mapa_ward_k3.png Graphic file (type png)
 <use mapa_ward_k3.png>
-Package pdftex.def Info: mapa_ward_k3.png  used on input line 980.
+Package pdftex.def Info: mapa_ward_k3.png  used on input line 941.
 (pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
-[26pdfTeX warning (ext4): destination with the same identifier (name{figure.22}
+[26pdfTeX warning (ext4): destination with the same identifier (name{figure.23}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.984 
+l.945 
        <./mapas_variables_ambientales.png (PNG copy)>]
-<cuadro_cajas_ward.png, id=204, 541.27219pt x 320.69812pt>
+<cuadro_cajas_ward.png, id=261, 541.27219pt x 320.69812pt>
 File: cuadro_cajas_ward.png Graphic file (type png)
 <use cuadro_cajas_ward.png>
-Package pdftex.def Info: cuadro_cajas_ward.png  used on input line 987.
+Package pdftex.def Info: cuadro_cajas_ward.png  used on input line 948.
 (pdftex.def)             Requested size: 469.7715pt x 278.3347pt.
-[27pdfTeX warning (ext4): destination with the same identifier (name{figure.23}
+[27pdfTeX warning (ext4): destination with the same identifier (name{figure.24}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.990 
+l.952 
        <./mapa_ward_k3.png>] [28pdfTeX warning (ext4): destination with the sam
-e identifier (name{figure.24}) has been already used, duplicate ignored
+e identifier (name{figure.25}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1031 
-        <./cuadro_cajas_ward.png (PNG copy)>]
-<modelo_abundancia_especie.png, id=216, 491.58656pt x 286.06876pt>
+l.994 
+       <./cuadro_cajas_ward.png (PNG copy)>]
+<modelo_abundancia_especie.png, id=273, 491.58656pt x 286.06876pt>
 File: modelo_abundancia_especie.png Graphic file (type png)
 <use modelo_abundancia_especie.png>
-Package pdftex.def Info: modelo_abundancia_especie.png  used on input line 1066
+Package pdftex.def Info: modelo_abundancia_especie.png  used on input line 1020
 .
 (pdftex.def)             Requested size: 469.77245pt x 273.37448pt.
-[29pdfTeX warning (ext4): destination with the same identifier (name{figure.25}
-) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.1076 
-        <./modelo_abundancia_especie.png (PNG copy)>]
-<Numero_individuos.png, id=222, 491.58656pt x 286.06876pt>
+<Numero_individuos.png, id=274, 491.58656pt x 286.06876pt>
 File: Numero_individuos.png Graphic file (type png)
 <use Numero_individuos.png>
-Package pdftex.def Info: Numero_individuos.png  used on input line 1079.
+Package pdftex.def Info: Numero_individuos.png  used on input line 1033.
 (pdftex.def)             Requested size: 469.77245pt x 273.37448pt.
+[29pdfTeX warning (ext4): destination with the same identifier (name{figure.26}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1036 \end{figure}
+                    <./modelo_abundancia_especie.png (PNG copy)>]
 File: mapa_cuadros.png Graphic file (type png)
 <use mapa_cuadros.png>
-Package pdftex.def Info: mapa_cuadros.png  used on input line 1097.
+Package pdftex.def Info: mapa_cuadros.png  used on input line 1054.
 (pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
-<diversidad_beta.png, id=223, 541.27219pt x 320.69812pt>
+[30pdfTeX warning (ext4): destination with the same identifier (name{figure.27}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1058 
+        <./Numero_individuos.png (PNG copy)>]
+<diversidad_beta.png, id=285, 541.27219pt x 320.69812pt>
 File: diversidad_beta.png Graphic file (type png)
 <use diversidad_beta.png>
-Package pdftex.def Info: diversidad_beta.png  used on input line 1098.
+Package pdftex.def Info: diversidad_beta.png  used on input line 1061.
 (pdftex.def)             Requested size: 469.7715pt x 278.3347pt.
-
-Overfull \hbox (17.01108pt too wide) in paragraph at lines 1097--1099
-[][]
- []
-
-[30pdfTeX warning (ext4): destination with the same identifier (name{figure.26}
+[31pdfTeX warning (ext4): destination with the same identifier (name{figure.28}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1099 
-        <./Numero_individuos.png (PNG copy)>] [31 <./diversidad_beta.png>]
-<mi_fam_hel_pca.png, id=235, 491.58656pt x 286.06876pt>
+l.1065 
+       ]
+<mi_fam_hel_pca.png, id=292, 491.58656pt x 286.06876pt>
 File: mi_fam_hel_pca.png Graphic file (type png)
 <use mi_fam_hel_pca.png>
-Package pdftex.def Info: mi_fam_hel_pca.png  used on input line 1132.
+Package pdftex.def Info: mi_fam_hel_pca.png  used on input line 1087.
 (pdftex.def)             Requested size: 469.77245pt x 273.37448pt.
-<escalamiento_1_2.png, id=236, 491.58656pt x 286.06876pt>
+[32pdfTeX warning (ext4): destination with the same identifier (name{figure.29}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1091 
+        <./diversidad_beta.png>]
+<escalamiento_1_2.png, id=299, 491.58656pt x 286.06876pt>
 File: escalamiento_1_2.png Graphic file (type png)
 <use escalamiento_1_2.png>
-Package pdftex.def Info: escalamiento_1_2.png  used on input line 1143.
+Package pdftex.def Info: escalamiento_1_2.png  used on input line 1099.
 (pdftex.def)             Requested size: 469.77245pt x 273.37448pt.
-[32pdfTeX warning (ext4): destination with the same identifier (name{figure.27}
+[33pdfTeX warning (ext4): destination with the same identifier (name{figure.30}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1147 
+l.1103 
         <./mi_fam_hel_pca.png (PNG copy)>]
-<escalamiento_ajuste_2.png, id=242, 491.58656pt x 286.06876pt>
+<escalamiento_ajuste_2.png, id=305, 491.58656pt x 286.06876pt>
 File: escalamiento_ajuste_2.png Graphic file (type png)
 <use escalamiento_ajuste_2.png>
-Package pdftex.def Info: escalamiento_ajuste_2.png  used on input line 1160.
+Package pdftex.def Info: escalamiento_ajuste_2.png  used on input line 1116.
 (pdftex.def)             Requested size: 469.77245pt x 273.37448pt.
-[33pdfTeX warning (ext4): destination with the same identifier (name{figure.28}
+[34pdfTeX warning (ext4): destination with the same identifier (name{figure.31}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1164 
+l.1120 
         <./escalamiento_1_2.png (PNG copy)>]
-<rda_escala_especies.png, id=248, 541.27219pt x 320.69812pt>
+<rda_escala_especies.png, id=311, 541.27219pt x 320.69812pt>
 File: rda_escala_especies.png Graphic file (type png)
 <use rda_escala_especies.png>
-Package pdftex.def Info: rda_escala_especies.png  used on input line 1186.
+Package pdftex.def Info: rda_escala_especies.png  used on input line 1144.
 (pdftex.def)             Requested size: 469.7715pt x 278.3347pt.
-[34pdfTeX warning (ext4): destination with the same identifier (name{figure.29}
+[35pdfTeX warning (ext4): destination with the same identifier (name{figure.32}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1190 
+l.1148 
         <./escalamiento_ajuste_2.png (PNG copy)>]
-<rda_escalamiento_escala_5.png, id=254, 541.27219pt x 320.69812pt>
+<rda_escalamiento_escala_5.png, id=317, 541.27219pt x 320.69812pt>
 File: rda_escalamiento_escala_5.png Graphic file (type png)
 <use rda_escalamiento_escala_5.png>
-Package pdftex.def Info: rda_escalamiento_escala_5.png  used on input line 1193
+Package pdftex.def Info: rda_escalamiento_escala_5.png  used on input line 1151
 .
 (pdftex.def)             Requested size: 469.7715pt x 278.3347pt.
-[35pdfTeX warning (ext4): destination with the same identifier (name{figure.30}
+[36pdfTeX warning (ext4): destination with the same identifier (name{figure.33}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1155 
+        <./rda_escala_especies.png (PNG copy)>]
+<rda_especies_escala_4.png, id=324, 541.27219pt x 320.69812pt>
+File: rda_especies_escala_4.png Graphic file (type png)
+<use rda_especies_escala_4.png>
+Package pdftex.def Info: rda_especies_escala_4.png  used on input line 1158.
+(pdftex.def)             Requested size: 469.7715pt x 278.3347pt.
+[37pdfTeX warning (ext4): destination with the same identifier (name{figure.34}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1162 
+        <./rda_escalamiento_escala_5.png (PNG copy)>]
+<multiples_especies.png, id=331, 813.79031pt x 389.20406pt>
+File: multiples_especies.png Graphic file (type png)
+<use multiples_especies.png>
+Package pdftex.def Info: multiples_especies.png  used on input line 1193.
+(pdftex.def)             Requested size: 469.75116pt x 224.66359pt.
+[38pdfTeX warning (ext4): destination with the same identifier (name{figure.35}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.1197 
-        <./rda_escala_especies.png (PNG copy)>]
-<rda_especies_escala_4.png, id=260, 541.27219pt x 320.69812pt>
-File: rda_especies_escala_4.png Graphic file (type png)
-<use rda_especies_escala_4.png>
-Package pdftex.def Info: rda_especies_escala_4.png  used on input line 1200.
-(pdftex.def)             Requested size: 469.7715pt x 278.3347pt.
-[36pdfTeX warning (ext4): destination with the same identifier (name{figure.31}
-) has been already used, duplicate ignored
+        <./rda_especies_escala_4.png (PNG copy)>] [39pdfTeX warning (ext4): des
+tination with the same identifier (name{figure.36}) has been already used, dupl
+icate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1204 
-        <./rda_escalamiento_escala_5.png (PNG copy)>] [37pdfTeX warning (ext4):
- destination with the same identifier (name{figure.32}) has been already used, 
-duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.1243 
-        <./rda_especies_escala_4.png (PNG copy)>] [38]
+l.1236 
+        <./multiples_especies.png>] [40]
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 1378
+.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ppl.fd
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+)
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 137
+8.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlzplm.fd
+File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
+)
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 137
+8.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omszplm.fd
+File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
+)
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 137
+8.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxzplm.fd
+File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
+)
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 137
+8.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1zplm.fd
+File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
+) [41]
 File: mapa_cuadros.png Graphic file (type png)
 <use mapa_cuadros.png>
-Package pdftex.def Info: mapa_cuadros.png  used on input line 1368.
+Package pdftex.def Info: mapa_cuadros.png  used on input line 1412.
 (pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
-[39]
+[42]
 File: mapa_cuadros_ph.png Graphic file (type png)
 <use mapa_cuadros_ph.png>
-Package pdftex.def Info: mapa_cuadros_ph.png  used on input line 1374.
+Package pdftex.def Info: mapa_cuadros_ph.png  used on input line 1418.
 (pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
-[40pdfTeX warning (ext4): destination with the same identifier (name{figure.33}
+[43pdfTeX warning (ext4): destination with the same identifier (name{figure.37}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1377 
+l.1421 
        ]
 File: mapa_cuadros_abun_global.png Graphic file (type png)
 <use mapa_cuadros_abun_global.png>
-Package pdftex.def Info: mapa_cuadros_abun_global.png  used on input line 1378.
+Package pdftex.def Info: mapa_cuadros_abun_global.png  used on input line 1424.
 
 (pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
-File: mapa_cuadros_pendiente.png Graphic file (type png)
-<use mapa_cuadros_pendiente.png>
-Package pdftex.def Info: mapa_cuadros_pendiente.png  used on input line 1379.
-(pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
-File: mapa_cuadros_riq_global.png Graphic file (type png)
-<use mapa_cuadros_riq_global.png>
-Package pdftex.def Info: mapa_cuadros_riq_global.png  used on input line 1380.
-(pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
-
-Overfull \hbox (17.01108pt too wide) in paragraph at lines 1378--1381
-[][]
- []
-
-[41pdfTeX warning (ext4): destination with the same identifier (name{figure.34}
+[44pdfTeX warning (ext4): destination with the same identifier (name{figure.38}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1381 
+l.1428 
        ]
-Overfull \vbox (70.37288pt too high) has occurred while \output is active []
+File: mapa_cuadros_pendiente.png Graphic file (type png)
+<use mapa_cuadros_pendiente.png>
+Package pdftex.def Info: mapa_cuadros_pendiente.png  used on input line 1431.
+(pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
+[45pdfTeX warning (ext4): destination with the same identifier (name{figure.39}
+) has been already used, duplicate ignored
 
-[42]
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1435 
+       ]
+File: mapa_cuadros_riq_global.png Graphic file (type png)
+<use mapa_cuadros_riq_global.png>
+Package pdftex.def Info: mapa_cuadros_riq_global.png  used on input line 1438.
+(pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
+[46pdfTeX warning (ext4): destination with the same identifier (name{figure.40}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1442 
+       ]
 File: mapas_variables_ambientales_numericas.png Graphic file (type png)
 <use mapas_variables_ambientales_numericas.png>
 Package pdftex.def Info: mapas_variables_ambientales_numericas.png  used on inp
-ut line 1382.
+ut line 1445.
 (pdftex.def)             Requested size: 469.76855pt x 298.44118pt.
-File: mapas_variables_ambientales_nominales_tmap.png Graphic file (type png)
-<use mapas_variables_ambientales_nominales_tmap.png>
-Package pdftex.def Info: mapas_variables_ambientales_nominales_tmap.png  used o
-n input line 1383.
-(pdftex.def)             Requested size: 412.97041pt x 247.78224pt.
-File: mapa_cuadros_riq_mi_familia.png Graphic file (type png)
-<use mapa_cuadros_riq_mi_familia.png>
-Package pdftex.def Info: mapa_cuadros_riq_mi_familia.png  used on input line 13
-84.
-(pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
-
-Overfull \hbox (17.01353pt too wide) in paragraph at lines 1382--1385
-[][]
- []
-
-
-Overfull \hbox (415.062pt too wide) in paragraph at lines 1382--1385
-[] [] 
- []
-
-[43]
-File: matriz_disimilaridad_hellinger.png Graphic file (type png)
-<use matriz_disimilaridad_hellinger.png>
-Package pdftex.def Info: matriz_disimilaridad_hellinger.png  used on input line
- 1388.
-(pdftex.def)             Requested size: 469.73474pt x 234.86737pt.
-[44]
-File: matrizdedisimilaridad.png Graphic file (type png)
-<use matrizdedisimilaridad.png>
-Package pdftex.def Info: matrizdedisimilaridad.png  used on input line 1393.
-(pdftex.def)             Requested size: 469.7715pt x 277.68134pt.
-File: matriz_similaridad.png Graphic file (type png)
-<use matriz_similaridad.png>
-Package pdftex.def Info: matriz_similaridad.png  used on input line 1394.
-(pdftex.def)             Requested size: 469.77245pt x 273.37448pt.
-
-Overfull \hbox (17.01648pt too wide) in paragraph at lines 1393--1395
-[][]
- []
-
-[45pdfTeX warning (ext4): destination with the same identifier (name{figure.35}
+[47pdfTeX warning (ext4): destination with the same identifier (name{figure.41}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1395 
+l.1449 
+       ]
+File: mapas_variables_ambientales_nominales_tmap.png Graphic file (type png)
+<use mapas_variables_ambientales_nominales_tmap.png>
+Package pdftex.def Info: mapas_variables_ambientales_nominales_tmap.png  used o
+n input line 1452.
+(pdftex.def)             Requested size: 412.97041pt x 247.78224pt.
+File: mapa_cuadros_riq_mi_familia.png Graphic file (type png)
+<use mapa_cuadros_riq_mi_familia.png>
+Package pdftex.def Info: mapa_cuadros_riq_mi_familia.png  used on input line 14
+59.
+(pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
+[48pdfTeX warning (ext4): destination with the same identifier (name{figure.42}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1463 
+       pdfTeX warning (ext4): destination with the same identifier (name{figure
+.43}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1463 
+       ]
+File: matriz_disimilaridad_hellinger.png Graphic file (type png)
+<use matriz_disimilaridad_hellinger.png>
+Package pdftex.def Info: matriz_disimilaridad_hellinger.png  used on input line
+ 1466.
+(pdftex.def)             Requested size: 469.73474pt x 234.86737pt.
+[49pdfTeX warning (ext4): destination with the same identifier (name{figure.44}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1470 
+       ]
+File: matrizdedisimilaridad.png Graphic file (type png)
+<use matrizdedisimilaridad.png>
+Package pdftex.def Info: matrizdedisimilaridad.png  used on input line 1473.
+(pdftex.def)             Requested size: 469.7715pt x 277.68134pt.
+File: matriz_similaridad.png Graphic file (type png)
+<use matriz_similaridad.png>
+Package pdftex.def Info: matriz_similaridad.png  used on input line 1480.
+(pdftex.def)             Requested size: 469.77245pt x 273.37448pt.
+[50pdfTeX warning (ext4): destination with the same identifier (name{figure.45}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1484 
+       pdfTeX warning (ext4): destination with the same identifier (name{figure
+.46}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1484 
        ]
 File: mapadecalor.png Graphic file (type png)
 <use mapadecalor.png>
-Package pdftex.def Info: mapadecalor.png  used on input line 1398.
+Package pdftex.def Info: mapadecalor.png  used on input line 1487.
 (pdftex.def)             Requested size: 469.7715pt x 278.3347pt.
-[46]
+[51pdfTeX warning (ext4): destination with the same identifier (name{figure.47}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1491 
+       ]
 File: matriz_correlacion_suelo_abun_riq_spearman.png Graphic file (type png)
 <use matriz_correlacion_suelo_abun_riq_spearman.png>
 Package pdftex.def Info: matriz_correlacion_suelo_abun_riq_spearman.png  used o
-n input line 1403.
+n input line 1494.
 (pdftex.def)             Requested size: 469.7482pt x 264.23335pt.
 File: sitios_composicion_distancia_cuerdas.png Graphic file (type png)
 <use sitios_composicion_distancia_cuerdas.png>
 Package pdftex.def Info: sitios_composicion_distancia_cuerdas.png  used on inpu
-t line 1404.
+t line 1501.
 (pdftex.def)             Requested size: 469.77245pt x 273.37448pt.
+[52pdfTeX warning (ext4): destination with the same identifier (name{figure.48}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1505 
+       pdfTeX warning (ext4): destination with the same identifier (name{figure
+.49}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1505 
+       ]
 File: analisis_interpretacion_dendrogramas.png Graphic file (type png)
 <use analisis_interpretacion_dendrogramas.png>
 Package pdftex.def Info: analisis_interpretacion_dendrogramas.png  used on inpu
-t line 1405.
+t line 1508.
 (pdftex.def)             Requested size: 469.7715pt x 278.3347pt.
+[53pdfTeX warning (ext4): destination with the same identifier (name{figure.50}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1512 
+       ]
 File: sitios_metodo_ward.png Graphic file (type png)
 <use sitios_metodo_ward.png>
-Package pdftex.def Info: sitios_metodo_ward.png  used on input line 1406.
+Package pdftex.def Info: sitios_metodo_ward.png  used on input line 1515.
 (pdftex.def)             Requested size: 469.77245pt x 273.37448pt.
+[54pdfTeX warning (ext4): destination with the same identifier (name{figure.51}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1519 
+       ]
 File: agrupamiento_dendrograma.png Graphic file (type png)
 <use agrupamiento_dendrograma.png>
-Package pdftex.def Info: agrupamiento_dendrograma.png  used on input line 1407.
+Package pdftex.def Info: agrupamiento_dendrograma.png  used on input line 1522.
 
 (pdftex.def)             Requested size: 469.7715pt x 278.3347pt.
+[55pdfTeX warning (ext4): destination with the same identifier (name{figure.52}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1526 
+       ]
 File: comparacion_dendrograma_mapa_calor.png Graphic file (type png)
 <use comparacion_dendrograma_mapa_calor.png>
 Package pdftex.def Info: comparacion_dendrograma_mapa_calor.png  used on input 
-line 1408.
+line 1529.
 (pdftex.def)             Requested size: 469.7715pt x 278.3347pt.
+[56pdfTeX warning (ext4): destination with the same identifier (name{figure.53}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1533 
+       ]
+File: multiescalar_bootstrap.png Graphic file (type png)
+<use multiescalar_bootstrap.png>
+Package pdftex.def Info: multiescalar_bootstrap.png  used on input line 1536.
+(pdftex.def)             Requested size: 469.77603pt x 265.21889pt.
 File: agrupamiento_dendrogramas_porcentajes.png Graphic file (type png)
 <use agrupamiento_dendrogramas_porcentajes.png>
 Package pdftex.def Info: agrupamiento_dendrogramas_porcentajes.png  used on inp
-ut line 1409.
+ut line 1543.
 (pdftex.def)             Requested size: 469.7715pt x 278.3347pt.
-
-Overfull \hbox (16.99318pt too wide) in paragraph at lines 1403--1410
-[][]
- []
-
-[47pdfTeX warning (ext4): destination with the same identifier (name{figure.36}
+[57pdfTeX warning (ext4): destination with the same identifier (name{figure.54}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1410 
-       ] [48] [49]
+l.1547 
+       pdfTeX warning (ext4): destination with the same identifier (name{figure
+.55}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1547 
+       ]
 File: mapa_upgma_k2.png Graphic file (type png)
 <use mapa_upgma_k2.png>
-Package pdftex.def Info: mapa_upgma_k2.png  used on input line 1413.
+Package pdftex.def Info: mapa_upgma_k2.png  used on input line 1550.
 (pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
-[50]
-File: mapas_variables_ambientales.png Graphic file (type png)
-<use mapas_variables_ambientales.png>
-Package pdftex.def Info: mapas_variables_ambientales.png  used on input line 14
-18.
-(pdftex.def)             Requested size: 469.7715pt x 278.3347pt.
-File: mapa_ward_k3.png Graphic file (type png)
-<use mapa_ward_k3.png>
-Package pdftex.def Info: mapa_ward_k3.png  used on input line 1419.
-(pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
-
-Overfull \hbox (17.01648pt too wide) in paragraph at lines 1418--1420
-[][]
- []
-
-[51pdfTeX warning (ext4): destination with the same identifier (name{figure.37}
+[58pdfTeX warning (ext4): destination with the same identifier (name{figure.56}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1420 
+l.1554 
+       ]
+File: mapas_variables_ambientales.png Graphic file (type png)
+<use mapas_variables_ambientales.png>
+Package pdftex.def Info: mapas_variables_ambientales.png  used on input line 15
+57.
+(pdftex.def)             Requested size: 469.7715pt x 278.3347pt.
+[59pdfTeX warning (ext4): destination with the same identifier (name{figure.57}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1561 
+       ]
+File: mapa_ward_k3.png Graphic file (type png)
+<use mapa_ward_k3.png>
+Package pdftex.def Info: mapa_ward_k3.png  used on input line 1564.
+(pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
+[60pdfTeX warning (ext4): destination with the same identifier (name{figure.58}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1568 
        ]
 File: cuadro_cajas_ward.png Graphic file (type png)
 <use cuadro_cajas_ward.png>
-Package pdftex.def Info: cuadro_cajas_ward.png  used on input line 1421.
+Package pdftex.def Info: cuadro_cajas_ward.png  used on input line 1571.
 (pdftex.def)             Requested size: 469.7715pt x 278.3347pt.
-File: modelo_abundancia_especie.png Graphic file (type png)
-<use modelo_abundancia_especie.png>
-Package pdftex.def Info: modelo_abundancia_especie.png  used on input line 1422
-.
-(pdftex.def)             Requested size: 469.77245pt x 273.37448pt.
-File: Numero_individuos.png Graphic file (type png)
-<use Numero_individuos.png>
-Package pdftex.def Info: Numero_individuos.png  used on input line 1423.
-(pdftex.def)             Requested size: 469.77245pt x 273.37448pt.
-
-Overfull \hbox (17.01648pt too wide) in paragraph at lines 1421--1424
-[][]
- []
-
-[52]
-File: diversidad_beta.png Graphic file (type png)
-<use diversidad_beta.png>
-Package pdftex.def Info: diversidad_beta.png  used on input line 1427.
-(pdftex.def)             Requested size: 469.7715pt x 278.3347pt.
-[53]
-File: mi_fam_hel_pca.png Graphic file (type png)
-<use mi_fam_hel_pca.png>
-Package pdftex.def Info: mi_fam_hel_pca.png  used on input line 1434.
-(pdftex.def)             Requested size: 469.77245pt x 273.37448pt.
-[54pdfTeX warning (ext4): destination with the same identifier (name{figure.38}
+[61pdfTeX warning (ext4): destination with the same identifier (name{figure.59}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1438 
+l.1574 
+       ]
+File: modelo_abundancia_especie.png Graphic file (type png)
+<use modelo_abundancia_especie.png>
+Package pdftex.def Info: modelo_abundancia_especie.png  used on input line 1577
+.
+(pdftex.def)             Requested size: 469.77245pt x 273.37448pt.
+[62pdfTeX warning (ext4): destination with the same identifier (name{figure.60}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1581 
+       ]
+File: Numero_individuos.png Graphic file (type png)
+<use Numero_individuos.png>
+Package pdftex.def Info: Numero_individuos.png  used on input line 1584.
+(pdftex.def)             Requested size: 469.77245pt x 273.37448pt.
+File: diversidad_beta.png Graphic file (type png)
+<use diversidad_beta.png>
+Package pdftex.def Info: diversidad_beta.png  used on input line 1591.
+(pdftex.def)             Requested size: 469.7715pt x 278.3347pt.
+[63pdfTeX warning (ext4): destination with the same identifier (name{figure.61}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1595 
+       pdfTeX warning (ext4): destination with the same identifier (name{figure
+.62}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1595 
+       ]
+File: mi_fam_hel_pca.png Graphic file (type png)
+<use mi_fam_hel_pca.png>
+Package pdftex.def Info: mi_fam_hel_pca.png  used on input line 1598.
+(pdftex.def)             Requested size: 469.77245pt x 273.37448pt.
+[64pdfTeX warning (ext4): destination with the same identifier (name{figure.63}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1602 
        ]
 File: escalamiento_1_2.png Graphic file (type png)
 <use escalamiento_1_2.png>
-Package pdftex.def Info: escalamiento_1_2.png  used on input line 1441.
+Package pdftex.def Info: escalamiento_1_2.png  used on input line 1605.
 (pdftex.def)             Requested size: 469.77245pt x 273.37448pt.
 File: rda_escala_especies.png Graphic file (type png)
 <use rda_escala_especies.png>
-Package pdftex.def Info: rda_escala_especies.png  used on input line 1448.
+Package pdftex.def Info: rda_escala_especies.png  used on input line 1612.
 (pdftex.def)             Requested size: 469.7715pt x 278.3347pt.
-[55pdfTeX warning (ext4): destination with the same identifier (name{figure.39}
+[65pdfTeX warning (ext4): destination with the same identifier (name{figure.64}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1452 
+l.1616 
        pdfTeX warning (ext4): destination with the same identifier (name{figure
-.40}) has been already used, duplicate ignored
+.65}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1452 
+l.1616 
        ]
 File: rda_escalamiento_escala_5.png Graphic file (type png)
 <use rda_escalamiento_escala_5.png>
-Package pdftex.def Info: rda_escalamiento_escala_5.png  used on input line 1455
+Package pdftex.def Info: rda_escalamiento_escala_5.png  used on input line 1619
 .
 (pdftex.def)             Requested size: 469.7715pt x 278.3347pt.
-[56pdfTeX warning (ext4): destination with the same identifier (name{figure.41}
+[66pdfTeX warning (ext4): destination with the same identifier (name{figure.66}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1459 
+l.1623 
        ]
 File: rda_especies_escala_4.png Graphic file (type png)
 <use rda_especies_escala_4.png>
-Package pdftex.def Info: rda_especies_escala_4.png  used on input line 1462.
+Package pdftex.def Info: rda_especies_escala_4.png  used on input line 1626.
 (pdftex.def)             Requested size: 469.7715pt x 278.3347pt.
-[57pdfTeX warning (ext4): destination with the same identifier (name{figure.42}
+[67pdfTeX warning (ext4): destination with the same identifier (name{figure.67}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1466 
+l.1630 
        ]
-<multiples_especies.png, id=366, 813.79031pt x 389.20406pt>
 File: multiples_especies.png Graphic file (type png)
 <use multiples_especies.png>
-Package pdftex.def Info: multiples_especies.png  used on input line 1467.
+Package pdftex.def Info: multiples_especies.png  used on input line 1631.
 (pdftex.def)             Requested size: 469.75116pt x 224.66359pt.
 
-Overfull \hbox (16.99614pt too wide) in paragraph at lines 1467--1469
+Overfull \hbox (16.99614pt too wide) in paragraph at lines 1631--1633
 [][]
  []
 
-[58pdfTeX warning (ext4): destination with the same identifier (name{figure.43}
+[68pdfTeX warning (ext4): destination with the same identifier (name{figure.68}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1481 
-        <./multiples_especies.png>] [59]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1524.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1524.
+l.1645 
+       ] [69]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1688.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1688.
 (./manuscrito.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1524.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1524.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1688.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1688.
 
 Package rerunfilecheck Info: File `manuscrito.out' has not changed.
-(rerunfilecheck)             Checksum: 633A2F832456A970F531C577D30A9601;769.
-
-LaTeX Warning: There were undefined references.
-
+(rerunfilecheck)             Checksum: 03B2E681992621C9E04DAF9E99D882C8;4447.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1524.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1688.
  ) 
 Here is how much of TeX's memory you used:
- 10376 strings out of 492982
- 147100 string characters out of 6134896
- 218040 words of memory out of 5000000
- 13701 multiletter control sequences out of 15000+600000
+ 10467 strings out of 492982
+ 148771 string characters out of 6134896
+ 219301 words of memory out of 5000000
+ 13743 multiletter control sequences out of 15000+600000
  23786 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,6n,31p,274b,349s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,6n,34p,456b,349s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts
 /type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/p
 alatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr
 i8a.pfb>
-Output written on manuscrito.pdf (59 pages, 5473080 bytes).
+Output written on manuscrito.pdf (69 pages, 5534341 bytes).
 PDF statistics:
- 434 PDF objects out of 1000 (max. 8388607)
- 316 compressed objects within 4 object streams
- 118 named destinations out of 1000 (max. 500000)
- 227 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 568 PDF objects out of 1000 (max. 8388607)
+ 438 compressed objects within 5 object streams
+ 167 named destinations out of 1000 (max. 500000)
+ 344 words of extra memory for PDF output out of 10000 (max. 10000000)
 
