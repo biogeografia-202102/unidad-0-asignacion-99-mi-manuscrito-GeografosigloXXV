@@ -563,6 +563,81 @@ Quiero dedicar todo mi agradecimiento, primero a Dios porque es quien hace posib
 ![mapa de la isla Barro Colorado análisis de especies de moraceae\label{fig:bci_map}](multiples_especies.png){width=100%}
 # *Script* reproducible
 
-\ldots
+## Análisis exploratorio de datos. Riqueza y abundancia
+
+````
+`r paste (readLines('analisisexploratorio.R'), collapse = '\n')`
+
+````
+
+## Análisis exploratorio de datos. Mapas de variables ambientales
+
+````
+`r paste (readLines('analisisexploratorio02.R'), collapse = '\n')`
+
+````
+
+## Análisis de agrupamiento (cluster analysis). Parte 1: agrupamiento jerárquico
+
+````
+`r paste (readLines('analisisagrupamientojerarquico.R'), collapse = '\n')`
+
+````
+
+## Análisis de agrupamiento (cluster analysis). Parte 2: Interpretación y comparación de resultados
+
+````
+`r paste (readLines('analisisdeagrupamientointer.R'), collapse = '\n')`
+
+````
+
+## Análisis de agrupamiento (cluster analysis). Parte 3: Grupos (clústers), variables ambientales y mapas
+
+````
+`r paste (readLines('mapasyvariablesambientales.R'), collapse = '\n')`
+
+````
+
+## Análisis de agrupamiento (cluster analysis). Parte 4: Especies indicadoras, especies con preferencia por hábitats
+
+````
+`r paste (readLines('especies_indicadoras.R'), collapse = '\n')`
+
+````
+
+## Técnicas de ordenación. Parte 1: Ordenación no restringida. <br> PCA, CA y PCoA
+
+````
+`r paste (readLines('tecnicadeordenaciónnorestringida.R'), collapse = '\n')`
+
+````
+
+## Técnicas de ordenación. Parte 2: Ordenación restringida o 'canónica'. RDA, CCA
+
+````
+`r paste (readLines('ordenación_restringida.R'), collapse = '\n')`
+
+````
+
+## Análisis de diversidad alpha
+
+````
+`r paste (readLines('diverisdad_alpha.R'), collapse = '\n')`
+
+````
+
+## Análisis de diversidad alpha
+
+````
+`r paste (readLines('analisis_diversidad_beta.R'), collapse = '\n')`
+
+````
+
+## Análisis espacial de datos ecológicos. Autocorrelación
+
+````
+`r paste (readLines('analisis_ecologia_espacial.R'), collapse = '\n')`
+
+````
 
 # Referencias
