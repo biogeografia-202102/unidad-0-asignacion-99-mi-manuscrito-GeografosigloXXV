@@ -178,15 +178,15 @@ En los cuadros de variables ambientales, se registran las diferencias entre unas
 
 ## Medición de Asociación (Modos Q y R)
 
-En esta parte se aborda lo que es la medición de asociación, tomando en cuenta lo que son los valores de disimilaridad o distancia, así como las matríces de correlación.
+En esta parte se aborda lo que es la medición de asociación, tomando en cuenta lo que son los valores de disimilaridad o distancia, así como las matrices de correlación.
 Dentro de los modelos de medición de asociación existen los modos Q y R, en este caso de la distancia o disimilaridad, tenemos el modo Q que describe la distancia entre objetos cuantitativos. La paradoja de Orlóci plantea que la distancia euclidea es más pequeña entre sitios que no comparten especies que entre sitios que sí las comparten.
-A continuación se presenta una matríz de disimilaridad (ver figura ##10).
+A continuación se presenta una matriz de disimilaridad (ver figura ##10).
 
 
 ![mapa de la isla Barro Colorado matriz disimilaridad hellinger  \label{fig:bci_map}](matriz_disimilaridad_hellinger.png){width=100%}
 
-La matrz de disimilaridad es una representación de la medición de asociación entre objetos en el modo Q, como serían los sitios de muestreo. En esta matriz se puede apreciar una fuerte asociación entre objetos y esto lo indica la continuidad del color rosado (cuadro de la derecha). En este caso nos referimos a la matriz de la derecha, que es la matriz ordenada,  a partir de la primera. Por ejemplo entre los sitios 40 y 35 existe una distancia muy pequeña entre sitios parecidos para la matriz ordenada.
-La transformación Hellinger permite hacer la interpretación en base a dos colores representativos: Color fucsia (magneta, rosa) que equivale a corta distancia, muy similar, y el cian o celeste que significa gran distancia o poco similar, todo esto con relación a los elementos de la familia de las moraceae. 
+La matriz de disimilaridad es una representación de la medición de asociación entre objetos en el modo Q, como serían los sitios de muestreo. En esta matriz se puede apreciar una fuerte asociación entre objetos y esto lo indica la continuidad del color rosado (cuadro de la derecha). En este caso nos referimos a la matriz de la derecha, que es la matriz ordenada,  a partir de la primera. Por ejemplo entre los sitios 40 y 35 existe una distancia muy pequeña entre sitios parecidos para la matriz ordenada.
+La transformación Hellinger permite hacer la interpretación en base a dos colores representativos: Color fucsia (magneta, rosa) que equivale a corta distancia, muy similar, y el cian o celeste que significa gran distancia o poco similar, todo esto con relación a los elementos de la familia de las Moraceae. 
 Algunos de los valores de disimilaridad o de distancia entre objetos que podemos apreciar dentro de la transformación Hellinger son los siguientes: Entre los sitios 2 y 1, tenemos que la distancia (dbl) es de 0.187, entre 3 y 1 es de 0.439, entre 4 y 1 es de 0.499, entre 5 y 1 es de 0.430, entre 6 y 1 de 0.297, entre 7 y 1 es de 0.280, entre 8 y 1 es de 0.492, entre 9 y 1 es de 0.584, entre 10 y 1 es de 0.425, y entre 11 y 1 es de 0.269 lo que revela una escasa distancia o disimilaridad entre los objetos.
 
 A continuación presento una versión mejorada de la matríz ordenada de datos cuantitativos de especies (abundancia) con fuerte asociación en la diagonal (ver figura ##11).
@@ -194,31 +194,31 @@ A continuación presento una versión mejorada de la matríz ordenada de datos c
 
 ![mapa de la isla Barro Colorado matriz disimilaridad  \label{fig:bci_map}](matrizdedisimilaridad.png){width=100%}
 
-En esta matriz de disimilaridad o de distancia vienen a recrearse los anteriores casos de abundancia de los mapas de la Isla de Barro Colorado. En la diagonal se pueden apreciar los sitios que poseen características similares con la menor distancia(color rosado), mientras que en los demás lugares se aprecian lugares con características similares a mayor distancia y con una menor asociación (color cian o celeste).
+En esta matriz de disimilaridad o de distancia vienen a recrearse los anteriores casos de abundancia de los mapas de la isla de Barro Colorado. En la diagonal se pueden apreciar los sitios que poseen características similares con la menor distancia(color rosado), mientras que en los demás lugares se perciben características similares a mayor distancia y con una menor asociación (color cian o celeste).
 Hasta el momento me he centrado en el modo Q que mide el nivel de asociación por medio de la disimilaridad o similiridad.
-Algo sumamente importante dentro del modo Q, en este caso basándome en datos binarios (presencia/ausencia) es la famosa distancia de Jaccard, la misma se puede expresar como la proporción de especies no compartidas. Para el caso correspondinte de los datos de moraceae, la distancia (dbl) muestra los siguientes resultados para algunos sitios: Entre 2 y 1, la distancia es de 0.22, para 3 y 1 es de 0.33, entre 4 y 1 es de 0.222, para 5 y 1 es de 0.3, para 6 y 1 es de 0.333, para 7 y 1 es de 0.222, para 8 y 1 es de 0.333, para 9 y 1 es de 0.333, para 10 y 1 es de 0.4, y para 11 y 1 es de 0.333, evidenciando en este caso una fuerte asociación.
+Algo sumamente importante dentro del modo Q, en este caso basándome en datos binarios (presencia/ausencia) es la famosa distancia de Jaccard, la misma se puede expresar como la proporción de especies no compartidas. Para el caso correspondinte de los datos de Moraceae, la distancia (dbl) muestra los siguientes resultados para algunos sitios: Entre 2 y 1, la distancia es de 0.22, para 3 y 1 es de 0.33, entre 4 y 1 es de 0.222, para 5 y 1 es de 0.3, para 6 y 1 es de 0.333, para 7 y 1 es de 0.222, para 8 y 1 es de 0.333, para 9 y 1 es de 0.333, para 10 y 1 es de 0.4, y para 11 y 1 es de 0.333, evidenciando en este caso una fuerte asociación.
 
 La similaridad es la proporción de objetos compartiods entre sitios, en la siguiente gráfica de la matriz pueden apreciarse las espcecies compartidas entre sitios (ver figura ##12).
 
 ![mapa de la isla Barro Colorado matriz disimilaridad  \label{fig:bci_map}](matriz_similaridad.png){width=100%}
 
-Pueden notarse en los bloques de colores las especies compartidas entre sitios, y que son exclusivas de dichos sitios. Por ejemplo para las variables a, b y c, que se desprenden de la fómula, incluida en los scripts reproducibles que sirven de soporte a este trabajo, de la similaridad, donde a representa el número de especies compartidas, b es el número de especies exclusivas del sitio 2 y c el numero de especies exclusivas del sitio 1. La cantidad de especies compartidas entre sitios con relación a las moraceae es grande, esto debido a la ausencia de ceros, hecho que en la paradoja de Orlóci refleja cercanía según la distancia euclídea que hace ver próximos los lugares o sitios que no comparten especies o individuos.  
+Pueden notarse en los bloques de colores las especies compartidas entre sitios, y que son exclusivas de dichos sitios. Por ejemplo para las variables a, b y c, que se desprenden de la fómula, incluida en los scripts reproducibles que sirven de soporte a este trabajo, de la similaridad, donde a representa el número de especies compartidas, b es el número de especies exclusivas del sitio 2 y c el numero de especies exclusivas del sitio 1. La cantidad de especies compartidas entre sitios con relación a las Moraceae es grande, esto debido a la ausencia de ceros, hecho que en la paradoja de Orlóci refleja cercanía según la distancia euclídea que hace ver próximos los lugares o sitios que no comparten especies o individuos.  
 
-En el modo R se mide la asociación entre pares descriptores, es decir variables o especies, mediante la covarianza y la correlación. Por ejemplo para las variables a, b y c, que se desprenden de la fómula de la similaridad, donde a representa el número de especies compartidas, b es el número de especies exclusivas del sitio 2 y c el numero de especies exclusivas del sitio 1.
+En el modo R se mide la asociación entre pares descriptores, es decir variables o especies, mediante la covarianza y la correlación. Por ejemplo para las variables a, b y c, que se desprenden de la fómula de la similaridad, donde a representa el número de especies compartidas, b es el número de especies exclusivas del sitio 2 y c el número de especies exclusivas del sitio 1.
 
 Un ejemplo ilustrativo sería el mapa de calor (ver figura ##13)
 
 ![mapa de la isla Barro Colorado mapa de calor  \label{fig:bci_map}](mapadecalor.png){width=100%}
 
-En el mapa de calor mostrado se percibe una relación de dependencia en la diagonal de la derecha, esto es lo que se mide en el modo R, la asociación entre elementos descriptores, en este caso la abundancia de especies como variables. Entre la *Cainito aspidosperma* y la *trichinia tuberculata* se nota una fuerte dependencia, evidenciado por la continuidad del color fucsia o rosa. Lo mismo no ocurre con los colores de los bordes que reflejan franjas más pequeñas, y a su vez degradadas, lo que evidencia ausencia de dependencia.
-Esto así cuando se trata del modo R aplicado a datos cuantitativos de especies, que reflejan la abundancia, al igual que el modo Q, el Modo R se aplica para datos binarios, así tambien para la abundancia de variables (coeficientes de spearman y pearson).
+En el mapa de calor mostrado se percibe una relación de dependencia en la diagonal de la derecha, esto es lo que se mide en el modo R, la asociación entre elementos descriptores, en este caso la abundancia de especies como variables. Entre la *Cainito aspidosperma* y la *trichinia tuberculata* se nota una fuerte dependencia, evidenciado por la continuidad del color fucsia o rosa. Lo mismo no ocurre con los colores de los bordes que reflejan franjas más pequeñas, y a su vez degradadas, lo que demuestra ausencia de dependencia.
+Esto así cuando se trata del modo R aplicado a datos cuantitativos de especies, que reflejan la abundancia. Al igual que el modo Q, el Modo R se aplica para datos binarios, así tambien para la abundancia de variables (coeficientes de Spearman y Pearson).
 
 A continuación muestro una matriz de abundancia y riqueza de suelo según el coeficiente de Spearman, con valores que aumentan y disminuyen de este a oeste, y de norte a sur, los valores en rojo presentan los valores más altos, y los azules los más bajos (ver figura ##14).
 
 ![mapa de la isla Barro Colorado abundancia y riqueza de suelo  \label{fig:bci_map}](matriz_correlacion_suelo_abun_riq_spearman.png){width=100%}
 
 
-En la medición de asociación en los modos antes mencionados, se obtiene una apreciación estadística de la distribución de sitios, especies y variables ambientales presentes en la isla Barro Colorado que reflejan la cuatificación de las comunidades de moraceas presentes en dicha isla, así como la mayor o menor concentración de las mismas con relación al grado de asociación presente en los sitios. 
+En la medición de asociación en los modos antes mencionados, se obtiene una apreciación estadística de la distribución de sitios, especies y variables ambientales presentes en la isla de Barro Colorado que reflejan la cuantificación de las comunidades de Moraceae presentes en dicha isla, así como la mayor o menor concentración de las mismas con relación al grado de asociación presente en los sitios. 
 
 
 
@@ -251,7 +251,7 @@ En el agrupamiento aglomerativo por enlace completo, el criterio empleado es la 
 El método de Ward, aunque no es un método por enlace (ver figura ##17), lo elijo por su fácil comprensión (en este caso sería el UPGMA, para el caso de la media o promedio), recuerda la silueta de una pirámide toscamente dibujada, con una interpretación visual más factible que en los casos anteriores. Existe una regularidad en los subgrupos, lo que refleja, al igual que en las secciones anteriores una fuerte asociación, mayor similaridad que disimilaridad en las partes dominantes o más visibles. Un ejemplo de visualización lo ofrece el modelo de agrupación aglomerativa por enlace promedio, UPGMA, en el cual aparecen siluetas aglomerativas y repetitivas que reflejan una continuidad en la similaridad de los subgrupos.
 
 
-### Interpretación de Agrupamiento Jerárquico
+## Interpretación de Agrupamiento Jerárquico
 
 En esta parte estamos a la altura de elegir métodos que nos permitan minimizar la mayor cantidad posible de unidades de grupos en los dendrogramas. Se establece la correlación cofenética y para la misma los métodos convenientes son los de Ward y el UPGMA.
 En esencia consiste en obtener la menor cantidad posible de siluetas que se distinguen por la existencia de pequeños grupos de figuras.
