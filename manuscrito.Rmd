@@ -261,7 +261,7 @@ En la siguiente imagen pueden apreciarse los cortes de las siluetas en tamaños 
 
 El método Ward es uno de los más ideales para elegir un dendrograma único que permita apreciar por simple inspección el tamaño de las siluetas, y el número de sitios que contienen, en este caso serían tres cuadros de 12 y 13 sitios para el primer y segundo cuadro respectivamente, y de 25 sitios para el tercero, todos a una altura de 1.3 aproximadamente dentro del dendrograma. En este dendrograma pueden apreciarse las siluestas más fácilmente que en los ejemplos anteriores.
 
-Una forma de ilustrar mejor la disimilaridad y la similaridad entre los agrupamientos o dendrogramas es por medio del mapa de calor de la matriz de comunidad fusionado con el dendrogrma. En eta ilustración se distinguen los sitios que presentan mayor grado de asociación. Puede verse que el dendrograma está cortado a la mitad, y los sitios que presentan mayor similaridad o menor distancia están al centro y en los extremos, por ejemplo, los grupos 13 y 18 presentan una fuerte asociación, y en general los grupos dispuestos de forma vertical presentan mayor similaridad que los dispuestos de forma horizontal (ver figura ##19).
+Una forma de ilustrar mejor la disimilaridad y la similaridad entre los agrupamientos o dendrogramas es por medio del mapa de calor de la matriz de comunidad fusionado con el dendrogrma. En eta ilustración se distinguen los sitios que presentan mayor grado de asociación. Puede verse que el dendrograma está cortado a la mitad, y los sitios que muestran mayor similaridad o menor distancia están al centro y en los extremos, por ejemplo, los grupos 13 y 18 presentan una fuerte asociación, y en general los grupos dispuestos de forma vertical presentan mayor similaridad que los dispuestos de forma horizontal (ver figura ##19).
 
 ![mapa de la isla Barro Colorado sitios de composición por distancia de cuerda  \label{fig:bci_map}](comparacion_dendrograma_mapa_calor.png){width=100%}
 
@@ -274,7 +274,7 @@ En el mapa anterior pueden verse las probabilidades, y la anchura de las silueta
 
 En el dendrograma anterior, también pueden notarse las probabilidades por el método Ward (ver figura ##21)
 
-Los dendrogramas, al igual que en los métodos de medición de asociación permiten ver gráficmanete la dinámica de la distribución de las especies de moraceae, sin embargo, estos nos ayudan a segmentar en grupos los sitios con mayor cantidad de individuos o especies, dividiendolos en cuadros a una mayor o menor altura, sería una forma de fraccionar en grupos representativos lo que en principio parece desordenado y monótono.
+Los dendrogramas, al igual que en los métodos de medición de asociación permiten ver gráficamanete la dinámica de la distribución de las especies de Moraceae, sin embargo, estos nos ayudan a segmentar en grupos los sitios con mayor cantidad de individuos o especies, dividiéndolos en cuadros a una mayor o menor altura, sería una forma de fraccionar en grupos representativos lo que en principio parece desordenado y monótono.
 
 
 ## Análisis de Variables Ambientales y Mapas
@@ -288,27 +288,27 @@ Así se puede visualizar en el siguiente mapa (ver figura ##22)
 
 ![mapa de la isla Barro Colorado mapa de variables ambientales  \label{fig:bci_map}](mapas_variables_ambientales.png){width=100%}
 
-En el mapa adjunto, así como en el diagrama de cajas (ver figura ##23), puede visualizarse el comportamiento de la mediana de las variables ambientales, de la riqueza, así como también de abundancia. El método UPGMA, presenta un patrón de distribución al este y al sur para el grupo 2  de las variables ambientales dentro de la parcela de 50 hectáreas. Las  varibles del grupo 1 de la parcela presentan un patrón en todos los rumbos. Dentro de la riqueza, y la abundancia, los grupos 1 y 2, presentan valores no muy distantes, lo que evidencia el condicionamieto ambietal de la isla, y que nuevamente refleja la fuerte riqueza y asociación de las especies de Moraceae en dicho espacio insular. Dentro de las variables ambientales de tipo geomorfológico, la mediana para el grupo 1, naturalmente presenta mayores valores que aquellos sitios de la misma parcela que se presentan en el grupo 2, pero en cuanto a la concentración de elementos químicos en un número de hectáreas más reducido (en este caso el grupo 2), representan mayor valor para la mediana.
+En el mapa adjunto, así como en el diagrama de cajas (ver figura ##23), puede visualizarse el comportamiento de la mediana de las variables ambientales, de la riqueza, así como también de la abundancia. El método UPGMA, presenta un patrón de distribución al este y al sur para el grupo 2  de las variables ambientales dentro de la parcela de 50 hectáreas. Las  variables del grupo 1 de la parcela presentan un patrón en todos los rumbos. Dentro de la riqueza, y la abundancia, los grupos 1 y 2, presentan valores no muy distantes, lo que evidencia el condicionamieto ambietal de la isla, y que nuevamente refleja la fuerte riqueza y asociación de las especies de Moraceae en dicho espacio insular. Dentro de las variables ambientales de tipo geomorfológico, la mediana para el grupo 1, naturalmente refleja mayores valores que aquellos sitios de la misma parcela que se presentan en el grupo 2. En cuanto a la concentración de elementos químicos en un número de hectáreas más reducido (en este caso el grupo 2), estos representan mayor valor para la mediana.
 
 
 ![mapa de la isla Barro Colorado grupos Ward k3 \label{fig:bci_map}](mapa_ward_k3.png){width=100%}
 
 ![mapa de la isla Barro Colorado cuadro de cajas Ward \label{fig:bci_map}](cuadro_cajas_ward.png){width=100%}
 
-Para el método Ward en el comportamiento de las varibles se presentan tres sitios que muestran la dinámica de las variables ambientales dentro de la parcela de 50 hectáreas con un patrón de distribución distinto al caso anterior. Cuando relacionamos las varibles del diagrama de cajas (ver figura ##25) que también se aprecian en el mapa (ver figura ##24), puede corroborarse que estas se concentran más al centro de la parcela, algunas al sur, y otras al este. Variables como el pH, presentan altos valores de mediana en casi todas las hectáreas de la parcela. También ocurre lo mismo con el nitrógeno. Para el caso de la abundancia y la riqueza el valor de la mediana presenta valores elevados, aunque en el caso de la primera las cajas o sitios ocupan mayor espacio.
+Para el método Ward en el comportamiento de las varibles se presentan tres sitios que muestran la dinámica de las variables ambientales dentro de la parcela de 50 hectáreas con un patrón de distribución distinto al caso anterior. Cuando relacionamos las varibles del diagrama de cajas (ver figura ##25) que también se aprecian en el mapa (ver figura ##24), puede corroborarse que estas se concentran más al centro de la parcela, algunas al sur, y otras al este. Variables como el pH, presentan altos valores de mediana en casi todas las hectáreas de la parcela. También ocurre lo mismo con el nitrógeno. Para el caso de la abundancia y la riqueza el valor de la mediana presenta valores elevados, aunque en el caso de la primera, las cajas o sitios ocupan mayor espacio.
 
 ## Especies Indicadoras
 
-Para las especies indicadoras, tenemos que por especie indicadora se entiende el grado de predicción que esta tenga dentro de un espacio bajo estudio. Pueden darse casos de abunancia, y esos ejemplos de abundancia, nos pueden llevar a la cocepción de grupos dentro de una familia. Dichos grupos tienden a identificarse por el predominio de una variable ambiental, ya sea un tipo de bosque, una concentración de pH, o de ntrógeno. La aparición de estos grupos bajo el condicionamiento de dichas variabes es lo que hace posible la existencia ordenada de los mismos.
+Por especie indicadora se entiende el grado de predicción que esta tenga dentro de un espacio bajo estudio. Pueden darse casos de abunancia, y esos ejemplos de abundancia, nos pueden llevar a la concepción de grupos dentro de una familia. Dichos grupos tienden a identificarse por el predominio de una variable ambiental, ya sea un tipo de bosque, una concentración de pH, o de nitrógeno. La aparición de estos grupos bajo el condicionamiento de dichas variabes es lo que hace posible la existencia ordenada de los mismos.
 
-Existe el análisis de especies indicadoras por medio del método de Inval, este método se aplica tanto para UPGMA, así como para Ward, se verifica cuál es la especie que presenta el mayor indicador o estadístico, la abundancia y la permutación. Para UPGMA, en el caso de las Moraceae se registran dos grupos de una y cuatro especies respectivamente. En el caso del primer grupo sería *Perebea xanthochyma* con una abundancia de 226, y un indicador (Inval) de 0.32, tenemos en el segundo grupo: *Pulsenia armata*, cuya abundancia es de 993, y su indicador 0.774, *Ficus tonduzzi* 23 y 0.459, *Tropis caucana* 136 y 0.454, y *Tropis racemosa* con 218 y 0.420. En este primer grupo la especie indicadora es *Perebea xanthochyma* con los valores indicados y una permutación de 0.037, en el segundo grupo: *Pusenia armata* es la especie predictora de este grupo por la abundancia que presenta, con un valor de permutación igual 0.001.
+Existe el análisis de especies indicadoras por medio del método de IndVal, este método se aplica tanto para UPGMA, así como para Ward, se verifica cuál es la especie que presenta el mayor indicador o estadístico, la abundancia y la permutación. Para UPGMA, en el caso de las Moraceae se registran dos grupos de una y cuatro especies respectivamente. En el caso del primer grupo sería *Perebea xanthochyma* con una abundancia de 226, y un indicador (IndVal) de 0.32, tenemos en el segundo grupo: *Pulsenia armata*, cuya abundancia es de 993, y su indicador 0.774, *Ficus tonduzzi* 23 y 0.459, *Tropis caucana* 136 y 0.454, y *Tropis racemosa* con 218 y 0.420. En este primer grupo la especie indicadora es *Perebea xanthochyma* con los valores indicados y una permutación de 0.037, en el segundo grupo: *Pusenia armata* es la especie predictora de este grupo por la abundancia que presenta, con un valor de permutación igual 0.001.
 El intervalo de confianza es pequeño, por ejemplo para *Brosimun alicastrum* va de -0.3597668 (-0.36) a 0.2896983 (0.29).
 
 
-En el caso Ward, se registran por igual dos grupos, el grupo 3 y el grupo 4 que resultaría de la suma del 2 y el 3 y que contiene una especie indicadora. Sus valores de de abundancia e indicador estadístico respectivamente son: *Poulsenia armata* 993 y 0.785, *Trophis caucana* 136 y 0.538, *Trophis racemosa* 228 y 0.435, y *Ficus tonduzii* 23 y 0.417.
+En el caso Ward, se registran por igual dos grupos, el grupo 3 y el grupo 4, este último que resultaría de la suma del 2 y el 3 y que contiene una especie indicadora. Sus valores de abundancia e indicador estadístico respectivamente son: *Poulsenia armata* 993 y 0.785, *Trophis caucana* 136 y 0.538, *Trophis racemosa* 228 y 0.435, y *Ficus tonduzii* 23 y 0.417.
 
 Para el segundo grupo, tenemos la *Maquira guianensis* con 1315 y 0.575.
-Para el tercer y cuarto grupo, las especies indicadoras son: *Pulsenia armata*, y para el cuarto grupo *Maquiara guinensis* con valores de permutación de 0.001 para ambos casos.
+Para el tercer y cuarto grupo, las especies indicadoras son: *Pulsenia armata*, y *Maquiara guinensis* respectivamente, con valores de permutación de 0.001 para ambos casos.
 Para el caso Ward el intervalo de confianza es para la misma  *Brosimun alicastrum*, desde su límite inferior con -0.1289961 (-0.129) hasta su límite superior  de 0.41576092 (0.42).
 
 
@@ -322,17 +322,17 @@ Para la diverisdad alpha sobre la familia en cuestión se muestran los resultdos
 
 ![mapa de la isla Barro Colorado modelo abundancia de especies \label{fig:bci_map}](modelo_abundancia_especie.png){width=100%}
 
-La gráfica anterior (ver figura ##26) representa la abundancia por sitios, sitios de una hectárea, pero cada línea representa una métrica. El gráfico también presenta cuáles sitios podrían mostrar mayor equidad. Encontramos que las líneas de color verde y azul represental la mayor abundancia de los lugares en los cuales se encuentran.
+La gráfica anterior (ver figura ##26) representa la abundancia por sitios, sitios de una hectárea, pero cada línea representa una métrica. El gráfico también presenta cuáles sitios podrían mostrar mayor equidad. Encontramos que las líneas de color verde y azul representan la mayor abundancia de los lugares en los cuales se encuentran.
 
 
 
 ![mapa de la isla Barro Colorado número de individuos \label{fig:bci_map}](Numero_individuos.png){width=100%}
 
-En el digrama anterior (ver figura ##27) de curvas de rarefacción puede apreciarse también el número de individuos por sitios. En este diagrama puede apreciarse que prácticamente la totalidad de de sitios poseen una cantidad de individuos superior a los 50 individuos, con excepción del sitio 13 que posee unos 45 aproximadamente, y un escaso número de sitios con una catidad superior a los 200 individuos. La mayor cantidad de sitios comprende una riqueza en especies que va de los 50 a los 200 individuos.
+En el digrama anterior (ver figura ##27) de curvas de rarefacción puede apreciarse también el número de individuos por sitios. En este diagrama puede notarse que prácticamente la totalidad de sitios poseen una cantidad superior a los 50 individuos, con excepción del sitio 13 que posee unos 45 aproximadamente, y un escaso número de sitios con una catidad superior a los 200 individuos. La mayor cantidad de sitios comprende una riqueza en especies que va de los 50 a los 200 individuos.
 
 ## Diversidad Beta
 
-La diversidad beta se puede apreciar en segiente mapa de cuadros (ver figura ##27), seguido de la gráfica (ver figura.
+La diversidad beta se puede apreciar en el segiente mapa de cuadros (ver figura ##27), seguido de la gráfica (ver figura ##28).
 
 ![mapa de la isla Barro Colorado mapa cuadro diversidad beta \label{fig:bci_map}](mapa_cuadros.png){width=100%}
 
