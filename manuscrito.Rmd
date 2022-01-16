@@ -339,14 +339,14 @@ La diversidad beta se puede apreciar en el segiente mapa de cuadros (ver figura 
 ![mapa de la isla Barro Colorado mapa de calor  \label{fig:bci_map}](diversidad_beta.png){width=100%}
 
 
-Para este tipo de diversidad, se presenta un patrón de distribución al este de la parcela de 50 hectáreas y se aprecian las parcelas de una hectárea que poseen la mayor cantidad de individuos por especies, al oeste se aprecia una diversidad mucho más reducida. Este modo de visualizar la variabilidad es más comprensible que en los casos anteriores. En el gráfico (ver figura ##28) también puede apreciarse mayor diversidad al este de la parcela.
+Para este tipo de diversidad, se presenta un patrón de distribución al este de la parcela de 50 hectáreas y se aprecian las parcelas de una hectárea que poseen la mayor cantidad de individuos por especies, al oeste se aprecia una diversidad mucho más reducida. Este modo de visualizar la variabilidad es más comprensible que en los casos anteriores. En el gráfico (ver figura ##28) también puede constatarse mayor diversidad al este de la parcela.
 
 ### Análisis de Ordenación Simple (no restringida y restringida)
 
 
 Las principales técnicas de análisis no restringido son: PCA (Análisis de Componentes Principales), CA (Análisis de Correspondencia), PCoA (Análisis de Coordenadas Principales), y NMDS (Escalamiento multidimesional No Métrico).
 
-Así se muestran para la familia de moraceae, empleando la técnica de escalamiento PCA, la cual compara las componentes principales.
+Así se muestran para la familia de Moraceae, empleando la técnica de escalamiento PCA, la cual compara las componentes principales.
 
 ![mapa de la isla Barro Colorado diagrama de componentes principales variables\label{fig:bci_map}](mi_fam_hel_pca.png){width=100%}
 
@@ -355,7 +355,7 @@ En este diagrama de componentes principales se puede visualizar un decenso brusc
 
 ![mapa de la isla Barro Colorado diagrama de escalamiento 1 y 2 \label{fig:bci_map}](escalamiento_1_2.png){width=100%}
 
-En esta técnica de escalamiento pueden visualizarse los grados de asociación mediante un plano de coordenadas ortogonales. La cercanía que describen los ángulos de las variables ambientales representa el grado de asocición de las mismas. En el primer cuadrante (ver figura ##30) predomina la distancia euclídea, en el segundo, la distancia de Mahalanovich. Se forman nuves de puntos en los cuadrantes, estos puntos representan los sitios, y como se puede ver en los gráficos, estos se concentran más en el cuadrante negativo. Para ambos casos hay mayor asociación al norte del plano.
+En esta técnica de escalamiento pueden visualizarse los grados de asociación mediante un plano de coordenadas ortogonales. La cercanía que describen los ángulos de las variables ambientales representa el grado de asocición de las mismas. En el primer cuadrante (ver figura ##30) predomina la distancia euclídea, en el segundo, la distancia de Mahalanobis. Se forman nubes de puntos en los cuadrantes, estos puntos representan los sitios, y como se puede ver en los gráficos, estos se concentran más en el cuadrante negativo. Para ambos casos hay mayor asociación al norte del plano.
 
 
 ![mapa de la isla Barro Colorado diagrama asociación de variables\label{fig:bci_map}](escalamiento_ajuste_2.png){width=100%}
@@ -364,7 +364,7 @@ En este diagrama (ver figura ##31) puede percibirse la fuerte asociación que ex
 
 ### Ordenación Simple Restringida:
 
-Para la ordenación restringida, las tendencias asociadas a un grupo de ordenación se asocian a otro grupo. Las principales técnicas de ordenación restringida son: Análisis de redundancia (RDA), Análisis de redundancia basado en la distancia (db-RDA), Análisis de Correspondencia Canónica (CCA), Análisis Discriminante Lineal (LDA), Curvas de respuestas Principales (PRC), Análisis de Correspondencia conjunto (CoCA, Análisis de Correlación Canónica (CCorA) y Análisi de Inercia Conjunto (ColA).
+Para la ordenación restringida, las tendencias asociadas a un grupo de ordenación se asocian a otro grupo. Las principales técnicas de ordenación restringida son: Análisis de redundancia (RDA), Análisis de redundancia basado en la distancia (db-RDA), Análisis de Correspondencia Canónica (CCA), Análisis Discriminante Lineal (LDA), Curvas de respuestas Principales (PRC), Análisis de Correspondencia conjunto (CoCA, Análisis de Correlación Canónica (CCorA) y el Análisi de Inercia Conjunto (ColA).
 
 En esta parte se mostrarán los resultados para RDA Y CCA. RDA combina la regresión y elanálisis de componentes principales. 
 
@@ -374,15 +374,15 @@ En esta parte se mostrarán los resultados para RDA Y CCA. RDA combina la regres
 
 ![mapa de la isla Barro Colorado RDA digrama de especies variables\label{fig:bci_map}](rda_especies_escala_4.png){width=100%}
 
-En estos planos bidimensionales puede apreciars el comportamiento de las variables ambientales incluyendo el recurso suelo, de las especies, y de especies no raras. en el primer diagrama (RDA) (ver figura ##32) puede verse la fuerte asociación de los elementos químicos que integran el suelo, descrita por las líneas azules que represental los ángulos en el tercer cuadrante del plano. En el digrama de especies no raras (CCA) 
-(ver figura ##33) se percibe una fuerte concentración de sitios en el tercer cuadrante, y es precisamente allí donde existe una menor asociación entre elementos químicos (variables ambientales). Por ejemplo el fósforo está presente en la mayor cantidad de sitios, y es un elemento que se encuentra a una distancia angular considerada con relación a los demás, lo mismo pasa con el alunminio. Para el cobre, el manganeso y el hierro ocurre todo lo contrario. 
+En estos planos bidimensionales puede apreciars el comportamiento de las variables ambientales incluyendo el recurso suelo, de las especies, y de especies no raras. en el primer diagrama (RDA) (ver figura ##32) puede verse la fuerte asociación de los elementos químicos que integran el suelo, descrita por las líneas azules que representan los ángulos en el tercer cuadrante del plano. En el diagrama de especies no raras (CCA) 
+(ver figura ##33) se percibe una fuerte concentración de sitios en el tercer cuadrante, y es precisamente allí donde existe una menor asociación entre elementos químicos (variables ambientales). Por ejemplo, el fósforo está presente en la mayor cantidad de sitios, y es un elemento que se encuentra a una distancia angular considerada con relación a los demás, lo mismo pasa con el alunminio. Para el cobre, el manganeso y el hierro ocurre todo lo contrario. 
 
-En el último diagrama (ver figura ##34) correspondiente a CCA, existe mayor asociación entre las especies en las zonas con predominio de fósforo y aluminio, correspondiete a los cuadrantes 1 y 2 del plano.
+En el último diagrama (ver figura ##34) correspondiente a CCA, existe mayor asociación entre las especies en las zonas con predominio de fósforo y aluminio, correspondiente a los cuadrantes 1 y 2 del plano.
 
 
 ## Análisis Espacial de Datos Ecológicos (Autocorrelación)
 
-Esta es una froma de observar los valores de las variables Ambientales desde una perspectiva espacial, por medio de segmentos verticales, parecidos a bastones, encerrados en cajas, se pueden ver de una forma más comprensiva la dinámica del valor de correlación de las especies de Moraceae que se vienen tratando, y que se pueden apreciar en el gráfico o correlograma (ver figura ##35).
+Esta es una froma de observar los valores de las variables Ambientales desde una perspectiva espacial, por medio de segmentos verticales, parecidos a bastones, encerrados en cajas, se puede ver de una forma más comprensiva la dinámica del valor de correlación de las especies de Moraceae que se vienen tratando, y que se pueden apreciar en el gráfico o correlograma (ver figura ##35).
 
 
 
@@ -390,8 +390,8 @@ Esta es una froma de observar los valores de las variables Ambientales desde una
 
 
 
-A partir de esta pequeña descripción del correlograma se puede entender la dinámica espacial de algunas especies de Mooraceae.
-Como puede verse existe una correlación más positiva que negativa entre las distintas especies de moraceae. Lo que nuevamente viene a recrear la gran riqueza predominante en las distintas especies de Moraceae, la similaridad qe se hace visible en cada modo de estudio empleado.
+A partir de esta pequeña descripción del correlograma se puede entender la dinámica espacial de algunas especies de Moraceae.
+Como puede verse existe una correlación más positiva que negativa entre las distintas especies de Moraceae. Lo que nuevamente viene a recrear la gran riqueza predominante en las distintas especies de Moraceae, la similaridad qe se hace visible en cada modo de estudio empleado.
 
 
 # Discusión
@@ -407,34 +407,33 @@ Dentro de la selva del ístmo, BCI, es como un estracto sintético susceptible d
 Si bien la isla Barro Colorado es un enclave marítimo, y de investigación científica, contando por ende con las riquezas antes descritas, es motivo de cuestionamiento, el cómo un espacio, esta pequeña isla, haya acumulado estas riquezas en tan poco tiempo, a sabiendas de la zona geoastronómica en que se encuentra. Sería más aceptable la abundancia.
 
 
-La construcción de riquezas ecológicas, ademas del emplazamiento geográfico, requieren de eventos geológicos, geográficos y tal vez antrópicos, en este caso tenemos el Canal de Panamá, el recuerdo mejor conservado de la injerencia yanqui en el Caribe. Una isla que se formó en algo más de un siglo, pues de la misma forma corre el riesgo de desaparecer. Pero esto solo compete a un asunto geológico, que no concierne a este trabajo, solo de manera parcial.
+La construcción de riquezas ecológicas, ademas del emplazamiento geográfico, requieren de eventos geológicos, geográficos y tal vez antrópicos, en este caso tenemos el canal de Panamá, el recuerdo mejor conservado de la injerencia yanqui en el Caribe. Una isla que se formó en algo más de un siglo, pues de la misma forma corre el riesgo de desaparecer. Pero esto solo compete a un asunto geológico, que no concierne a este trabajo, solo de manera parcial.
 
 En el caso de la pendiente, esta es favorable para formaciones boscosas como la que he asumido, aunque inservible para la agricultura bajo cualquier consideración que se haga a favor de la vegetación que no sea referente a la anteriormente citada. Sin embargo la altitud guarda una relación acorde con las dimensiones de la isla. Las plantas como las Moraceae mantienen una relación favorble con estos grados de inclinación del terreno. Ya en espacios controlados y con plantaciones con las qe se persigue un determinado propósito se tiene un conocimiento sobre el manejo de la pendiente, a sabiendas de que en este escenario han crecido de forma silvestre sin intervención alguna de la mano del hombre.
 
 La isla constituye uno de los ecosistemas más grandes del mundo, lo que deja al descubierto la gran adaptabilidad que presentan algunas plantas a este medio. Por tratarse de un lugar sumamente pequeño, los rasgos orográficos han de ser casi imperceptibles, pero sobre todo la edad de la isla no la hace poseedora de formas del relieve que estén consolidadas dentro de lo ques es la periodización geológica. Pues la isla se formó hace algo más de un siglo, tiempo en el qe no caben eventos geológicos trascendentales. 
 
-BCI constituye como una especie de interrupción del sistema orgráfico de la región istmica panameña y centroamericana, pues la espina dorsal de toda la costa del Pacífico, aunque no se eleva de forma tan imponente como en los Andes o en las Montañas Rocosas, en Centro América, poseen continuidad, aunque con una escasa altiud. Es como si se tratara de un lugar construido para la investigación, en medio de sistemas tan extremos, es decir franja estrecha de tierra y masas imensas de agua que aguardan a ambos lados del Canal de Panamá (situación ístmica). 
+BCI constituye como una especie de interrupción del sistema orográfico de la región istmica panameña y centroamericana, pues la espina dorsal de toda la costa del Pacífico, aunque no se eleva de forma tan imponente como en los Andes o en las Montañas Rocosas, en Centro América, posee continuidad, aunque con una escasa altiud. Es como si se tratara de un lugar construido para la investigación, en medio de sistemas tan extremos, es decir franja estrecha de tierra y masas imensas de agua que aguardan a ambos lados del canal de Panamá (situación ístmica). 
 
 
-La familia de plantas que nos interesa sobreabunda en estas condiciones. Muy probablemente las familias de Moraceae presentes en otros lugares prosperen bajo condiciones muy diferentes. Sin embargo los lugares a una misma latitud en el planeta, se caracterizan por operar sobre los indiviuos bajo las mismas condiciones, por ende las condiciones de pH en otras regiones tal vez no se alejen tanto de las que por el momento se citan. 
+La familia de plantas que nos interesa sobreabunda en estas condiciones. Muy probablemente las familias de Moraceae presentes en otros lugares prosperen bajo condiciones muy diferentes. Sin embargo, los lugares a una misma latitud en el planeta, se caracterizan por operar sobre los indiviuos bajo las mismas condiciones, por ende las condiciones de pH en otras regiones tal vez no se alejen tanto de las que por el momento se citan. 
 
 
 El pH es un factor que en lo adelante incidirá en la utilidad de la planta, especialmete a nivel comercial, la presencia de uno o varios elementos, o la ausencia de estos determinará el valor utilitario de estas. La quimiotaxonomía o qimiosistemática evalúa la presencia de elementos químicos en especies vegetales, el aspecto químico de la clasificación de las plantas, se basa en sus constituyentes es decir en sus características moleculares. Estas al igual que las características geomorfológicas son controladas químicamente. 
 
 
-Dentro los factores físico químicos las medidas de pH no suelen presetar cambios significativos, en las inmediaciones de las aguas del Canal de Panamá, pese a que se presentan ligeras fluctuaciones en las medidas de este indicador, que en esencia muestran la sensibilidad de las aguas circundantes, este por lo general es regular [@simmonds2002parametros,]. Esto sugiere un grado de adaptabilidad bastante desarrollado por las especies de la familia en cuestión, no solo al medio de la isla, sino tambien de las áreas circundantes. La fenología reprodctiva de la Isla de Barro Colorado ha sido descrita extensamente por algunos autores. Los árboles más grandes presentan un pico de floración entre febrero y junio, y alcanzan un máximo en marzo y abril, justamente al final de la estación seca [@williams2002patrones,]. Tal vez este régimen de floración y de adaptación permitan a las Moraceae mantener una fenología por encima de los patrones físico químicos, en este caso especialmente el pH.
+Dentro de los factores físico químicos las medidas de pH no suelen presentar cambios significativos, en las inmediaciones de las aguas del canal de Panamá, pese a que se presentan ligeras fluctuaciones en las medidas de este indicador, que en esencia muestran el comportamiento de las aguas circundantes, este por lo general es regular [@simmonds2002parametros,]. Esto sugiere un grado de adaptabilidad bastante desarrollado por las especies de la familia en cuestión, no solo al medio de la isla, sino tambien de las áreas circundantes. La fenología reprodctiva de la isla de Barro Colorado ha sido descrita extensamente por algunos autores. Los árboles más grandes presentan un pico de floración entre febrero y junio, y alcanzan un máximo en marzo y abril, justamente al final de la estación seca [@williams2002patrones,]. Tal vez este régimen de floración y de adaptación permitan a las Moraceae mantener una fenología por encima de los patrones físico químicos, en este caso especialmente el pH.
 
 
-
-Como pudo verse en los demás bloques que corresponden a las mediciones de asociación, análisis de agrupamiento jerárquico, diversidad, ordenación, y análisis ecológico espacial. La fuerte asociación prevalece en las especies de Moraceae. Algunas variables ambientales como el pH mantienen sun primacía en su modalidad ácida. 
+Como pudo verse en los demás bloques que corresponden a las mediciones de asociación, análisis de agrupamiento jerárquico, diversidad, ordenación, y análisis ecológico espacial. La fuerte asociación prevalece en las especies de Moraceae. Algunas variables ambientales como el pH mantienen su primacía en su modalidad ácida. 
 Pero en todo este trabajo, lo que generalmente prevalece es la similaridad entre sitios que contienen especies, denotado en los diferentes métodos empleados y en las matrices descritas, existe una fuerte cohesión entre individuos similares y abundantes en espacios sumamente reducidos.
 
-Las Matrices de Hellinger, de Spearman, así como la distancia de Jaccard, vienen a hacer síntesis de los niveles de asociación predominantes en la parcela, determinando la disimilaridad, y la similaridad y los contrastes que existen cuando se emplean otros métodos. 
+Las matrices de Hellinger, de Spearman, así como la distancia de Jaccard, vienen a hacer síntesis de los niveles de asociación predominantes en la parcela, determinando la disimilaridad, y la similaridad y los contrastes que existen cuando se emplean otros métodos. 
 
 Nuestro interés se centra, en esta parte, en las condiciones que han creado este espacio insular tan singular, en un tiempo tan breve, en el istmo de Panamá. Si bien sabemos que América es la masa continental que alcanza mayor extensión latitudinal, es probable que en todo el tiempo precedente a la construcción del canal, se dieran las migraciones de especies tanto del norte como del sur. Aunque, una vía interoceánica artificial como lo es el Canal de Panamá, probablemente no provocaría cambios notables en el equilibrio biológico de las comunidades de individuos que poblaban esta parte del continente. 
 
 
-La sostenibilidad de las especies de plantas y animales que allí existen no se puede poner en duda, por las condiciones climáticas que en dicho lugar se mantienen. Es como si tratara de un ambiente controlado y planificado. De modo que las investigaciones siempre tienen una página que arañar, dando motivos de colgarse una mochila y salir a hacer trabajo de campo. 
+La sostenibilidad de las especies de plantas y animales que allí existen no se puede poner en duda, por las condiciones climáticas que en dicho lugar se mantienen. Es como si se tratara de un ambiente controlado y planificado. De modo que las investigaciones siempre tienen una página que arañar, dando motivos de colgarse una mochila y salir a hacer trabajo de campo. 
 Es muy probable que para muchos, BCI siga siendo el secreto mejor guardado dentro de las regiones de investigación más llamativas del mundo,lo cual resulta ser asombroso por el peso que posee el istmo de Panamá a escala comercial.
 
 El presente artículo ha sido un intento por abordar la información básica de la familia de las Moraceae, desde una perspectiva científica, teniendo como escenario la isla de Barro Colorado. En el desarrollo me he volcado más en lo que es la distribución de individuos por hectárea, en una parcela de 50 hectáreas, tanto desde una perspectiva global, como específica, en las condiciones del terreno, así como en la situación geográfica, pretendiendo dar un enfoque lo más abarcador posible, siguiendo estas variables, que han de ser de las más pertinentes para la consideración de un trabajo de campo.
@@ -447,15 +446,15 @@ Panamá es uno de los paises más diversos, ya que tiene el 10% de la fauna y fl
 Las especies de Moraceae por lo general corresponden a árboles de hojas anchas (latifoliados), lo que hace de los suelos de estas especies, lugares prácticamente impenetrables por la radiación solar, algo típico de la selva en cualquiera de sus denominaciones. En el bosque la temperatura promedio es de 27 grados centígrados (80$^\circ$ fahrenheit), y la humedad es bastante alta. 
 
 
-Existen muchos lugares en el Mar Caribe que como BCI, pueden ser grandes laboratorios, a partir de los cuales se pueda hacer ciencia, producir material científico de utilidad, pero la dependencia es peor que el analfabetismo. Por ello tal val tenemos una ciencia estacionaria, incapáz de dar el santo de la libertad.
+Existen muchos lugares en el Mar Caribe que como BCI, pueden ser grandes laboratorios, a partir de los cuales se pueda hacer ciencia, producir material científico de utilidad, pero la dependencia es peor que el analfabetismo. Por ello, tal val tenemos una ciencia estacionaria, incapáz de dar el salto de la libertad.
 
 
-Y se espera que el caudal de inforamción que se genera en las investigaciones alcance a estos lugares, porque la ciencia genera identidad a los lugares y los hace crecer.
-BCI, tiene algo más de 100 años, pero Panamá como nación es más vieja, y no es mi incumbencia el tema político, ni de este artículo. Pero hago la aclaración porque entiendo que se puede crecer en la ciencia, siempre dejando claro que cada pueblo tiene contextos distintos y que el error siempre será tratar de copiar. Este ha sido un trabajo en virtud del interés biológico, y geográfico. Esperando que sea del agrado de quienes puedan leerlo.
+Y se espera que el caudal de inforamción que se genera en las investigaciones alcance a estas regiones, porque la ciencia dispensa identidad a los lugares y los hace crecer.
+BCI, tiene algo más de 100 años, pero Panamá como nación es más vieja, y no es mi incumbencia el tema político, ni de este artículo. Pero hago la aclaración porque entiendo que se puede crecer en la ciencia, siempre dejando claro que cada pueblo tiene contextos distintos y que el error siempre será tratar de copiar. Este ha sido un trabajo en virtud del interés biológico, y geográfico, esperando que sea del agrado de quienes puedan leerlo.
 
 
 # Agradecimientos
-Quiero dedicar todo mi agradecimiento, primero a Dios porque es quien hace posible todas las cosas, luego al maestro José Ramón Martínez Batlle, maestro de la escuela de ciencias geográficas en la  facultad ciencias de la Universidad Autónoma de Santo Domingo, en las áreas de biogeografía, geomorfología, y anteriormente de geología por enrutarnos en este mar de investigación que siempre termina arrojando cosas nuevas. Por último a mis compañeros de carrera, Carolain Pérez Ureña, Ana Hilda Valera, Darihanna Linares y Wilson Robles Rosario, sin ellos esto no habría sido posible, muchas gracias.
+Quiero dedicar todo mi agradecimiento, primero a Dios porque es quien hace posibles todas las cosas, luego al maestro José Ramón Martínez Batlle, maestro de la escuela de ciencias geográficas en la  facultad de ciencias de la Universidad Autónoma de Santo Domingo, en las áreas de biogeografía, geomorfología, y anteriormente de geología por enrutarnos en este mar de investigación que siempre termina arrojando cosas nuevas. Por último a mis compañeros de carrera, Carolain Pérez Ureña, Ana Hilda Valera, Darihanna Linares y Wilson Robles Rosario, sin ellos esto no habría sido posible, muchas gracias.
 
 # Información de soporte
 
